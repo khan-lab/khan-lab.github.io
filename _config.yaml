@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: Computational Cancer Regulatory Genomics Lab
+subtitle: MBZUAI
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,10 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  email: aziz.khan@mbzuai.ac.ae
+  orcid: 0000-0002-6459-6224
+  google-scholar: m23RfrcAAAAJ
+  github: khan-lab
   twitter: YourLabHandle
   youtube: YourLabChannel
 
@@ -29,11 +29,6 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
 
 collections:
   # generate page for each member
