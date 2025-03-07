@@ -4,6 +4,7 @@ subtitle: MBZUAI
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
+baseurl: ""
 proofer: false
 
 # site social media and other links
@@ -11,9 +12,9 @@ links:
   email: aziz.khan@mbzuai.ac.ae
   orcid: 0000-0002-6459-6224
   google-scholar: m23RfrcAAAAJ
-  github: khan-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  github: asntech
+  # twitter: YourLabHandle
+  # youtube: YourLabChannel
 
 ### jekyll settings
 
