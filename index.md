@@ -1,6 +1,6 @@
 ---
 ---
-## We develop and use cutting-edge **open-source** tools, methods, and resources to analyze, integrate, and interpret large-scale *multi-omics* and *multi-ethnic* data; and to understand **gene regulation** and decipher the role of the **non-coding genome** in **advancing precision medicine**.
+## We develop and use cutting-edge **open-source** tools, methods, and resources to *analyze*, *integrate*, and *interpret* large-scale **diverse multi-omics** data; and to understand **gene regulation** and decipher the role of the non-coding **regulatory genome** in advancing **precision medicine**.
 
 {% include section.html %}
 
@@ -8,7 +8,7 @@
 
 {% capture text %}
 
-Ouresearch bridges computational biology, (epi)genomics, machine learning, and data science to understand gene regulation in diseases such as cancer. We published high-impact peer-reviewed research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
+Our research bridges computational biology, (epi)genomics, machine learning, and data science to understand gene regulation in diseases such as cancer. We publish high-impact research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
 
 {%
   include button.html
@@ -16,7 +16,6 @@ Ouresearch bridges computational biology, (epi)genomics, machine learning, and d
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-
 %}
 
 {% endcapture %}
@@ -55,12 +54,12 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {% capture text %}
 
-We are a dedicated team of responsible researchers who push the frontier of computational cancer genomics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+We are a dedicated team of responsible researchers who advance the frontier of computational cancer genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="join"
+  text="Join our team"
   icon="fa-solid fa-arrow-right"
   flip=true
 
@@ -71,7 +70,7 @@ We are a dedicated team of responsible researchers who push the frontier of comp
 {%
   include feature.html
   image="images/mbzuai_team.jpg"
-  link="team"
-  title="Nurturing the next generation of young scientists"
+  link="join"
+  title="Training the next generation of scientists"
   text=text
 %}
