@@ -104,3 +104,12 @@
   repo: asntech/pyjaspar
   tags:
     - software
+
+- title: Intervene ShinyApp
+  subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
+  image: images/intervene-web.png
+  link: https://github.com/asntech/intervene
+  description: 
+  repo: asntech/intervene-shiny
+  tags:
+    - web-server

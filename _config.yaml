@@ -1,12 +1,13 @@
 # site properties and page defaults
 title: Computational Cancer Regulatory Genomics Lab
 subtitle: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-description: 
+description: Khan lab at MBZUAI develops and use cutting-edge open-source tools, methods, and resources to analyze, integrate, and interpret large-scale multi-omics and multi-ethnic data to advance precision medicine.
 header: images/background.jpg
 footer: images/footer.jpg
 logo: images/mbzuai_logo.png
 proofer: false
-baseurl: ""
+baseurl: "/"
+url: https://khan-lab.github.io/
 
 # site social media and other links
 links:
