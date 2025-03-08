@@ -1,10 +1,12 @@
 # site properties and page defaults
 title: Computational Cancer Regulatory Genomics Lab
-subtitle: MBZUAI
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+subtitle: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+description: 
 header: images/background.jpg
-footer: images/background.jpg
+footer: images/footer.jpg
+logo: images/mbzuai_logo.png
 proofer: false
+baseurl: ""
 
 # site social media and other links
 links:
@@ -12,7 +14,7 @@ links:
   orcid: 0000-0002-6459-6224
   google-scholar: m23RfrcAAAAJ
   github: asntech
-  # twitter: YourLabHandle
+  twitter: khanaziz84
   # youtube: YourLabChannel
 
 ### jekyll settings

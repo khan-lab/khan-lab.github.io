@@ -2,14 +2,12 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Meet our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Meet Our Team
+We are a dedicated team of responsible researchers that want to push the frontier of computational cancer genomics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 

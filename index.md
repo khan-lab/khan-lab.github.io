@@ -1,22 +1,6 @@
 ---
 ---
-
-# Lab Website Template
-
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+## We develop and use cutting-edge **open-source** tools, methods, and resources to analyze, visualize, and interpret large-scale *multi-omic* and *multi-ethnic* data, and to understand **gene regulation** and decipher the role of the **non-coding genome** in **advancing precision medicine**.
 
 {% include section.html %}
 
@@ -24,7 +8,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We published high-impact peer-reviewed research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
 
 {%
   include button.html
@@ -32,39 +16,38 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/mbzuai_2.jpg"
   link="research"
-  title="Our Research"
+  title="We bridge biology, (epi)genomics, AI, and data science"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We strongly believe in global access to open and reproducible science. Our tools, software, and resources are openly licensed and freely available for all to use and build upon.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="tools"
+  text="Browse our open source tools"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/future-research.png"
+  link="tools"
+  title="Reproducibility and open science is our foundation"
   flip=true
   style="bare"
   text=text
@@ -72,23 +55,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are a dedicated team of responsible researchers that want to push the frontier of computational cancer genomics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 {%
   include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/mbzuai_team.jpg"
   link="team"
-  title="Our Team"
+  title="Our team is international and diverse"
   text=text
 %}
