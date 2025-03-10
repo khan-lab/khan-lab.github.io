@@ -10,6 +10,12 @@ We are a dedicated team of responsible researchers that want to push the frontie
 
 {% include section.html %}
 
+{%
+  include alert.html
+  type="info"
+  content="We are hiring at all levels. Please send your CV with a cover email explaining your interest."
+%}
+
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
@@ -34,7 +40,7 @@ We are hiring at all levels: Research Associates, Postdocs, PhD and Master's stu
 ## Funding
 
 {% capture content %}
-[![MBZUAI](https://upload.wikimedia.org/wikipedia/en/5/55/Mohamed_bin_Zayed_University_of_Artificial_Intelligence_logo.png)](https://mbzuai.ac.ae/)
+[![MBZUAI](https://upload.wikimedia.org/wikipedia/en/5/55/Mohamed_bin_Zayed_University_of_Artificial_Intelligence_logo.png)](https://mbzuai.ac.ae)
 
 {% endcapture %}
 

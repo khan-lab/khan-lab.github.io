@@ -51,7 +51,7 @@
 
 - title: mCrossBase
   subtitle: A database of RNA-binding proteins binding motifs and crosslink sites
-  image: images/rest-api.jpg
+  image: images/mCross_logo.png
   link: https://zhanglab.c2b2.columbia.edu/mCrossBase/
   description: 
   repo: asntech/mCrossBase
@@ -61,7 +61,7 @@
 
 - title: ith.Variant
   subtitle: somatic variant detection from multi-sampled genomic WGS/WES data of tumors
-  image: images/rest-api.jpg
+  image: images/cli.png
   link: https://github.com/SunPathLab/ith.Variant
   description: 
   repo: SunPathLab/ith.Variant
@@ -70,7 +70,7 @@
 
 - title: BiasAway
   subtitle: A tool to generate composition-matched background sequence set
-  image: images/rest-api.jpg
+  image: images/cli.png
   link: https://github.com/asntech/biasaway
   description: 
   repo: asntech/biasaway
@@ -89,7 +89,7 @@
 
 - title: imPROSE
   subtitle: an integrated methods to predict super-enhancers
-  image: images/rest-api.jpg
+  image: images/cli.png
   link: https://asntech.github.io/improse
   description: 
   repo: asntech/improse
@@ -98,7 +98,7 @@
 
 - title: pyJASPAR
   subtitle: A Pythonic interface to JASPAR transcription factor motifs
-  image: images/rest-api.jpg
+  image: images/cli.png
   link: https://github.com/asntech/pyjaspar
   description: 
   repo: asntech/pyjaspar
@@ -107,8 +107,8 @@
 
 - title: Intervene ShinyApp
   subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
-  image: images/intervene-web.png
-  link: https://github.com/asntech/intervene
+  image: images/intervene-web-app.png
+  link: https://github.com/asntech/intervene/
   description: 
   repo: asntech/intervene-shiny
   tags:

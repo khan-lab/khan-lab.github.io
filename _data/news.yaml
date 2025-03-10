@@ -1,0 +1,32 @@
+
+# Add the latest news updates here, such as:
+# - New team members joining
+# - Preprints or publications
+# - Grants and funding announcements
+# - Awards, invited talks and achievements
+# - Major lab accomplishments
+#
+# If there is an external link (e.g., to a journal or news article), add it in the `link` field.
+# Otherwise, leave `link` blank.
+# Please add the new entries on the top although these are sorted by date. 
+
+
+- title: Talk at NYU Abu Dhabi Campus
+  date: 2025-02-25
+  description: Aziz was invited to speak at the Center for Genomics and Systems Biology, New York University Abu Dhabi (NYUAD) Biology Seminar Series.
+  url: 
+
+- title: Talk at NUST Islamabad
+  date: 2025-02-17
+  description: Aziz was invited to speak at the School of Interdisciplinary Engineering & Science (SINES), NUST iTalks Seminar Series.
+  url: 
+
+- title: Talk at LUMS Lahore
+  date: 2025-02-14
+  description: Aziz was invited to speak at the Syed Babar Ali School of Science and Engineering (SBASSE), LUMS Life Sciences Seminar Series.
+  url: 
+
+- title: New Lab, new Continent, and new begninigns
+  date: 2025-02-01
+  description: Excited to start the Computational Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department.
+  url: 

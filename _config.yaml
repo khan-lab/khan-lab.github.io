@@ -45,6 +45,9 @@ collections:
   # generate page for each post
   posts:
     output: true
+  news:
+    output: true
+    permalink: /news/:path/
 
 # jekyll plugins
 plugins:
