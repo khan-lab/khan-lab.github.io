@@ -711,35 +711,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/46/D1/2/m_cover.gif?Expires=1744459365&Signature=g6NUrK6VKf1dcsBKINZe6ug45Z5UOL9w5COuRAuVNT36P2-zA-XPIYvgwozhHbKSfLx9KMU~QLnRTDrBQtXoqFmOL34beWHhE10xMb8gghA3LpVquyxlxrH5fQJ-375mPCmH0SOGjeMur8fxmcwaDvdVafKyTYtUhEKMMjpObkb84GEiv15rjg3TK5v3rQLq041QE0qdZm57OlDrfYIDXdv4p1rTR1iMAkqiaaUh~c2QkVVopPhjItKzn4hJo4tubmojbJwiFf-Srv9B9xWFH68jnn4b3wv5s7s~uH50GDuwzH9joTICTS7l1eECgluNsIMh4aV0Dx8mzDrbF7XY0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-- id: pmid:29161433
-  title: 'JASPAR 2018: update of the open-access database of transcription factor
-    binding profiles and its web framework.'
-  authors:
-  - Aziz Khan
-  - Oriol Fornes
-  - Arnaud Stigliani
-  - Marius Gheorghe
-  - Jaime A Castro-Mondragon
-  - Robin van der Lee
-  - Adrien Bessy
-  - "Jeanne Ch\xE8neby"
-  - Shubhada R Kulkarni
-  - Ge Tan
-  - Damir Baranasic
-  - David J Arenillas
-  - Albin Sandelin
-  - Klaas Vandepoele
-  - Boris Lenhard
-  - "Beno\xEEt Ballester"
-  - Wyeth W Wasserman
-  - "Fran\xE7ois Parcy"
-  - Anthony Mathelier
-  publisher: Nucleic acids research
-  date: '2018-01-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29161433
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btx804
   title: 'JASPAR RESTful API: accessing JASPAR data from any programming language'
   authors:
@@ -767,6 +738,18 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2017-07-06'
   link: https://doi.org/gkt3tm
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/105262
+  title: Integrative analysis reveals genomic and epigenomic signatures of super-enhancers
+    and its constituents
+  authors:
+  - Aziz Khan
+  - Xuegong Zhang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-02-02'
+  link: https://doi.org/gkxc34
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -935,18 +918,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2017-10-21'
   link: https://doi.org/gcjkpk
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/105262
-  title: Integrative analysis reveals genomic and epigenomic signatures of super-enhancers
-    and its constituents
-  authors:
-  - Aziz Khan
-  - Xuegong Zhang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-02-02'
-  link: https://doi.org/gkxc34
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
