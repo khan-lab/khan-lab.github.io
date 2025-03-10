@@ -20,6 +20,51 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
+- id: doi:10.1038/s43018-024-00831-z
+  title: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways
+    associated with early tumorigenesis
+  authors:
+  - Edward D. Esplin
+  - Casey Hanson
+  - Si Wu
+  - Aaron M. Horning
+  - Nasim Barapour
+  - Stephanie A. Nevins
+  - Lihua Jiang
+  - "K\xE9vin Contrepois"
+  - Hayan Lee
+  - Tuhin K. Guha
+  - Zheng Hu
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Winston R. Becker
+  - Bahareh Bahmani
+  - Aziz Khan
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Jeanne Shen
+  - Samuel Lancaster
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - Christina Curtis
+  - William J. Greenleaf
+  - James M. Ford
+  - Michael P. Snyder
+  publisher: Nature Cancer
+  date: '2024-10-30'
+  link: https://doi.org/g87hn8
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.15.24311949
   title: Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression
     to Breast Cancer
