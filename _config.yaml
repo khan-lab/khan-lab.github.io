@@ -6,8 +6,8 @@ header: images/background.jpg
 footer: images/footer.jpg
 logo: images/mbzuai_logo.png
 proofer: false
-baseurl: "/"
-url: https://khan-lab.github.io/
+url: https://khan-lab.github.io
+baseurl:
 
 # site social media and other links
 links:
@@ -45,9 +45,7 @@ collections:
   # generate page for each post
   posts:
     output: true
-  news:
-    output: true
-    permalink: /news/:path/
+
 
 # jekyll plugins
 plugins:
