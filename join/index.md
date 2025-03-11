@@ -13,6 +13,8 @@ We are looking for computational postdoctoral candiates interested in gene regul
 
 MBZUAI has discipline-specific MS and PhD programs in Machine Learning, Computer Science, Data and Statistics. The MS/PhD program in Computational Biology program is coming in 2026. You can find more details and application deadline about the MBZUAI graduate programs [here](https://mbzuai.ac.ae/study/admission-process). If you would like to join our lab, you need to have been accepted by a MBZUAI program first.
 
+Prospective PhD students who are at the last year of their masters can apply for the [Graduate Research Fellowship Program](https://mbzuai.ac.ae/graduate-research-fellowship/). This program offers master’s students and pre-doctoral researchers the opportunity to engage in short-term research projects with MBZUAI faculty including the computational biology. 
+
 If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Aziz]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
 
 ### Undergraduate Students

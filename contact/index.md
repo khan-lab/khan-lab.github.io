@@ -10,7 +10,7 @@ nav:
 We are at the Computational Biology Department at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Masdar City, Abu Dhabi, UAE. We are based in the first floor or Building 1B at MBZUAI campus.
 
 
-## We are hiring at all levels: Research Associates, Postdocs, PhD and Master's students, and Visiting Researchers. Please send your CV with a cover email explaining your interest.
+#### If you're interested to join to the team, please check the open positions and options [here](/join).
 
 {%
   include button.html

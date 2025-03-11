@@ -13,7 +13,7 @@ We are a dedicated team of responsible researchers that want to push the frontie
 {%
   include alert.html
   type="info"
-  content="We are hiring at all levels. Please send your CV with a cover email explaining your interest."
+  content="We are hiring at all levels. Please send your CV with a cover email explaining your interests and fit."
 %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
