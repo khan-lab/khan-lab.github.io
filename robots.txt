@@ -1,1 +1,1 @@
-Sitemap: https://khan-lab.github.io/sitemap.xml
+Sitemap: http://khan-lab.org/sitemap.xml
