@@ -1,5 +1,8 @@
 ---
-title: Join the Team
+title: Positions
+nav:
+  order: 4
+  tooltip: Join the team
 ---
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team

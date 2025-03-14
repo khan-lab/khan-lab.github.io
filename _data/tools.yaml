@@ -41,7 +41,7 @@
 
 - title: JASPAR RESTful API
   subtitle: Programmatically accessing JASPAR data from any programming language
-  image: images/rest-api.jpg
+  image: images/jaspar-api.png
   link: https://jaspar.elixir.no/api/
   description: 
   repo: asntech/jaspar
@@ -61,7 +61,7 @@
 
 - title: ith.Variant
   subtitle: somatic variant detection from multi-sampled genomic WGS/WES data of tumors
-  image: images/cli.png
+  image: images/ith.variant.jpg
   link: https://github.com/SunPathLab/ith.Variant
   description: 
   repo: SunPathLab/ith.Variant

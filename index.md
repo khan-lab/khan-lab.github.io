@@ -4,7 +4,8 @@
 
 {% include section.html %}
 
-## Our highlights
+## Our vision and mission
+> #### "**Science and everyday life cannot and should not be separated**." *— Rosalind Franklin*
 
 {% capture text %}
 
@@ -54,7 +55,7 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {% capture text %}
 
-We are a dedicated team of responsible researchers who advance the frontier of computational cancer genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
+We are building a dedicated team of responsible researchers to advance the frontier of computational cancer genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
 
 {%
   include button.html

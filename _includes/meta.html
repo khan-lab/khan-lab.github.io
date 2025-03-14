@@ -23,7 +23,7 @@
 {% assign description = page.description | default: site.description %}
 {% if site.subtitle %}
   {% capture description -%}
-    {{ site.subtitle }}. {{ description }}
+    {{ description }}
   {%- endcapture %}
 {% endif %}
 {% capture url -%}

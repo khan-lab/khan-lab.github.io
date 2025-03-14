@@ -62,4 +62,24 @@
 - id: pmid:33135764
   remove: true
 
+- id: pmid:36586123
+  remove: true
+
+- id: ppr:PPR342641
+  remove: true
+
+- id: ppr:PPR373963
+  remove: true  
+
+- id: doi:10.1101/105262
+  remove: true  
+
+- id: doi:10.1101/160184
+  remove: true 
+
+- id: doi:10.1101/394205
+  remove: true 
   
+- id: doi:10.1101/428615
+  remove: true 
+

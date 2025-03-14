@@ -164,19 +164,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:36586123
-  title: Somatic variant detection from multi-sampled genomic sequencing data of tumor
-    specimens using the ith.Variant pipeline.
-  authors:
-  - Nicole Maeser
-  - Aziz Khan
-  - Ruping Sun
-  publisher: STAR protocols
-  date: '2022-12-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36586123
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:36400020
   title: 'Molecular classification and biomarkers of clinical outcome in breast ductal
     carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts.'
@@ -272,68 +259,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: ppr:PPR373963
-  title: 'DCIS genomic signatures define biology and clinical outcome: Human Tumor
-    Atlas Network (HTAN) analysis of TBCRC 038 and RAHBT cohort'
-  authors:
-  - Siri Strand
-  - "Bel\xE9n Rivero-Guti\xE9rrez"
-  - Kathleen Houlahan
-  - Jose Seoane
-  - Lorraine King
-  - Tyler Risom
-  - Lunden Simpson
-  - Sujay Vennam
-  - Aziz Khan
-  - Luis Cisneros
-  - Timothy Hardman
-  - Bryan Harmon
-  - Fergus Couch
-  - Kristalyn Gallagher
-  - Mark Kilgore
-  - Shi Wei
-  - Angela DeMichele
-  - Tari King
-  - Priscilla McAuliffe
-  - Julie Nangia
-  - Joanna Lee
-  - Jennifer Tseng
-  - Anna Maria Storniolo
-  - Alastair Thompson
-  - Gaorav Gupta
-  - Robyn Burns
-  - Deborah Veis
-  - Katherine DeSchryver
-  - Chunfang Zhu
-  - Magdalena Matusiak
-  - Jason Wang
-  - Shirley Zhu
-  - Jen Tappenden
-  - Daisy Yi Ding
-  - Dadong Zhang
-  - Jingqin Luo
-  - Shu Jiang
-  - Sushama Varma
-  - Lauren Anderson
-  - Cody Straub
-  - Sucheta Srivastava
-  - Christina Curtis
-  - Rob Tibshirani
-  - Robert Michael Angelo
-  - Allison Hall
-  - Kouros Owzar
-  - Kornelia Polyak
-  - Carlo Maley
-  - Jeffrey Marks
-  - Graham Colditz
-  - Shelley Hwang
-  - Robert West
-  publisher: ''
-  date: '2021-01-01'
-  link: https://doi.org/10.1101/2021.06.16.448585
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:34174819
   title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
     species.'
@@ -346,48 +271,6 @@
   publisher: BMC genomics
   date: '2021-06-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34174819
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: ppr:PPR342641
-  title: Multi-omic Analysis of Familial Adenomatous Polyposis Reveals Molecular Pathways
-    and Polyclonal Spreading Associated with Early Tumorigenesi
-  authors:
-  - Michael Snyder
-  - Aaron Horning
-  - Edward Esplin
-  - Si Wu
-  - Casey Hanson
-  - Nasim Bararpour
-  - Stephanie Nevins
-  - Lihua Jiang
-  - Kevin Contrepoi
-  - Hayan Lee
-  - Tuhin Guha
-  - Zheng Hu
-  - Rozelle Laquindanum
-  - Meredith Mills
-  - Hassan Chaib
-  - Roxanne Chiu
-  - Ruiqi Jian
-  - Joanne Chan
-  - Mathew Ellenberger
-  - Aziz Khan
-  - Basil Michael
-  - Bahareh Bahmani
-  - Glen Esplin
-  - Jeanne Shen
-  - Samuel Lancaster
-  - Uri Ladabaum
-  - Anshul Kundaje
-  - Teri Longacre
-  - William Greenleaf
-  - Christina Curtis
-  - James Ford
-  - Winston Becker
-  publisher: ''
-  date: '2021-01-01'
-  link: https://doi.org/10.21203/rs.3.rs-515393/v1
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -629,24 +512,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/428615
-  title: Modeling RNA-binding protein specificity <i>in vivo</i> by precisely registering
-    protein-RNA crosslink sites
-  authors:
-  - Huijuan Feng
-  - Suying Bao
-  - Sebastien M. Weyn-Vanhentenryck
-  - Aziz Khan
-  - Justin Wong
-  - Ankeeta Shah
-  - Elise D. Flynn
-  - Chaolin Zhang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-09-27'
-  link: https://doi.org/gkvrzs
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1080/15592294.2018.1514231
   title: Super-enhancers are transcriptionally more active and cell type-specific
     than stretch enhancers
@@ -657,21 +522,6 @@
   publisher: Epigenetics
   date: '2018-09-02'
   link: https://doi.org/g87ff8
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/394205
-  title: A map of direct TF-DNA interactions in the human genome
-  authors:
-  - Marius Gheorghe
-  - Geir Kjetil Sandve
-  - Aziz Khan
-  - "Jeanne Ch\xE8neby"
-  - Benoit Ballester
-  - Anthony Mathelier
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-08-17'
-  link: https://doi.org/gkwkbx
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -778,29 +628,6 @@
   tags:
   - open-source
   - software
-- id: doi:10.1101/160184
-  title: 'JASPAR RESTful API: accessing JASPAR data from any programming language'
-  authors:
-  - Aziz Khan
-  - Anthony Mathelier
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-07-06'
-  link: https://doi.org/gkt3tm
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/105262
-  title: Integrative analysis reveals genomic and epigenomic signatures of super-enhancers
-    and its constituents
-  authors:
-  - Aziz Khan
-  - Xuegong Zhang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-02-02'
-  link: https://doi.org/gkxc34
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/207092
   title: 'Bioconda: A sustainable and comprehensive software distribution for the
     life sciences'
