@@ -620,7 +620,7 @@
   orcid: 0000-0002-6459-6224
   plugin: sources.py
   file: sources.yaml
-  image: images/bioinformatics_cover.jpeg
+  image: images/publications/bioinformatics_cover.jpeg
   buttons:
   - type: source
     text: Source Code
@@ -852,7 +852,7 @@
   publisher: Bioinformatics
   date: '2020-11-02'
   link: https://doi.org/g87ft6
-  image: images/bioinformatics_cover.jpeg
+  image: images/publications/bioinformatics_cover.jpeg
   buttons:
   - type: source
     text: Source Code

@@ -1,7 +1,7 @@
 - title: Intervene
   subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
   group: featured
-  image: images/intervene-cli.png
+  image: images/tools/intervene-cli.png
   link: https://github.com/asntech/intervene
   description: 
   repo: asntech/intervene
@@ -11,7 +11,7 @@
 - title: JASPAR database
   subtitle: The open and high-quality transcription factor binding profile database
   group: featured
-  image: images/jaspar_2018.png
+  image: images/tools/jaspar_2018.png
   link: https://github.com/
   description: 
   repo: asntech/jaspar
@@ -22,7 +22,7 @@
 
 - title: UniBind
   subtitle: A map of direct TF-DNA interactions in the human genome.
-  image: images/UniBind.png
+  image: images/tools/UniBind.png
   link: https://unibind.uio.no/
   description: 
   repo: greenelab/lab-website-template
@@ -31,7 +31,7 @@
 
 - title: dbSUPER
   subtitle: The first integrated and interactive database of super-enhancers
-  image: images/dbsuper.png
+  image: images/tools/dbsuper.png
   link: https://asntech.org/dbsuper/
   description: 
   repo: asntech/dbsuper
@@ -41,7 +41,7 @@
 
 - title: JASPAR RESTful API
   subtitle: Programmatically accessing JASPAR data from any programming language
-  image: images/jaspar-api.png
+  image: images/tools/jaspar-api.png
   link: https://jaspar.elixir.no/api/
   description: 
   repo: asntech/jaspar
@@ -51,7 +51,7 @@
 
 - title: mCrossBase
   subtitle: A database of RNA-binding proteins binding motifs and crosslink sites
-  image: images/mCross_logo.png
+  image: images/tools/mCross_logo.png
   link: https://zhanglab.c2b2.columbia.edu/mCrossBase/
   description: 
   repo: asntech/mCrossBase
@@ -61,7 +61,7 @@
 
 - title: ith.Variant
   subtitle: somatic variant detection from multi-sampled genomic WGS/WES data of tumors
-  image: images/ith.variant.jpg
+  image: images/tools/ith.variant.jpg
   link: https://github.com/SunPathLab/ith.Variant
   description: 
   repo: SunPathLab/ith.Variant
@@ -70,7 +70,7 @@
 
 - title: BiasAway
   subtitle: A tool to generate composition-matched background sequence set
-  image: images/cli.png
+  image: images/tools/cli.png
   link: https://github.com/asntech/biasaway
   description: 
   repo: asntech/biasaway
@@ -80,7 +80,7 @@
 
 - title: ECRcentral
   subtitle: A central platform for early career researchers community
-  image: images/ecrcentral-logo.png
+  image: images/tools/ecrcentral-logo.png
   link: https://ecrcentral.org
   description: 
   repo: ecrcentral/ecrcentral
@@ -89,7 +89,7 @@
 
 - title: imPROSE
   subtitle: an integrated methods to predict super-enhancers
-  image: images/cli.png
+  image: images/tools/cli.png
   link: https://asntech.github.io/improse
   description: 
   repo: asntech/improse
@@ -98,7 +98,7 @@
 
 - title: pyJASPAR
   subtitle: A Pythonic interface to JASPAR transcription factor motifs
-  image: images/cli.png
+  image: images/tools/cli.png
   link: https://github.com/asntech/pyjaspar
   description: 
   repo: asntech/pyjaspar
@@ -107,7 +107,7 @@
 
 - title: Intervene ShinyApp
   subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
-  image: images/intervene-web-app.png
+  image: images/tools/intervene-web-app.png
   link: https://github.com/asntech/intervene/
   description: 
   repo: asntech/intervene-shiny

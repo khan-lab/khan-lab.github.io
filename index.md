@@ -23,7 +23,7 @@ Our research bridges computational biology, (epi)genomics, machine learning, and
 
 {%
   include feature.html
-  image="images/mbzuai_2.jpg"
+  image="images/home/mbzuai_2.jpg"
   link="publications"
   title="We bridge biology, multi-omics, AI, and data science"
   text=text
@@ -45,7 +45,7 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {%
   include feature.html
-  image="images/infrastruture.jpg"
+  image="images/home/open-infrastructure.jpeg"
   link="tools"
   title="Open science and reproducibility is our foundation"
   flip=true
@@ -70,7 +70,7 @@ We are building a dedicated team of responsible researchers to advance the front
 
 {%
   include feature.html
-  image="images/mbzuai_team.jpg"
+  image="images/home/team.jpeg"
   link="join"
   title="Training the next generation of scientists"
   text=text

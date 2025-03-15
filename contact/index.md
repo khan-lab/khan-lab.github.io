@@ -32,8 +32,8 @@ The Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab is loca
 
 {%
   include figure.html
-  image="images/mbzuai_1.jpg"
-  caption="MBZUAI Campus"
+  image="images/building1b.jpg"
+  caption="Building 1B, MBZUAI campus"
 %}
 
 {% endcapture %}
@@ -42,8 +42,8 @@ The Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab is loca
 
 {%
   include figure.html
-  image="images/mbzuai_2.jpg"
-  caption="MBZUAI Campus"
+  image="images/home/team.jpeg"
+  caption="Computational Biology Lab space, MBZUAI"
 %}
 
 {% endcapture %}

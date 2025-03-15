@@ -10,7 +10,7 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/46/D1/2/m_cover.gif?Expires=1744459365&Signature=g6NUrK6VKf1dcsBKINZe6ug45Z5UOL9w5COuRAuVNT36P2-zA-XPIYvgwozhHbKSfLx9KMU~QLnRTDrBQtXoqFmOL34beWHhE10xMb8gghA3LpVquyxlxrH5fQJ-375mPCmH0SOGjeMur8fxmcwaDvdVafKyTYtUhEKMMjpObkb84GEiv15rjg3TK5v3rQLq041QE0qdZm57OlDrfYIDXdv4p1rTR1iMAkqiaaUh~c2QkVVopPhjItKzn4hJo4tubmojbJwiFf-Srv9B9xWFH68jnn4b3wv5s7s~uH50GDuwzH9joTICTS7l1eECgluNsIMh4aV0Dx8mzDrbF7XY0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1093/bioinformatics/btx804
-  image: images/bioinformatics_cover.jpeg
+  image: images/publications/bioinformatics_cover.jpeg
   buttons:
     - type: source
       text: Source Code
@@ -26,7 +26,7 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41562-021-01067-y/MediaObjects/41562_2021_1067_Fig1_HTML.png
 
 - id: doi:10.1093/bioinformatics/btaa928
-  image: images/bioinformatics_cover.jpeg
+  image: images/publications/bioinformatics_cover.jpeg
   buttons:
     - type: source
       text: Source Code
@@ -79,7 +79,7 @@
 
 - id: doi:10.1101/394205
   remove: true 
-  
+
 - id: doi:10.1101/428615
   remove: true 
 
