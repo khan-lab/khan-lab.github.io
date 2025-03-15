@@ -5,7 +5,7 @@
 {% include section.html %}
 
 ## Our vision and mission
-> #### "**Science and everyday life cannot and should not be separated**." *— Rosalind Franklin*
+> ##### "**Science and everyday life cannot and should not be separated**." *— Rosalind Franklin*
 
 {% capture text %}
 

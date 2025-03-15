@@ -4,7 +4,7 @@
 $logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
-$collapse: 700px;
+$collapse: 800px;
 $sticky: true;
 
 header {
@@ -149,6 +149,8 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    width: 100%;
+    aspect-ratio: 3 / 1;
     flex-shrink: 0;
   }
 

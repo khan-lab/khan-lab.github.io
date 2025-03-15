@@ -1,4 +1,6 @@
 {% assign filename = page.path | split: "/" | last %}
+
+
 {% if page.name and page.name != filename %}
   {% assign title = page.name %}
 {% elsif page.title %}
@@ -7,18 +9,17 @@
   {% assign title = nil %}
 {% endif %}
 
-{% assign title = title | xml_escape %}
-
 {% assign fulltitle = "" | split: "," %}
 {% if title and title != "" %}
   {% assign fulltitle = fulltitle | push: title %}
 {% endif %}
 {% if site.title and site.title != "" %}
-  {% assign fulltitle = fulltitle | push: site.title %}
+  {% assign fulltitle = fulltitle | push: site.subtitle %}
 {% endif %}
 {% assign fulltitle = fulltitle | join: " | " %}
 
 {% assign subtitle = site.subtitle %}
+{% assign title = subtitle %}
 
 {% assign description = page.description | default: site.description %}
 {% if site.subtitle %}
