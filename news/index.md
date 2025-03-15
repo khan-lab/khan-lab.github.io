@@ -13,9 +13,12 @@ title: News
         <i> {{ post.date | date: "%B %d, %Y" }} </i> </span>
         <br>
         <i>{{ post.description }} </i>
-        {{ post.url }}
+        {% if post.url %}
+        <a href="{{ post.url }}">More details...</a>
+        {% endif %}
       </li>
     {% endfor %}
 </ul>
+
 
 

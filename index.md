@@ -85,7 +85,10 @@ We are building a dedicated team of responsible researchers to advance the front
     {% for post in sorted_news limit:3 %}
       <li>
         <strong>{{ post.title }}</strong> – <span> <i> {{ post.date | date: "%B %d, %Y" }} </i></span>
-        <br/> {{ post.description }}
+        <br/> {{ post.description }} 
+        {% if post.url %}
+                <a href="{{ post.url }}">More details...</a>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
