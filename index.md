@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-Our research bridges computational biology, (epi)genomics, machine learning, and data science to understand gene regulation in diseases such as cancer. We publish high-impact research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
+Our research bridges computational biology, multi-omics, machine learning, and data science to understand gene regulation in diseases such as cancer. We publish high-impact research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
 
 {%
   include button.html
