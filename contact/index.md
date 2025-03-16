@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab is located at the Computational Biology Department at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Masdar City, Abu Dhabi, UAE. We are based in the first floor or Building 1B at MBZUAI campus.
+The Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab is located at the Computational Biology Department at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Masdar City, Abu Dhabi, UAE. We are based in the first floor of Building 1B at MBZUAI campus.
 
 
 #### If you're interested to join to the team, please check the open positions and options [here](/join).

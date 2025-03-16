@@ -31,7 +31,7 @@ Our research bridges computational biology, (epi)genomics, machine learning, and
 
 {% capture text %}
 
-We strongly believe in global access to open and reproducible science. Our tools, software, and resources are openly licensed and freely available for all to use and build upon.
+We strongly believe in global access to open and reproducible science. Our tools, software, and resources are openly licensed and freely available for all to use and build upon. By fostering collaboration and transparency, we aim to accelerate scientific discovery and innovation that benefit all.
 
 {%
   include button.html
@@ -55,7 +55,7 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {% capture text %}
 
-We are building a dedicated team of responsible researchers to advance the frontier of computational cancer genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
+We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
 
 {%
   include button.html
