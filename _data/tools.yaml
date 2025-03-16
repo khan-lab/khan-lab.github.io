@@ -1,7 +1,7 @@
 - title: Intervene
   subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
   group: featured
-  image: images/tools/intervene-cli.png
+  image: images/tools/intervene.png
   link: https://github.com/asntech/intervene
   description: 
   repo: asntech/intervene
@@ -12,7 +12,7 @@
   subtitle: The open and high-quality transcription factor binding profile database
   group: featured
   image: images/tools/jaspar_2018.png
-  link: https://github.com/
+  link: https://github.com/asntech/jaspar
   description: 
   repo: asntech/jaspar
   tags:
@@ -25,7 +25,7 @@
   image: images/tools/UniBind.png
   link: https://unibind.uio.no/
   description: 
-  repo: greenelab/lab-website-template
+  repo: https://bitbucket.org/CBGR/unibind/
   tags:
     - resource
 
@@ -107,7 +107,7 @@
 
 - title: Intervene ShinyApp
   subtitle: A tool for intersection and visualization of multiple gene or genomic region sets
-  image: images/tools/intervene-web-app.png
+  image: images/tools/intervene-shiny.png
   link: https://github.com/asntech/intervene/
   description: 
   repo: asntech/intervene-shiny
