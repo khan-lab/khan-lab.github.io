@@ -31,7 +31,7 @@ Our research bridges biology, multi-omics, machine learning, and data science to
 
 {% capture text %}
 
-We strongly believe in global access to open and reproducible science. Our tools, software, and resources are openly licensed and freely available for all to use and build upon. By fostering collaboration and transparency, we aim to accelerate scientific discovery and innovation that benefit all.
+We strongly believe in global access to open and reproducible science. Our tools, software, and resources are openly licensed and freely available for all to use and build upon. By fostering a culture of collaboration and transparency, we aim to accelerate scientific discovery and innovation that benefit all.
 
 {%
   include button.html
