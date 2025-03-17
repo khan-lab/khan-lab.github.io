@@ -1,6 +1,6 @@
 ---
 name: Aziz Khan
-image: https://mbzuai.ac.ae/wp-content/uploads/2025/02/aziz3.jpg
+image: /images/team/aziz.jpg
 role: principal-investigator
 affiliation: MBZUAI
 aliases:
