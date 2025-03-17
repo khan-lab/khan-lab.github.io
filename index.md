@@ -79,7 +79,7 @@ We are building a dedicated team of responsible researchers to advance the front
 {% include section.html %}
 
 {% capture col1 %}
-## Lab latest news
+## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
   <ul>
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
@@ -87,7 +87,7 @@ We are building a dedicated team of responsible researchers to advance the front
         <strong>{{ post.title }}</strong> – <span> <i> {{ post.date | date: "%B %d, %Y" }} </i></span>
         <br/> {{ post.description }} 
         {% if post.url %}
-                <a href="{{ post.url }}">More details...</a>
+                <a href="{{ post.url }}">More...</a>
         {% endif %}
       </li>
     {% endfor %}

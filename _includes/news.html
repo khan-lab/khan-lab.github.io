@@ -1,5 +1,12 @@
-<div id="news">
-    <strong>{{ include.title }}</strong>
-    <span>{{ include.date }}</span>
-    <span>{{ include.description }} <span>
+
+<div style="text-align: left;">
+        <span> <strong>{{ include.title }}</strong> –  
+        <i> {{ include.date | date: "%B %d, %Y" }} </i> </span>
+        <br>
+        <i>{{ include.description }} </i>
+        {% if include.url %}
+        <a href="{{ include.url }}" target="_blank">More...</a>
+        {% endif %}
+        <hr>
 </div>
+
