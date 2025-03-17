@@ -80,21 +80,35 @@ We are building a dedicated team of responsible researchers to advance the front
 
 {% capture col1 %}
 ## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
-  <ul>
+
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
-      <li>
-        <strong>{{ post.title }}</strong> – <span> <i> {{ post.date | date: "%B %d, %Y" }} </i></span>
-        <br/> {{ post.description }} 
-        {% if post.url %}
-                <a href="{{ post.url }}">More...</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-  <a href="/news/">See all news →</a>
+    
+  <div class="news-card">
+    <div class="news-header">
+        <span class="news-title">{{ post.title }}</span>
+        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.date | date: "%B %d, %Y" }} </span>
+    </div>
+    <div class="news-description">
+        {{ post.description }} 
+            {% if post.url %}
+            <a href="{{ post.url }}" target="_blank">More...</a>
+            {% endif %}
+    </div>
+  </div>
+
+    {% endfor %}  
+  
+{%
+  include button.html
+  link="news"
+  text="Read all news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  align=left
+
+%}
 
 {% endcapture %}
-
 
 {% include cols.html col1=col1 %}
