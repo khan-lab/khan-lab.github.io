@@ -111,4 +111,26 @@ We are building a dedicated team of responsible researchers to advance the front
 
 {% endcapture %}
 
+<!-- 
+{% capture col2 %}
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+
+  <bsky-embed
+    username="khanlab.bio"
+    mode=""
+    limit="2"
+    link-target="_blank"
+    link-image="flase"
+    load-more="true"
+    disable-styles="false"
+    custom-styles=".border-slate-300 { border-color: gray; }"
+    date-format='{"type":"absolute","locale":"de-DE","options":{"weekday":"long","year":"numeric","month":"long","day":"numeric"}}'
+  >
+</bsky-embed>
+
+{% endcapture %}
+
+-->
+
 {% include cols.html col1=col1 %}
