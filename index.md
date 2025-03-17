@@ -1,6 +1,6 @@
 ---
 ---
-## We develop and use cutting-edge **open-source** tools, methods, and resources to *analyze*, *integrate*, and *interpret* large-scale **diverse multi-omics** cancer data; and to understand **gene regulation** and decipher the role of the non-coding **regulatory genome** to advance **precision medicine**.
+## We develop and utilize cutting-edge **open-source** tools, methods, and resources to *analyze*, *integrate*, and *interpret* large-scale **diverse multi-omics** cancer data; and to understand **gene regulation** and decipher the role of the non-coding **regulatory genome** to advance **precision medicine**.
 
 {% include section.html %}
 
