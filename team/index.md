@@ -10,19 +10,12 @@ We are a dedicated team of responsible researchers that want to push the frontie
 
 {% include section.html %}
 
-{%
-  include alert.html
-  type="info"
-  content="We are hiring at all levels. Please send your CV with a cover email explaining your interests and fit."
-%}
-
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-
-We are hiring at all levels: Research Associates, Postdocs, PhD and Master's students, and Visiting Researchers. Please send your CV with a cover email explaining your interest.
+#### We are hiring at all levels: Research Associates, Postdocs, PhD and Master's students, and Visiting Researchers. Please send your CV with a cover email explaining your interest.
 
 {%
   include button.html
@@ -37,6 +30,7 @@ We are hiring at all levels: Research Associates, Postdocs, PhD and Master's stu
 
 {% include section.html %}
 
+<!-- 
 ## Funding
 
 {% capture content %}
@@ -45,3 +39,4 @@ We are hiring at all levels: Research Associates, Postdocs, PhD and Master's stu
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+-->

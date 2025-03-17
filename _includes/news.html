@@ -3,11 +3,10 @@
         <span> <strong>{{ include.title }}</strong> –  
         <i> {{ include.date | date: "%B %d, %Y" }} </i> </span>
         <br>
-        <small>
-            <i>{{ include.description }} </i>
+            {{ include.description }} 
             {% if include.url %}
             <a href="{{ include.url }}" target="_blank">More...</a>
             {% endif %}
-        </small>
-        <hr style="margin-top: 0; border: none; height: 1px; background-color: rgb(146, 143, 143);">
+
+        <hr style="margin-top: 2px; border: none; height: 1px; background-color: rgb(213, 205, 205);">
 </div>
