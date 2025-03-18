@@ -6,16 +6,17 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Meet Our Team
-We are a dedicated team of responsible researchers that want to push the frontier of computational cancer genomics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics. 
+We are hiring at [all levels](/join/). Please send your CV with a cover email explaining your interest and fit.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/building1b.jpg" dark=true %}
 
-#### We are hiring at all levels: Research Associates, Postdocs, PhD and Master's students, and Visiting Researchers. Please send your CV with a cover email explaining your interest.
+#### <center>We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.</center>
 
 {%
   include button.html
