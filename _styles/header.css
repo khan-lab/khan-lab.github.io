@@ -28,10 +28,11 @@ header a {
 
 .logo {
   height: 30px;
+  width: auto;
 }
 
 .logo > * {
-  width: unset;
+  width: auto;
   height: 100%;
 }
 
@@ -100,7 +101,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 950px) {
   header:not([data-big]) {
     justify-content: flex-end;
   }
@@ -131,7 +132,6 @@ header[data-big] .home {
 header[data-big] .logo {
   height: 60px;
   width: 100%;
-  aspect-ratio: 3/1;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
@@ -144,6 +144,12 @@ header[data-big] .title {
 }
 header[data-big] .subtitle {
   font-size: var(--large);
+}
+
+@media (max-width: 500px) {
+  .title-text {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=header.css.map */
