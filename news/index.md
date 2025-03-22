@@ -13,7 +13,7 @@ nav:
 
 {% endcapture %}
 
-
+<!-- 
 {% capture col2 %}
 ###  {% include icon.html icon="fa-brands fa-bluesky" %}[BlueSky](https://bsky.app/profile/khanlab.bio) feeds
 
@@ -35,6 +35,8 @@ nav:
 </div>
 
 {% endcapture %}
+
+--->
 
 {% include cols.html col1=col1 col2=col2 %}
 

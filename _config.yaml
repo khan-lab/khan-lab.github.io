@@ -1,6 +1,6 @@
 # site properties and page defaults
-title:  <b><font color="#2994c9">KHAN</font></b>Lab.<b><font color="#a0efb9">bio</font></b>
-subtitle: Computational Biology and Cancer Regulatory Genomics Lab
+title:  <b><font color="#2b94c8">KHAN</font></b><font color="#6eceec">Lab</font><b><font color="#3ab190">.bio</font></b>
+subtitle: Computational Biology & Cancer Regulatory Genomics Lab
 socialtitle: Computational Biology and Cancer Regulatory Genomics Lab - Aziz Khan
 description: The CBCRG lab develops and use cutting-edge open-source tools, methods, and resources to analyze, integrate, and interpret large-scale multi-omics and multi-ethnic data to advance precision medicine.
 header: images/background.jpg
@@ -17,7 +17,7 @@ links:
   google-scholar: m23RfrcAAAAJ
   github: asntech
   bluesky: khanlab.bio
-  twitter: khanaziz84
+  # twitter: khanaziz84
   # youtube: YourLabChannel
 
 ### jekyll settings
