@@ -4,7 +4,7 @@
 $logo-big: 60px;
 $logo: 30px;
 $big-padding: 100px;
-$collapse: 800px;
+$collapse: 950px;
 $sticky: true;
 
 header {
@@ -40,10 +40,11 @@ header a {
 
 .logo {
   height: $logo;
+  width: auto;
 }
 
 .logo > * {
-  width: unset;
+  width: auto;
   height: 100%;
 }
 
@@ -150,7 +151,7 @@ header[data-big] {
   .logo {
     height: $logo-big;
     width: 100%;
-    aspect-ratio: 3 / 1;
+   // aspect-ratio: 3 / 1;
     flex-shrink: 0;
   }
 
@@ -166,5 +167,12 @@ header[data-big] {
 
   .subtitle {
     font-size: var(--large);
+  }
+}
+
+
+@media (max-width: 500px) {
+  .title-text {
+    display: none;
   }
 }

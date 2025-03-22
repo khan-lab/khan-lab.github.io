@@ -32,7 +32,7 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 {% include section.html %}
 
 <!-- 
-## Funding
+## Collaboration
 
 {% capture content %}
 [![MBZUAI](/images/mbzuai_logo.png)](https://mbzuai.ac.ae)

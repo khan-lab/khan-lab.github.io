@@ -6,6 +6,10 @@ description: The CBCRG lab develops and use cutting-edge open-source tools, meth
 header: images/background.jpg
 footer: images/footer.jpg
 logo: images/logo.png
+show-title: false
+show-subtitle: true
+logo-text: true
+
 proofer: false
 url: https://khanlab.io
 baseurl:
