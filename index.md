@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-Our research bridges biology, multi-omics, machine learning, and data science to understand gene regulation in diseases such as cancer. We publish high-impact research papers in leading journals across diverse topics from genomics, epigenomic, machine learning, cancer genomics, and science policy.
+Our research bridges biology, multi-omics, machine learning, and data science to understand how gene regulation shapes health and diseases like cancer. We aim to advance precision medicine through innovative, collaborative research — using diverse datasets and more complete, inclusive reference genomes.
 
 {%
   include button.html
@@ -55,7 +55,7 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {% capture text %}
 
-We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics. We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.
+We are training and building a collaborative team of responsible researchers united by a shared vision. We are committed to create an inclusive environment and recognize that diversity—in people, ideas, and data—is essential for scientific creativity and discovery.
 
 {%
   include button.html
