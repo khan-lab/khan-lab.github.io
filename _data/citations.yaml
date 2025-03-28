@@ -21,6 +21,52 @@
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
   category: null
+- id: doi:10.1101/2025.01.26.634557
+  title: Temporal and spatial composition of the tumor microenvironment predicts response
+    to immune checkpoint inhibition
+  authors:
+  - Noah F. Greenwald
+  - Iris Nederlof
+  - Cameron Sowers
+  - Daisy Yi Ding
+  - Seongyeol Park
+  - Alex Kong
+  - Kathleen E. Houlahan
+  - Sricharan Reddy Varra
+  - Manon de Graaf
+  - Veerle Geurts
+  - Candace C. Liu
+  - Jolene S. Ranek
+  - Leonie Voorwerk
+  - Michiel de Maaker
+  - Adam Kagel
+  - Erin McCaffrey
+  - Aziz Khan
+  - Christine Yiwen Yeh
+  - Christine Camacho Fullaway
+  - Zumana Khair
+  - Yunhao Bai
+  - Hadeesha Piyadasa
+  - Tyler Risom
+  - Alea Delmastro
+  - Felix J. Hartmann
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Ton N. Schumacher
+  - Zhicheng Ma
+  - Marc Bosse
+  - Marc J. van de Vijver
+  - Robert Tibshirani
+  - Hugo M. Horlings
+  - Christina Curtis
+  - Marleen Kok
+  - Michael Angelo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-28'
+  link: https://doi.org/g83fjp
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s43018-024-00831-z
   title: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways
     associated with early tumorigenesis
