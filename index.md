@@ -55,7 +55,7 @@ We strongly believe in global access to open and reproducible science. Our tools
 
 {% capture text %}
 
-We are training and building a collaborative team of responsible researchers united by a shared vision. We are committed to create an inclusive environment and recognize that diversity—in people, ideas, and data—is essential for scientific creativity and discovery.
+We are training and building a collaborative team of responsible researchers united by a shared vision. We are committed to create an inclusive environment and recognize that diversity — in people, ideas, and data — is essential for scientific creativity and discovery.
 
 {%
   include button.html
