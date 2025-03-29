@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13058-025-01966-2
+  title: Evolutionary measures show that recurrence of DCIS is distinct from progression
+    to breast cancer
+  authors:
+  - Angelo Fortunato
+  - Diego Mallo
+  - Luis Cisneros
+  - Lorraine M. King
+  - Aziz Khan
+  - Christina Curtis
+  - Marc D. Ryser
+  - Joseph Y. Lo
+  - Allison Hall
+  - Jeffrey R. Marks
+  - E. Shelley Hwang
+  - Carlo C. Maley
+  publisher: Breast Cancer Research
+  date: '2025-03-21'
+  link: https://doi.org/g898zx
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-024-08377-x
   title: Complex rearrangements fuel ER+ and HER2+ breast tumours
   authors:
