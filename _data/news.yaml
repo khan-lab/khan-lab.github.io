@@ -11,6 +11,13 @@
 # Please add the new entries on the top although these are sorted by date. 
 
 
+ 
+- title: New publication
+  date: 2025-03-21
+  description: Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer.
+  url: https://doi.org/10.1186/s13058-025-01966-2
+
+
 - title: HSE & MBZUAI meet-up on AI in Biology
   date: 2025-03-13
   description: Lab presented on the <i>AI-driven integration of diverse multi-omics data for advancing precision medicine</i> at the HSE University and MBZUAI collaborative event on <i>AI in Biology</i>.
