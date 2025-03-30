@@ -13,7 +13,7 @@ nav:
 
 {% endcapture %}
 
-<!-- 
+
 {% capture col2 %}
 ###  {% include icon.html icon="fa-brands fa-bluesky" %}[BlueSky](https://bsky.app/profile/khanlab.bio) feeds
 
@@ -23,10 +23,10 @@ nav:
   <bsky-embed
     username="khanlab.bio"
     mode=""
-    limit="3"
+    limit="2"
     link-target="_blank"
     link-image="true"
-    load-more="false"
+    load-more="true"
     disable-styles="false"
     custom-styles=".border-slate-300 { border-color: gray; text-align: left}"
     date-format='{"type":"absolute","locale":"en","options":{"weekday":"long","year":"numeric","month":"long","day":"numeric"}}'
@@ -36,7 +36,6 @@ nav:
 
 {% endcapture %}
 
---->
 
 {% include cols.html col1=col1 col2=col2 %}
 
