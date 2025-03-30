@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-Our research bridges biology, multi-omics, machine learning, and data science to understand how gene regulation shapes health and diseases like cancer. We aim to advance precision medicine through innovative, collaborative research — using diverse datasets and more complete, inclusive reference genomes.
+Our research bridges biology, multi-omics, machine learning, and data science to understand how gene regulation shapes health and diseases like cancer. We aim to advance precision medicine through innovative, collaborative research — using diverse multi-omic datasets and more complete, inclusive reference genomes.
 
 {%
   include button.html
