@@ -15,7 +15,7 @@ We publish high-impact peer-reviewed research papers in leading journals across 
   include button.html
   icon="fa-brands fa-google"
   text="More on Google Scholar"
-  link="http://scholar.google.com/citations?hl=en&user=m23RfrcAAAAJ"
+  link="https://scholar.google.com/citations?hl=en&user=m23RfrcAAAAJ&view_op=list_works&sortby=pubdate"
 %}
 
 ## All publications

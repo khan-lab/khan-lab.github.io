@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13058-025-01966-2
+  title: Evolutionary measures show that recurrence of DCIS is distinct from progression
+    to breast cancer
+  authors:
+  - Angelo Fortunato
+  - Diego Mallo
+  - Luis Cisneros
+  - Lorraine M. King
+  - Aziz Khan
+  - Christina Curtis
+  - Marc D. Ryser
+  - Joseph Y. Lo
+  - Allison Hall
+  - Jeffrey R. Marks
+  - E. Shelley Hwang
+  - Carlo C. Maley
+  publisher: Breast Cancer Research
+  date: '2025-03-21'
+  link: https://doi.org/g898zx
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-024-08377-x
   title: Complex rearrangements fuel ER+ and HER2+ breast tumours
   authors:
@@ -19,7 +41,7 @@
   orcid: 0000-0002-6459-6224
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
   category: null
 - id: doi:10.1101/2025.01.26.634557
   title: Temporal and spatial composition of the tumor microenvironment predicts response
@@ -112,28 +134,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.08.15.24311949
-  title: Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression
-    to Breast Cancer
-  authors:
-  - Angelo Fortunato
-  - Diego Mallo
-  - Luis Cisneros
-  - Lorraine M. King
-  - Aziz Khan
-  - Christina Curtis
-  - Marc D. Ryser
-  - Joseph Y. Lo
-  - Allison Hall
-  - Jeffrey R. Marks
-  - E. Shelley Hwang
-  - Carlo C. Maley
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-16'
-  link: https://doi.org/g87ff6
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1126/science.adh8697
   title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
     proclivity
@@ -151,7 +151,7 @@
   orcid: 0000-0002-6459-6224
   plugin: sources.py
   file: sources.yaml
-  image: https://www.science.org/cms/asset/23c91113-5fc9-4da2-b16a-e7cb7e1f342a/science.2024.384.issue-6699.largecover.jpg
+  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
   category: null
 - id: doi:10.1093/nar/gkad1059
   title: 'JASPAR 2024: 20th anniversary of the open-access database of transcription
@@ -181,8 +181,13 @@
   date: '2023-11-14'
   link: https://doi.org/gs4n8b
   orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jaspar.jpeg
+  buttons:
+  - type: website
+    text: JASPAR
+    link: https://jaspar.elixir.no/
 - id: doi:10.1038/s41586-023-06102-8
   title: Deterministic evolution and stringent selection during preneoplasia
   authors:
@@ -208,8 +213,9 @@
   date: '2023-05-31'
   link: https://doi.org/gsbs9w
   orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/28/2022.04.09.487529/F1.large.jpg
 - id: pmid:36400020
   title: 'Molecular classification and biomarkers of clinical outcome in breast ductal
     carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts.'
@@ -303,8 +309,13 @@
   date: '2021-11-30'
   link: https://doi.org/gpm2rq
   orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jaspar.jpeg
+  buttons:
+  - type: website
+    text: JASPAR 2022
+    link: https://jaspar2022.genereg.net/
 - id: pmid:34174819
   title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
     species.'

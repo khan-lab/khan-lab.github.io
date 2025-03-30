@@ -1,5 +1,5 @@
 - id: doi:10.1126/science.adh8697
-  image: https://www.science.org/cms/asset/23c91113-5fc9-4da2-b16a-e7cb7e1f342a/science.2024.384.issue-6699.largecover.jpg
+  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
   category: 
 
 - id: doi:10.1038/s41586-024-08377-x
@@ -18,6 +18,14 @@
   tags:
     - open-source
     - software
+
+- id: doi:10.1038/s41586-023-06102-8
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/28/2022.04.09.487529/F1.large.jpg
+
+
+- id: doi:10.1038/s41586-024-08377-x
+  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png"
+
 
 - id: doi:10.1016/j.xpro.2022.101927
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722008073-fx1.jpg
@@ -46,6 +54,24 @@
   tags:
     - open-source
     - database
+
+- id: doi:10.1093/nar/gkad1059
+  image: images/publications/jaspar.jpeg
+  buttons:
+    - type: website
+      text: JASPAR
+      link: https://jaspar.elixir.no/
+
+
+- id: doi:10.1093/nar/gkab1113
+  image: images/publications/jaspar.jpeg
+  buttons:
+    - type: website
+      text: JASPAR 2022
+      link: https://jaspar2022.genereg.net/
+
+
+# Remove the following duplicates
 
 - id: doi:10.1101/109728
   remove: true
@@ -82,4 +108,8 @@
 
 - id: doi:10.1101/428615
   remove: true 
+
+- id: doi:10.1101/2024.08.15.24311949
+  remove: true 
+ 
 
