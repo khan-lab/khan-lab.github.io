@@ -11,6 +11,10 @@
 # Please add the new entries on the top although these are sorted by date. 
 
 
+- title: Genomics Data Carpentry Workshop @ MBZUAI
+  date: 2025-04-01
+  description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today! 
+  url: https://khanlab.bio/2025-04-28-mbzuai-genomics/
  
 - title: New publication
   date: 2025-03-21
@@ -40,5 +44,5 @@
 
 - title: New Lab, new Continent, and new beginnings
   date: 2025-02-01
-  description: Excited to start the Computational Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department.
+  description: Excited to start the Computational Biology and Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department. <a href="/join">Join us</a>!
   url: 
