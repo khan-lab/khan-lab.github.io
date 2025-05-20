@@ -70,6 +70,13 @@
       text: JASPAR 2022
       link: https://jaspar2022.genereg.net/
 
+- id: doi:10.15252/embr.201845731
+  image: https://www.embopress.org/cms/10.15252/embr.201845731/asset/33a00ee6-e8b6-4731-a443-5e9570915f8a/assets/graphic/embr201845731-fig-0001-m.png
+  buttons:
+    - type: website
+      text: F1000 Feedback
+      link: https://archive.connect.h1.co/article/733031605/
+
 
 # Remove the following duplicates
 

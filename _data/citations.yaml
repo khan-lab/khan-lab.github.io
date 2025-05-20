@@ -621,8 +621,13 @@
   date: '2018-04-12'
   link: https://doi.org/cnhd
   orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.embopress.org/cms/10.15252/embr.201845731/asset/33a00ee6-e8b6-4731-a443-5e9570915f8a/assets/graphic/embr201845731-fig-0001-m.png
+  buttons:
+  - type: website
+    text: F1000 Feedback
+    link: https://archive.connect.h1.co/article/733031605/
 - id: doi:10.1101/310839
   title: Super-enhancers are transcriptionally more active and cell-type-specific
     than stretch enhancers
