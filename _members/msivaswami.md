@@ -1,12 +1,13 @@
 ---
 name: Muthukumaraswami Sivaswami
 image: /images/team/msivaswami.jpg
-role: research associate
+role: researcher-associate
+description: Research Associate II
 links: 
-google-scholar: https://scholar.google.com/citations?hl=en&user=CvW--fAAAAAJ
-github: msivaswami
-orcid: 0009-0003-9534-784X
-email: muthukumar.aswami@mbzuai.ac.ae
+    google-scholar: https://scholar.google.com/citations?hl=en&user=CvW--fAAAAAJ
+    github: msivaswami
+    orcid: 0009-0003-9534-784X
+    email: muthukumar.aswami@mbzuai.ac.ae
 ---
 
 Muthu is a Research Associate at **MBZUAI**, working in the Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab in Abu Dhabi under the supervision of [Dr. Aziz Khan](https://mbzuai.ac.ae/study/faculty/aziz-khan/). His research focuses on the integration of multi-omics data to investigate the genetic basis of disease as well as phenotype analysis.
