@@ -1,7 +1,7 @@
 ---
 name: Muthukumaraswami Sivaswami
 image: /images/team/msivaswami.jpg
-role: researcher-associate
+role: programmer
 description: Research Associate II
 links: 
     google-scholar: https://scholar.google.com/citations?hl=en&user=CvW--fAAAAAJ

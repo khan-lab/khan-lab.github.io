@@ -39,6 +39,8 @@ Previously, Aziz was a senior research scientist at Stanford Cancer Institute, S
 ## Teaching courses and workshops
 
 ##### 2025
+- [Genomics Data Carpentry](https://mbzuai.ac.ae/event/genomics-data-carpentry-workshop/), MBZUAI, Abu Dhabi, UAE
+
 - [**BIOS 259**: The Art of Reproducible Science: A Hands-on Approach](https://explorecourses.stanford.edu/search?q=BIOS+259&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20242025), Stanford University
 
 
