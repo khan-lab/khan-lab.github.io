@@ -10,7 +10,11 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date. 
 
-
+- title:  Genomics Workshop was a big success!
+  date: 2025-05-08
+  description: The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants, earning a 93% promoter score and outstanding feedback. 
+  url: https://mbzuai.ac.ae/news/building-genomics-research-skills-with-data-carpentry/
+ 
 - title: Genomics Data Carpentry Workshop @ MBZUAI
   date: 2025-04-01
   description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today! 
