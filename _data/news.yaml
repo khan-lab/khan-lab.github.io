@@ -10,6 +10,22 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date. 
 
+
+- title: Keynote talk at X-meeting Brazil
+  date: 2025-06-05
+  description: Aziz delivered a keynote talk on <i>Open Tools and Frameworks for Scalable and Reproducible Genomics</i> at the X-meeting Brazil 2025 in João Pessoa.
+  url: https://x-meeting.com/events/2025#detailprogram2025
+
+- title: Invited talk at iscbAI 2025 (ISCB-Asia)
+  date: 2025-06-02
+  description: Aziz presented on <i>Towards FAIR, diverse and reproducible multi-omics for AI-driven biology</i> at the 1st International Symposium on Computational Biology with AI in Bali.
+  url: https://www.iscb-cn.org.cn/web/31/list.html
+
+- title: New member
+  date: 2025-05-20
+  description: We warmly welcome Muthukumaraswami to the lab as a Research Associate!
+  url: https://khanlab.bio/members/msivaswami.html
+
 - title:  Genomics Workshop was a big success!
   date: 2025-05-08
   description: The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants, earning a 93% promoter score and outstanding feedback. 
