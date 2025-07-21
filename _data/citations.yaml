@@ -489,26 +489,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:31226278
-  title: "Modeling RNA-Binding Protein Specificity In\_Vivo by Precisely Registering\
-    \ Protein-RNA Crosslink Sites."
-  authors:
-  - Huijuan Feng
-  - Suying Bao
-  - Mohammad Alinoor Rahman
-  - Sebastien M Weyn-Vanhentenryck
-  - Aziz Khan
-  - Justin Wong
-  - Ankeeta Shah
-  - Elise D Flynn
-  - Adrian R Krainer
-  - Chaolin Zhang
-  publisher: Molecular cell
-  date: '2019-06-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31226278
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/nar/gky1210
   title: "A map of direct TF\u2013DNA interactions in the human genome"
   authors:
