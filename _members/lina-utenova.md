@@ -1,9 +1,10 @@
----
-name: Lina Utenova
-image: /images/team/lina-utenova.jpg
+---name: Lina Utenova
+image: /images/team/lina.jpg
 role: member
 description: MS Student
-links:  email: utenovalina@gmail.com
+links:  
+email: utenovalina@gmail.com
+
 ---
 In my past research I conducted wet lab activities to support a multi-omic 
 study on the differentially abundant functional pathways and their 
