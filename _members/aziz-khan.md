@@ -3,6 +3,7 @@ name: Aziz Khan
 image: /images/team/aziz.jpg
 role: principal-investigator
 # affiliation: MBZUAI
+country: "no"
 aliases:
   - A. Khan
   - Aziz Khan
@@ -45,10 +46,10 @@ He is a strong advocate for open, reproducible, and collaborative science. He ha
 
 #### Spring
 
-- **CB703**: Introduction to Single Cell Biology and Bioinformatics, MBZUAI, Abu Dhabi, UAE [Guest Lectures]
-- **CB803**: Single Cell Biology and Bioinformatics, MBZUAI, Abu Dhabi, UAE [Guest Lectures]
+- [**CB703**: Introduction to Single Cell Biology and Bioinformatics](https://github.com/Munfred/scbb/), MBZUAI, Abu Dhabi, UAE [Guest Lectures]
+- [**CB803**: Single Cell Biology and Bioinformatics](https://github.com/Munfred/scbb/), MBZUAI, Abu Dhabi, UAE [Guest Lectures]
 
-- [Genomics Data Carpentry](https://mbzuai.ac.ae/event/genomics-data-carpentry-workshop/), MBZUAI, Abu Dhabi, UAE
+- [**Genomics Data Carpentry**](https://mbzuai.ac.ae/event/genomics-data-carpentry-workshop/), MBZUAI, Abu Dhabi, UAE
 
 #### Winter
 
@@ -62,5 +63,5 @@ He is a strong advocate for open, reproducible, and collaborative science. He ha
 
 #### Summer
 
-- [Unix Shell Workshop](https://asntech.github.io/2024-05-31-stanford-online), Stanford University, California, USA
-- [Genomics Data Carpentry](https://asntech.github.io/2024-04-25-rutgers), Rutgers University, New Jersey, USA
+- [**Unix Shell Workshop**](https://asntech.github.io/2024-05-31-stanford-online), Stanford University, California, USA
+- [**Genomics Data Carpentry**](https://asntech.github.io/2024-04-25-rutgers), Rutgers University, New Jersey, USA

@@ -32,6 +32,11 @@ mascot:
 
 # general
 
+country:
+  icon: fa-solid fa-globe
+  text: Country
+  tooltip: Country
+
 link:
   icon: fa-solid fa-globe
   text: Link

@@ -6,13 +6,14 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Meet Our Team
-We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics. 
+
+We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics.
 We are hiring at [all levels](/join/). Please send your CV with a cover email explaining your interest and fit.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and alumni != true" %}
 
 {% include section.html background="images/building1b.jpg" dark=true %}
 
@@ -25,13 +26,19 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
   link="join"
   style="button"
 %}
+{% include section.html %}
+
+<!--
+## Alumni
+-->
+
+{% include list.html data="members" component="portrait-alumni" filter="alumni == true" style="small" %}
 
 {% include section.html %}
 
+{% include section.html background="images/building1b.jpg" dark=true %}
 
-{% include section.html %}
-
-<!-- 
+<!--
 ## Collaboration
 
 {% capture content %}

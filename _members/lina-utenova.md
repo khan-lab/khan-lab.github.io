@@ -3,6 +3,7 @@ name: Lina Utenova
 image: /images/team/lina.jpg
 role: master
 description: MS Student
+country: "kz"
 links:
   email: lina.utenova@mbzuai.ac.ae
   github: utenovalina
@@ -16,4 +17,4 @@ At MBZUAI, she is pursuing research at the intersection of AI, computational bio
 
 ## Education
 
-- _BSc in Biology_ (cum laude), New York University Abu Dhabi (NYUAD), UAE (2025)
+- _BSc in Biology_ (cum laude), New York University Abu Dhabi (NYUAD), UAE (2024)
