@@ -1,4 +1,3 @@
-
 # Add the latest news updates here, such as:
 # - New team members joining
 # - Preprints or publications
@@ -8,8 +7,12 @@
 #
 # If there is an external link (e.g., to a journal or news article), add it in the `link` field.
 # Otherwise, leave `link` blank.
-# Please add the new entries on the top although these are sorted by date. 
+# Please add the new entries on the top although these are sorted by date.
 
+- title: Associate Editor at NAR Genomics and Bioinformatics
+  date: 2025-08-21
+  description: Excited to announce that Aziz has joined the Editorial Board of Oxford University Press’s NAR Genomics and Bioinformatics journal as an Associate Editor.
+  url: https://academic.oup.com/nargab/pages/Editorial_Board
 
 - title: Keynote talk at X-meeting Brazil
   date: 2025-06-05
@@ -26,21 +29,20 @@
   description: We warmly welcome Muthukumaraswami to the lab as a Research Associate!
   url: https://khanlab.bio/members/msivaswami.html
 
-- title:  Genomics Workshop was a big success!
+- title: Genomics Workshop was a big success!
   date: 2025-05-08
-  description: The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants, earning a 93% promoter score and outstanding feedback. 
+  description: The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants, earning a 93% promoter score and outstanding feedback.
   url: https://mbzuai.ac.ae/news/building-genomics-research-skills-with-data-carpentry/
- 
+
 - title: Genomics Data Carpentry Workshop @ MBZUAI
   date: 2025-04-01
-  description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today! 
+  description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today!
   url: https://khanlab.bio/2025-04-28-mbzuai-genomics/
- 
+
 - title: New publication
   date: 2025-03-21
   description: Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer.
   url: https://doi.org/10.1186/s13058-025-01966-2
-
 
 - title: HSE & MBZUAI meet-up on AI in Biology
   date: 2025-03-13
@@ -50,19 +52,19 @@
 - title: Talk at NYU Abu Dhabi Campus
   date: 2025-02-25
   description: Aziz was invited to speak at the Center for Genomics and Systems Biology, New York University Abu Dhabi (NYUAD) Biology Seminar Series.
-  url: 
+  url:
 
 - title: Talk at NUST Islamabad
   date: 2025-02-17
   description: Aziz was invited to speak at the School of Interdisciplinary Engineering & Science (SINES), NUST iTalks Seminar Series.
-  url: 
+  url:
 
 - title: Talk at LUMS Lahore
   date: 2025-02-14
   description: Aziz was invited to speak at the Syed Babar Ali School of Science and Engineering (SBASSE), LUMS Life Sciences Seminar Series.
-  url: 
+  url:
 
 - title: New Lab, new Continent, and new beginnings
   date: 2025-02-01
   description: Excited to start the Computational Biology and Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department. <a href="/join">Join us</a>!
-  url: 
+  url:
