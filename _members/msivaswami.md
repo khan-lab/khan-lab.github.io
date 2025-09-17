@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Muthukumaraswami Sivaswami
 image: /images/team/msivaswami.jpg
 role: programmer
@@ -32,4 +32,4 @@ Muthu’s broader research interests include population genomics, variant interp
 
 - _SQL for Data Science with R_, IBM (2023)
 
-- _R Programming Fundamentals_, StanfordOnline (2021)
+- _R Programming Fundamentals_, StanfordOnline (2021) -->

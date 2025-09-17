@@ -43,6 +43,44 @@
   transform: translate(14%, 14%);
 }
 
+/* Circular positioning for multiple flags around the profile */
+
+.portrait .icon:nth-child(1) {
+  transform: translate(14%, 14%);     /* Top-left (11 o'clock) */
+}
+
+.portrait .icon:nth-child(2) {
+  transform: translate(-60%, 130%);     /* Top-left (11 o'clock) */
+}
+
+.portrait .icon:nth-child(3) {
+  transform: translate(-60%, 270%);     /* Top-right (1 o'clock) */
+}
+
+.portrait .icon:nth-child(4) {
+  transform: translate(150%,-40%);     /* Right (3 o'clock) */
+}
+
+.portrait .icon:nth-child(5) {
+  transform: translate(14%, 370%);     /* Bottom-right (5 o'clock) */
+}
+
+.portrait .icon:nth-child(6) {
+  transform: translate(150%, 430%);     /* Bottom-left (7 o'clock) */
+}
+
+.portrait .icon:nth-child(7) {
+  transform: translate(-15%, 50%);    /* Left (9 o'clock) */
+}
+
+.portrait .icon:nth-child(8) {
+  transform: translate(45%, 5%);      /* Top-center (12 o'clock) */
+}
+
+.portrait .icon:nth-child(9) {
+  transform: translate(45%, 90%);     /* Bottom-center (6 o'clock) */
+}
+
 .portrait[data-style="small"] .icon {
   left: -2px;
   top: -2px;

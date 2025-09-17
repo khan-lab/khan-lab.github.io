@@ -18,14 +18,22 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | regex_strip }}"
   >
-    {% if type %}
+    <!-- {% if type %}
       {% include icon.html icon=type.icon %}
-    {% endif %}
+    {% endif %} -->
 
     {% if member.country %}
-     <i class="icon">
-      <span class="fi fi-{{ member.country | downcase }}"></span>
-      </i>
+      {% if member.country.size > 1 %}
+        {% for country in member.country %}
+         <i class="icon">
+          <span class="fi fi-{{ country | strip | downcase }}"></span>
+          </i>
+        {% endfor %}
+      {% else %}
+       <i class="icon">
+        <span class="fi fi-{{ member.country | downcase }}"></span>
+        </i>
+      {% endif %}
     {% else %}
       <i class="icon fas fa-globe"></i>
     {% endif %}
@@ -57,3 +65,5 @@
     {% endif %}
   </a>
 </div>
+
+git checkout -b akshat
