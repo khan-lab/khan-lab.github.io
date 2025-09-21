@@ -12,8 +12,9 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi' and alumni != true" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and alumni != true" %}
 
 {% include section.html background="images/building1b.jpg" dark=true %}
 
@@ -28,9 +29,7 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 %}
 {% include section.html %}
 
-<!--
-## Alumni
--->
+## Past members
 
 {% include list.html data="members" component="portrait-alumni" filter="alumni == true" style="small" %}
 

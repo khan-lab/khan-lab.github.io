@@ -4,9 +4,6 @@ image: /images/team/aziz.jpg
 role: principal-investigator
 # affiliation: MBZUAI
 country: "no"
-# country: 
-#   - "no"
-#   - "us"
 aliases:
   - A. Khan
   - Aziz Khan

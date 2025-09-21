@@ -1,10 +1,10 @@
-<!-- ---
+---
 name: Muthukumaraswami Sivaswami
 image: /images/team/msivaswami.jpg
 role: programmer
 description: Research Associate II
 country: "in"
-alumni: false
+alumni: true
 links:
   google-scholar: https://scholar.google.com/citations?hl=en&user=CvW--fAAAAAJ
   github: msivaswami

@@ -1,11 +1,9 @@
 ---
 name: Akshat Mistry
-image: /images/team/akshat-mistry.jpg
+image: /images/team/akshat-mistry.png
 role: member
-description: Visiting Student Researcher
-country: 
-  - "in"
-  - "ae"
+description: Visiting Student
+country: "in"
 
 aliases:
   - A. Mistry
@@ -18,13 +16,9 @@ links:
   email: akshat.mistry@mbzuai.ac.ae
 ---
 
-# ⌞ ⌝
+Akshat is a visiting student at **MBZUAI** in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab and a postgraduate student in Bioinformatics at the **University of Birmingham**, Dubai.
 
-Visiting Student Researcher at **MBZUAI** in the "Computational Biology and Cancer Regulatory Genomics" (**CBCRG**) lab, Bioinformatics postgraduate student at the **University of Birmingham**, Dubai.
-
-As an enthusiastic and innovative researcher, he leverages his software development experience to apply expertise in web development, cloud computing, machine learning, and next-generation sequencing (NGS) to advancing healthcare and research.
-
-Interested in the intersection of software engineering, machine learning and biology, including the creation of user-friendly bioinformatics tools and mobile applications that make advanced diagnostics more accessible to researchers, clinicians, and patients. My long-term goal is to bridge the gap between data science and biomedical research, enabling personalized therapies and improving human health outcomes.
+With a background in software development, he applies skills in web development, cloud computing, machine learning, and next-generation sequencing (NGS) to problems in healthcare and research. His interests lie at the intersection of software engineering, machine learning, and biology, particularly in developing user-friendly bioinformatics tools and applications that support diagnostics and personalized medicine.
 
 {% include section.html %}
 
@@ -32,13 +26,11 @@ Interested in the intersection of software engineering, machine learning and bio
 
 - _Masters of Science in Bioinformatics_, University of Birmingham, Dubai (2025)
 - _Bachelor of Science in Information Technology with specialization in Artificial Intelligence_, Parul University, India (2024)
-- _Dual Degree in Biomedical Instrumentation_, Parul University, India (2024)
-- _Senior Secondary (12th)_, The Indian High School, Dubai, UAE (2021)
 
 ## Experience
 
 - _Software Development Intern_, AL Asas Information Technology, UAE (Nov 2023)
-  
+
 ## Programming Skills
 
 - **Languages**: Python, R, Java, PHP, C, C#, Shell, ARM
