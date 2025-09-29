@@ -16,7 +16,7 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and alumni != true" %}
 
-{% include section.html background="images/building1b.jpg" dark=true %}
+{% include section.html background="images/banner.jpg" dark=true %}
 
 #### <center>We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.</center>
 
@@ -29,21 +29,26 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 %}
 {% include section.html %}
 
-## Past members
+## Our Allumni
 
 {% include list.html data="members" component="portrait-alumni" filter="alumni == true" style="small" %}
 
 {% include section.html %}
 
-{% include section.html background="images/building1b.jpg" dark=true %}
+## Our Collaborators
 
-<!--
-## Collaboration
+{% include cols.html col1=col1 col2=col2 %}
 
-{% capture content %}
-[![MBZUAI](/images/mbzuai_logo.png)](https://mbzuai.ac.ae)
-
+{% capture col1 %}
+{% include figure.html image="images/collaborators/uio.jpg"  height="250px" %}
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
--->
+{% capture col2 %}
+{% include figure.html image="images/collaborators/stanford.png" height="250px" %}
+{% endcapture %}
+
+{% capture col3 %}
+{% include figure.html image="images/collaborators/nyuad.png"  height="250px" %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}

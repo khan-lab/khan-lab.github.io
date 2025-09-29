@@ -11,19 +11,18 @@ links:
   email: khalifa.juma@mbzuai.ac.ae
 ---
 
-Khalifa is a Master's student in the Machine Learning program at MBZUAI and a member of the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab. His interests lie at the intersection of artificial intelligence and genomics, particularly in developing bioinformatics tools and applying machine learning methods to biological data.  
+Khalifa is a Master's student in the Machine Learning program at MBZUAI and a member of the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab. His interests lie at the intersection of artificial intelligence and genomics, particularly in developing bioinformatics tools and applying machine learning methods to biological data.
 
-He earned his Bachelor’s degree in Biochemistry and Molecular Biology from Penn State University. He completed a bioinformatics internship at Al Jalila Genomics Center, where he contributed to probe design strategies for genomic applications. Khalifa is also collaborating with Dubai Police on ongoing research in forensic genetics, with a focus on population-level genetic variation.  
+He earned his Bachelor’s degree in Biochemistry and Molecular Biology from Penn State University. He completed a bioinformatics internship at Al Jalila Genomics Center, where he contributed to probe design strategies for genomic applications. Khalifa is also collaborating with Dubai Police on ongoing research in forensic genetics, with a focus on population-level genetic variation.
 
 {% include section.html %}
 
-## Education  
+## Education
 
-- _MSc in Machine Learning_, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE (expected graduation 2027)  
-- _BSc in Biochemistry and Molecular Biology_, The Pennsylvania State University, USA (2024)  
+- _BSc in Biochemistry and Molecular Biology_, The Pennsylvania State University, USA (2024)
 
-## Experience  
+## Experience
 
-- _Bioinformatics Intern_, Al Jalila Genomics Center, Dubai, UAE  
-- _Internship_, M42, Abu Dhabi, UAE  
-- _Research Collaboration_, Dubai Police – Forensic Genetics  
+- _Bioinformatics Intern_, Al Jalila Genomics Center, Dubai, UAE
+- _Internship_, M42, Abu Dhabi, UAE
+- _Research Collaboration_, Dubai Police – Forensic Genetics
