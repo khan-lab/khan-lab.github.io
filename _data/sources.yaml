@@ -1,10 +1,10 @@
 - id: doi:10.1126/science.adh8697
   image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
-  category: 
+  category:
 
 - id: doi:10.1038/s41586-024-08377-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
-  category: 
+  category:
 
 - id: doi:10.1093/nar/gkx1126
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/46/D1/2/m_cover.gif?Expires=1744459365&Signature=g6NUrK6VKf1dcsBKINZe6ug45Z5UOL9w5COuRAuVNT36P2-zA-XPIYvgwozhHbKSfLx9KMU~QLnRTDrBQtXoqFmOL34beWHhE10xMb8gghA3LpVquyxlxrH5fQJ-375mPCmH0SOGjeMur8fxmcwaDvdVafKyTYtUhEKMMjpObkb84GEiv15rjg3TK5v3rQLq041QE0qdZm57OlDrfYIDXdv4p1rTR1iMAkqiaaUh~c2QkVVopPhjItKzn4hJo4tubmojbJwiFf-Srv9B9xWFH68jnn4b3wv5s7s~uH50GDuwzH9joTICTS7l1eECgluNsIMh4aV0Dx8mzDrbF7XY0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -22,10 +22,8 @@
 - id: doi:10.1038/s41586-023-06102-8
   image: https://www.biorxiv.org/content/biorxiv/early/2022/04/28/2022.04.09.487529/F1.large.jpg
 
-
 - id: doi:10.1038/s41586-024-08377-x
   image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png"
-
 
 - id: doi:10.1016/j.xpro.2022.101927
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722008073-fx1.jpg
@@ -62,7 +60,6 @@
       text: JASPAR
       link: https://jaspar.elixir.no/
 
-
 - id: doi:10.1093/nar/gkab1113
   image: images/publications/jaspar.jpeg
   buttons:
@@ -76,7 +73,6 @@
     - type: website
       text: F1000 Feedback
       link: https://archive.connect.h1.co/article/733031605/
-
 
 # Remove the following duplicates
 
@@ -102,21 +98,19 @@
   remove: true
 
 - id: ppr:PPR373963
-  remove: true  
+  remove: true
 
 - id: doi:10.1101/105262
-  remove: true  
+  remove: true
 
 - id: doi:10.1101/160184
-  remove: true 
+  remove: true
 
 - id: doi:10.1101/394205
-  remove: true 
+  remove: true
 
 - id: doi:10.1101/428615
-  remove: true 
+  remove: true
 
 - id: doi:10.1101/2024.08.15.24311949
-  remove: true 
- 
-
+  remove: true

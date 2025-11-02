@@ -9,6 +9,11 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date.
 
+- title: New preprint
+  date: 2025-09-12
+  description: "Polyclonal origins of human premalignant colorectal lesions, bioRχiv. doi: 10.1101/2025.09.08.674484"
+  url: https://doi.org/10.1101/2025.09.08.674484
+
 - title: Associate Editor at NAR Genomics and Bioinformatics
   date: 2025-08-21
   description: Excited to announce that Aziz has joined the Editorial Board of Oxford University Press’s NAR Genomics and Bioinformatics journal as an Associate Editor.

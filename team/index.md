@@ -34,21 +34,3 @@ We are hiring at [all levels](/join/). Please send your CV with a cover email ex
 {% include list.html data="members" component="portrait-alumni" filter="alumni == true" style="small" %}
 
 {% include section.html %}
-
-## Our Collaborators
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% capture col1 %}
-{% include figure.html image="images/collaborators/uio.jpg"  height="250px" %}
-{% endcapture %}
-
-{% capture col2 %}
-{% include figure.html image="images/collaborators/stanford.png" height="250px" %}
-{% endcapture %}
-
-{% capture col3 %}
-{% include figure.html image="images/collaborators/nyuad.png"  height="250px" %}
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
