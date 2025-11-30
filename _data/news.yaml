@@ -9,6 +9,26 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date.
 
+- title: New publication
+  date: 2025-11-28
+  description: "Excited to share the new publication, polyclonal origins of human premalignant colorectal lesions came online in Nature. The Accelerated Article Preview is available at doi: 10.1038/s41586-025-09930-y"
+  url: https://doi.org/10.1038/s41586-025-09930-y
+
+- title: Workshop on Open Science and Reproducibility
+  date: 2025-11-26
+  description: Taught a workshop on <i>Becoming an Open and Reproducible Scientist</i> as part of InSyB2025, UDST, Doha.
+  url: https://www.udst.edu.qa/insyb2025/program-and-highlights/Workshops
+
+- title: Keynote talk at InSyB2025 Doha
+  date: 2025-11-25
+  description: Invited keynote talk on <i>Computational genomics at scale -- Open-source frameworks for cancer omics and gene regulation</i> at 9th International Symposium on Bioinformatics (InSyB2025), UDST, Doha.
+  url: https://www.udst.edu.qa/insyb2025
+
+- title: Mini Genomics Data Carpentry workshop
+  date: 2025-11-19
+  description: Taught Genomics Data Carpentry workshop module on <i>Data Wrangling and Processing for Genomics </i> at MBZUAI Winter School MBZUAI, Abu Dhabi, UAE.
+  url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
+
 - title: New preprint
   date: 2025-09-12
   description: "Polyclonal origins of human premalignant colorectal lesions, bioRχiv. doi: 10.1101/2025.09.08.674484"
@@ -18,6 +38,11 @@
   date: 2025-08-21
   description: Excited to announce that Aziz has joined the Editorial Board of Oxford University Press’s NAR Genomics and Bioinformatics journal as an Associate Editor.
   url: https://academic.oup.com/nargab/pages/Editorial_Board
+
+- title: New members
+  date: 2025-08-15
+  description: Officially welcomed four masters students (Aruzhan, Jenna, Khalifa, Lina) from MSML program to the team!
+  url: https://khanlab.bio/team/
 
 - title: Keynote talk at X-meeting Brazil
   date: 2025-06-05

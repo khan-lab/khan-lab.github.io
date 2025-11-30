@@ -1,5 +1,107 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-025-09930-y
+  title: Polyclonal origins of human premalignant colorectal lesions
+  authors:
+  - Debra Van Egeren
+  - Ryan O. Schenck
+  - Aziz Khan
+  - Aaron M. Horning
+  - Shanlan Mo
+  - "Clemens L. Wei\xDF"
+  - Edward D. Esplin
+  - Winston R. Becker
+  - Si Wu
+  - Casey Hanson
+  - Nasim Barapour
+  - Lihua Jiang
+  - "K\xE9vin Contrepois"
+  - Hayan Lee
+  - Stephanie A. Nevins
+  - Tuhin K. Guha
+  - Hao Zhang
+  - Zhen He
+  - Zhicheng Ma
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Bahareh Bahmani
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Samuel Lancaster
+  - Jeanne Shen
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - William J. Greenleaf
+  - Zheng Hu
+  - James M. Ford
+  - Michael P. Snyder
+  - Christina Curtis
+  publisher: Nature
+  date: '2025-11-25'
+  link: https://doi.org/hbcx45
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.09.08.674484
+  title: Polyclonal origins of human premalignant colorectal lesions
+  authors:
+  - Debra Van Egeren
+  - Ryan O. Schenck
+  - Aziz Khan
+  - Aaron M Horning
+  - Shanlan Mo
+  - "Clemens L. Wei\xDF"
+  - Edward D. Esplin
+  - Winston R. Becker
+  - Si Wu
+  - Casey Hanson
+  - Nasim Barapour
+  - Lihua Jiang
+  - "K\xE9vin Contrepois"
+  - Hayan Lee
+  - Stephanie A. Nevins
+  - Tuhin K. Guha
+  - Hao Zhang
+  - Zhen He
+  - Zhicheng Ma
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Bahareh Bahmani
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Samuel Lancaster
+  - Jeanne Shen
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - William J. Greenleaf
+  - Zheng Hu
+  - James M. Ford
+  - Michael P. Snyder
+  - Christina Curtis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-12'
+  link: https://doi.org/g98wmt
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13058-025-01966-2
   title: Evolutionary measures show that recurrence of DCIS is distinct from progression
     to breast cancer
