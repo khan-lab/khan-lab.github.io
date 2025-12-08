@@ -1,5 +1,49 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkaf1209
+  title: 'JASPAR 2026: expansion of transcription factor binding profiles and integration
+    of deep learning models'
+  authors:
+  - "Damla Ovek\_Baydar"
+  - Ieva Rauluseviciute
+  - Dina R Aronsen
+  - Romain Blanc-Mathieu
+  - Ine Bonthuis
+  - "Herman de\_Beukelaer"
+  - Katalin Ferenc
+  - Alice Jegou
+  - Vipin Kumar
+  - Roza Berhanu Lemma
+  - "J\xE9r\xE9my Lucas"
+  - Mathis Pochon
+  - Chang M Yun
+  - Vivekanandan Ramalingam
+  - Salil Sanjay Deshpande
+  - Aman Patel
+  - "Georgi\_K Marinov"
+  - Austin T Wang
+  - Alejandro Aguirre
+  - "Jaime\_A Castro-Mondragon"
+  - Damir Baranasic
+  - "Jeanne Ch\xE8neby"
+  - Sveinung Gundersen
+  - Morten Johansen
+  - Aziz Khan
+  - Marieke L Kuijjer
+  - Eivind Hovig
+  - Boris Lenhard
+  - Albin Sandelin
+  - Klaas Vandepoele
+  - "Wyeth\_W Wasserman"
+  - "Fran\xE7ois Parcy"
+  - Anshul Kundaje
+  - Anthony Mathelier
+  publisher: Nucleic Acids Research
+  date: '2025-12-02'
+  link: https://doi.org/hbdt2x
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-025-09930-y
   title: Polyclonal origins of human premalignant colorectal lesions
   authors:
