@@ -1,6 +1,6 @@
 ---
 name: Shreyansh Priyadarshi
-image: /images/team/aziz.jpg
+image: /images/team/shreyansh.jpg
 role: Visiting-Researcher
 # affiliation: MBZUAI
 country: "no"
