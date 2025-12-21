@@ -9,6 +9,11 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date.
 
+- title: Invited talk at UiO Oslo
+  date: 2025-12-15
+  description: Invited talk on <i>Polyclonal origins of human premalignant colorectal lesions</i> at the Sven Furberg Seminars in Bioinformatics and Statistical Genomics, University of Oslo, Norway.
+  url: https://www.mn.uio.no/bils/english/furberg-seminars/dr.-aziz-khan.html
+
 - title: New publication
   date: 2025-12-02
   description: "Our lab contributed to the newly released JASPAR 2026 database, an international open-science effort expanding transcription factor motif resources. Check out the <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1209/8343514'>paper published in NAR</a> and the resource at https://jaspar.elixir.no/."
@@ -33,6 +38,11 @@
   date: 2025-11-19
   description: Taught Genomics Data Carpentry workshop module on <i>Data Wrangling and Processing for Genomics </i> at MBZUAI Winter School MBZUAI, Abu Dhabi, UAE.
   url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
+
+- title: Featured talk at AI Innovation Day, MBZUAI
+  date: 2025-11-12
+  description: Featured talk on <i>Computational Genomics at Scale - Open infrastructure and diverse genomes for equitable genomic medicine</i> at AI Innovation Day - Shaping the Future of Healthcare Together, MBZUAI, Abu Dhabi.
+  url: https://staticcdn.mbzuai.ac.ae/mbzuaiwpprd01/2025/11/Final-Lineup-of-Speakers-AI-ID-Healthcare-MBZUAI.pdf
 
 - title: New preprint
   date: 2025-09-12
