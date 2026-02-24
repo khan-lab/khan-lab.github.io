@@ -9,6 +9,11 @@
 # Otherwise, leave `link` blank.
 # Please add the new entries on the top although these are sorted by date.
 
+- title: Talk at Informatics day, Sabanci University
+  date: 2025-12-21
+  description: Invited talk on <i>Computational genomics at scale -- Open-source frameworks for cancer omics and gene regulation</i> at Informatics Day, Sabanci University, Istanbul, Turkey.
+  url: https://bio.sabanciuniv.edu/
+
 - title: Invited talk at UiO Oslo
   date: 2025-12-15
   description: Invited talk on <i>Polyclonal origins of human premalignant colorectal lesions</i> at the Sven Furberg Seminars in Bioinformatics and Statistical Genomics, University of Oslo, Norway.
