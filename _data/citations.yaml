@@ -442,6 +442,68 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.3874170
+  title: 'The Human Tumor Atlas Network (HTAN) Breast Precancer Atlas: A Multi-Omic
+    Integrative Analysis of Ductal Carcinoma in situ&amp;nbsp;With Clinical Outcomes'
+  authors:
+  - Siri  H. Strand
+  - "Bel\xE9n Rivero-Guti\xE9rrez"
+  - Kathleen  E. Houlahan
+  - Jose  A. Seoane
+  - Lorraine King
+  - Tyler Risom
+  - Lunden  A. Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Gabrielle  B. Rocque
+  - Angela DeMichele
+  - Tari King
+  - Priscilla McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Ana Maria Storniolo
+  - Alastair Thompson
+  - Gaorav Gupta
+  - Robyn Burns
+  - Deborah  J. Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley  X. Zhu
+  - Jen Tappenden
+  - Daisy  Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert  Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey  R. Marks
+  - Graham A. Colditz
+  - E. Shelley Hwang
+  - Robert  B. West
+  publisher: Elsevier BV
+  date: '2021-01-01'
+  link: https://doi.org/hcfwjv
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.11.17.384578
   title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
     species'
@@ -689,7 +751,7 @@
   - Aziz Khan
   - "Alejandro Montenegro\u2010Montero"
   - Anthony Mathelier
-  publisher: EMBO reports
+  publisher: The EMBO Reports
   date: '2018-04-12'
   link: https://doi.org/cnhd
   orcid: 0000-0002-6459-6224
