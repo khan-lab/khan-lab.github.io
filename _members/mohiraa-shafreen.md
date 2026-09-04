@@ -8,7 +8,7 @@ links:
   google-scholar: 0mf9Qd0AAAAJ
   github: mo-06-shaf
   orcid: 0009-0001-8445-6317
-  linkedin: https://www.linkedin.com/in/mohiraa-shafreen-95829921a/
+  linkedin: mohiraa-shafreen-95829921a
   twitter: Shaffinreallife
   email: mohiraa.shafreen@mbzuai.ac.ae
 ---
