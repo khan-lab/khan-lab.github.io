@@ -28,5 +28,5 @@ Anil is a Research Scientist in the Computational Biology and Cancer Regulatory 
 ## Experience
 
 - _Senior Bioinformatician_, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK (2022–2026)
-- _Postdoctoral Research Fellow_, Earlham Institute, Norwich, UK (2020–2022)
+- _Postdoctoral Research Scientist_, Earlham Institute, Norwich, UK (2020–2022)
 - _Scientific Programmer_, Earlham Institute, Norwich, UK (2011–2020)
