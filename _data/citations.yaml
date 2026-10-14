@@ -180,6 +180,157 @@
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig1_HTML.png
   category: null
+- id: doi:10.1101/2025.09.08.674484
+  title: Polyclonal origins of human premalignant colorectal lesions
+  authors:
+  - Debra Van Egeren
+  - Ryan O. Schenck
+  - Aziz Khan
+  - Aaron M Horning
+  - Shanlan Mo
+  - "Clemens L. Wei\xDF"
+  - Edward D. Esplin
+  - Winston R. Becker
+  - Si Wu
+  - Casey Hanson
+  - Nasim Barapour
+  - Lihua Jiang
+  - "K\xE9vin Contrepois"
+  - Hayan Lee
+  - Stephanie A. Nevins
+  - Tuhin K. Guha
+  - Hao Zhang
+  - Zhen He
+  - Zhicheng Ma
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Bahareh Bahmani
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Samuel Lancaster
+  - Jeanne Shen
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - William J. Greenleaf
+  - Zheng Hu
+  - James M. Ford
+  - Michael P. Snyder
+  - Christina Curtis
+  publisher: openRxiv
+  date: '2025-09-12'
+  link: https://doi.org/g98wmt
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.26.634557
+  title: Temporal and spatial composition of the tumor microenvironment predicts response
+    to immune checkpoint inhibition
+  authors:
+  - Noah F. Greenwald
+  - Iris Nederlof
+  - Cameron Sowers
+  - Daisy Yi Ding
+  - Seongyeol Park
+  - Alex Kong
+  - Kathleen E. Houlahan
+  - Sricharan Reddy Varra
+  - Manon de Graaf
+  - Veerle Geurts
+  - Candace C. Liu
+  - Jolene S. Ranek
+  - Leonie Voorwerk
+  - Michiel de Maaker
+  - Adam Kagel
+  - Erin McCaffrey
+  - Aziz Khan
+  - Christine Yiwen Yeh
+  - Christine Camacho Fullaway
+  - Zumana Khair
+  - Yunhao Bai
+  - Hadeesha Piyadasa
+  - Tyler Risom
+  - Alea Delmastro
+  - Felix J. Hartmann
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Ton N. Schumacher
+  - Zhicheng Ma
+  - Marc Bosse
+  - Marc J. van de Vijver
+  - Robert Tibshirani
+  - Hugo M. Horlings
+  - Christina Curtis
+  - Marleen Kok
+  - Michael Angelo
+  publisher: openRxiv
+  date: '2025-01-28'
+  link: https://doi.org/g83fjp
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adh8697
+  title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
+    proclivity
+  authors:
+  - Kathleen E. Houlahan
+  - Aziz Khan
+  - Noah F. Greenwald
+  - Cristina Sotomayor Vivas
+  - Robert B. West
+  - Michael Angelo
+  - Christina Curtis
+  publisher: Science
+  date: '2024-05-31'
+  link: https://doi.org/gt3wh4
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
+  category: null
+- id: doi:10.1093/nar/gkad1059
+  title: 'JASPAR 2024: 20th anniversary of the open-access database of transcription
+    factor binding profiles'
+  authors:
+  - Ieva Rauluseviciute
+  - Rafael Riudavets-Puig
+  - Romain Blanc-Mathieu
+  - "Jaime\_A Castro-Mondragon"
+  - Katalin Ferenc
+  - Vipin Kumar
+  - Roza Berhanu Lemma
+  - "J\xE9r\xE9my Lucas"
+  - "Jeanne Ch\xE8neby"
+  - Damir Baranasic
+  - Aziz Khan
+  - Oriol Fornes
+  - Sveinung Gundersen
+  - Morten Johansen
+  - Eivind Hovig
+  - Boris Lenhard
+  - Albin Sandelin
+  - "Wyeth\_W Wasserman"
+  - "Fran\xE7ois Parcy"
+  - Anthony Mathelier
+  publisher: Nucleic Acids Research
+  date: '2023-11-14'
+  link: https://doi.org/gs4n8b
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jaspar.jpeg
+  buttons:
+  - type: website
+    text: JASPAR
+    link: https://jaspar.elixir.no/
 - id: doi:10.1038/s43018-024-00831-z
   title: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways
     associated with early tumorigenesis
@@ -225,41 +376,6 @@
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1059
-  title: 'JASPAR 2024: 20th anniversary of the open-access database of transcription
-    factor binding profiles'
-  authors:
-  - Ieva Rauluseviciute
-  - Rafael Riudavets-Puig
-  - Romain Blanc-Mathieu
-  - "Jaime\_A Castro-Mondragon"
-  - Katalin Ferenc
-  - Vipin Kumar
-  - Roza Berhanu Lemma
-  - "J\xE9r\xE9my Lucas"
-  - "Jeanne Ch\xE8neby"
-  - Damir Baranasic
-  - Aziz Khan
-  - Oriol Fornes
-  - Sveinung Gundersen
-  - Morten Johansen
-  - Eivind Hovig
-  - Boris Lenhard
-  - Albin Sandelin
-  - "Wyeth\_W Wasserman"
-  - "Fran\xE7ois Parcy"
-  - Anthony Mathelier
-  publisher: Nucleic Acids Research
-  date: '2023-11-14'
-  link: https://doi.org/gs4n8b
-  orcid: 0000-0002-6459-6224
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/jaspar.jpeg
-  buttons:
-  - type: website
-    text: JASPAR
-    link: https://jaspar.elixir.no/
 - id: doi:10.1038/s41586-023-06102-8
   title: Deterministic evolution and stringent selection during preneoplasia
   authors:
@@ -288,9 +404,211 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2022/04/28/2022.04.09.487529/F1.large.jpg
-- id: pmid:36400020
+- id: doi:10.1016/j.xpro.2022.101927
+  title: Somatic variant detection from multi-sampled genomic sequencing data of tumor
+    specimens using the ith.Variant pipeline
+  authors:
+  - Nicole Maeser
+  - Aziz Khan
+  - Ruping Sun
+  publisher: STAR Protocols
+  date: '2023-03-01'
+  link: https://doi.org/g87tb4
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722008073-fx1.jpg
+- id: doi:10.1101/2022.04.09.487529
+  title: Deterministic evolution and stringent selection during pre-neoplasia
+  authors:
+  - Kasper Karlsson
+  - Moritz J. Przybilla
+  - Eran Kotler
+  - Aziz Khan
+  - Hang Xu
+  - Kremena Karagyozova
+  - Alexandra Sockell
+  - Wing H. Wong
+  - Katherine Liu
+  - Amanda Mah
+  - Yuan-Hung Lo
+  - Bingxin Lu
+  - Kathleen E. Houlahan
+  - Zhicheng Ma
+  - Carlos J. Suarez
+  - Chris P. Barnes
+  - Calvin J. Kuo
+  - Christina Curtis
+  publisher: openRxiv
+  date: '2022-04-10'
+  link: https://doi.org/gsxqnw
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkab1113
+  title: 'JASPAR 2022: the 9th release of the open-access database of transcription
+    factor binding profiles'
+  authors:
+  - Jaime A Castro-Mondragon
+  - Rafael Riudavets-Puig
+  - Ieva Rauluseviciute
+  - "Roza Berhanu\_Lemma"
+  - Laura Turchi
+  - Romain Blanc-Mathieu
+  - Jeremy Lucas
+  - Paul Boddie
+  - Aziz Khan
+  - "Nicol\xE1s Manosalva\_P\xE9rez"
+  - Oriol Fornes
+  - "Tiffany\_Y Leung"
+  - Alejandro Aguirre
+  - Fayrouz Hammal
+  - Daniel Schmelter
+  - Damir Baranasic
+  - Benoit Ballester
+  - Albin Sandelin
+  - Boris Lenhard
+  - Klaas Vandepoele
+  - Wyeth W Wasserman
+  - "Fran\xE7ois Parcy"
+  - Anthony Mathelier
+  publisher: Nucleic Acids Research
+  date: '2021-11-30'
+  link: https://doi.org/gpm2rq
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jaspar.jpeg
+  buttons:
+  - type: website
+    text: JASPAR 2022
+    link: https://jaspar2022.genereg.net/
+- id: doi:10.1016/j.ccell.2022.10.021
   title: 'Molecular classification and biomarkers of clinical outcome in breast ductal
-    carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts.'
+    carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts'
+  authors:
+  - Siri H. Strand
+  - "Bel\xE9n Rivero-Guti\xE9rrez"
+  - Kathleen E. Houlahan
+  - Jose A. Seoane
+  - Lorraine M. King
+  - Tyler Risom
+  - Lunden A. Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Shi Wei
+  - Angela DeMichele
+  - Tari King
+  - Priscilla F. McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Anna Maria Storniolo
+  - Alastair M. Thompson
+  - Gaorav P. Gupta
+  - Robyn Burns
+  - Deborah J. Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley X. Zhu
+  - Jen Tappenden
+  - Daisy Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey R. Marks
+  - Graham A. Colditz
+  - E. Shelley Hwang
+  - Robert B. West
+  publisher: Cancer Cell
+  date: '2022-12-01'
+  link: https://doi.org/gq86c6
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33907327
+  title: 'Pakistan: anger mounts over threat to higher education.'
+  authors:
+  - Aziz Khan
+  publisher: Nature
+  date: '2021-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33907327
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41562-021-01067-y
+  title: Changing scientific meetings for the better
+  authors:
+  - Sarvenaz Sarabipour
+  - Aziz Khan
+  - Yu Fen Samantha Seah
+  - Aneth D. Mwakilili
+  - Fiona N. Mumoki
+  - "Pablo J. S\xE1ez"
+  - Benjamin Schwessinger
+  - Humberto J. Debat
+  - Tomislav Mestrovic
+  publisher: Nature Human Behaviour
+  date: '2021-03-15'
+  link: https://doi.org/gjgnkq
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41562-021-01067-y/MediaObjects/41562_2021_1067_Fig1_HTML.png
+- id: doi:10.7554/eLife.65604
+  title: A call to eradicate non-inclusive terms from the life sciences
+  authors:
+  - Aziz Khan
+  publisher: eLife
+  date: '2021-02-08'
+  link: https://doi.org/gh56p5
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa928
+  title: 'BiasAway: command-line and web server to generate nucleotide composition-matched
+    DNA background sequences'
+  authors:
+  - Aziz Khan
+  - Rafael Riudavets Puig
+  - Paul Boddie
+  - Anthony Mathelier
+  publisher: Bioinformatics
+  date: '2020-11-02'
+  link: https://doi.org/g87ft6
+  orcid: 0000-0002-6459-6224
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/bioinformatics_cover.jpeg
+  buttons:
+  - type: source
+    text: Source Code
+    link: https://github.com/asntech/intervene
+  tags:
+  - open-source
+  - software
+- id: doi:10.1101/2021.06.16.448585
+  title: 'DCIS genomic signatures define biology and clinical outcome: Human Tumor
+    Atlas Network (HTAN) analysis of TBCRC 038 and RAHBT cohorts'
   authors:
   - Siri H Strand
   - "Bel\xE9n Rivero-Guti\xE9rrez"
@@ -344,105 +662,117 @@
   - Graham A Colditz
   - E Shelley Hwang
   - Robert B West
-  publisher: Cancer cell
-  date: '2022-11-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36400020
+  publisher: openRxiv
+  date: '2021-06-16'
+  link: https://doi.org/gszzsx
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkab1113
-  title: 'JASPAR 2022: the 9th release of the open-access database of transcription
-    factor binding profiles'
+- id: doi:10.21203/rs.3.rs-515393/v1
+  title: Multi-omic Analysis of Familial Adenomatous Polyposis Reveals Molecular Pathways
+    and Polyclonal Spreading Associated with Early Tumorigenesis
   authors:
-  - Jaime A Castro-Mondragon
-  - Rafael Riudavets-Puig
-  - Ieva Rauluseviciute
-  - "Roza Berhanu\_Lemma"
-  - Laura Turchi
-  - Romain Blanc-Mathieu
-  - Jeremy Lucas
-  - Paul Boddie
+  - Michael Snyder
+  - Aaron Horning
+  - Edward Esplin
+  - Si Wu
+  - Casey Hanson
+  - Nasim Bararpour
+  - Stephanie Nevins
+  - Lihua Jiang
+  - Kevin Contrepoi
+  - Hayan Lee
+  - Tuhin Guha
+  - Zheng Hu
+  - Rozelle Laquindanum
+  - Meredith Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
   - Aziz Khan
-  - "Nicol\xE1s Manosalva\_P\xE9rez"
-  - Oriol Fornes
-  - "Tiffany\_Y Leung"
-  - Alejandro Aguirre
-  - Fayrouz Hammal
-  - Daniel Schmelter
-  - Damir Baranasic
-  - Benoit Ballester
-  - Albin Sandelin
-  - Boris Lenhard
-  - Klaas Vandepoele
-  - Wyeth W Wasserman
-  - "Fran\xE7ois Parcy"
-  - Anthony Mathelier
-  publisher: Nucleic Acids Research
-  date: '2021-11-30'
-  link: https://doi.org/gpm2rq
-  orcid: 0000-0002-6459-6224
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/jaspar.jpeg
-  buttons:
-  - type: website
-    text: JASPAR 2022
-    link: https://jaspar2022.genereg.net/
-- id: pmid:34174819
-  title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
-    species.'
-  authors:
-  - Rafael Riudavets Puig
-  - Paul Boddie
-  - Aziz Khan
-  - Jaime Abraham Castro-Mondragon
-  - Anthony Mathelier
-  publisher: BMC genomics
-  date: '2021-06-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34174819
+  - Basil Michael
+  - Bahareh Bahmani
+  - Glen Esplin
+  - Jeanne Shen
+  - Samuel Lancaster
+  - Uri Ladabaum
+  - Anshul Kundaje
+  - Teri Longacre
+  - William Greenleaf
+  - Christina Curtis
+  - James Ford
+  - Winston Becker
+  publisher: Springer Science and Business Media LLC
+  date: '2021-05-19'
+  link: https://doi.org/hcnnj6
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:33907327
-  title: 'Pakistan: anger mounts over threat to higher education.'
+- id: doi:10.2139/ssrn.3874170
+  title: 'The Human Tumor Atlas Network (HTAN) Breast Precancer Atlas: A Multi-Omic
+    Integrative Analysis of Ductal Carcinoma in situ&amp;nbsp;With Clinical Outcomes'
   authors:
+  - Siri  H. Strand
+  - "Bel\xE9n Rivero-Guti\xE9rrez"
+  - Kathleen  E. Houlahan
+  - Jose  A. Seoane
+  - Lorraine King
+  - Tyler Risom
+  - Lunden  A. Simpson
+  - Sujay Vennam
   - Aziz Khan
-  publisher: Nature
-  date: '2021-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33907327
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Gabrielle  B. Rocque
+  - Angela DeMichele
+  - Tari King
+  - Priscilla McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Ana Maria Storniolo
+  - Alastair Thompson
+  - Gaorav Gupta
+  - Robyn Burns
+  - Deborah  J. Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley  X. Zhu
+  - Jen Tappenden
+  - Daisy  Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert  Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey  R. Marks
+  - Graham A. Colditz
+  - E. Shelley Hwang
+  - Robert  B. West
+  publisher: Elsevier BV
+  date: '2021-01-01'
+  link: https://doi.org/hcfwjv
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41562-021-01067-y
-  title: Changing scientific meetings for the better
-  authors:
-  - Sarvenaz Sarabipour
-  - Aziz Khan
-  - Yu Fen Samantha Seah
-  - Aneth D. Mwakilili
-  - Fiona N. Mumoki
-  - "Pablo J. S\xE1ez"
-  - Benjamin Schwessinger
-  - Humberto J. Debat
-  - Tomislav Mestrovic
-  publisher: Nature Human Behaviour
-  date: '2021-03-15'
-  link: https://doi.org/gjgnkq
-  orcid: 0000-0002-6459-6224
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41562-021-01067-y/MediaObjects/41562_2021_1067_Fig1_HTML.png
-- id: doi:10.7554/eLife.65604
-  title: A call to eradicate non-inclusive terms from the life sciences
-  authors:
-  - Aziz Khan
-  publisher: eLife
-  date: '2021-02-08'
-  link: https://doi.org/gh56p5
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.11.17.384578
+- id: doi:10.1186/s12864-021-07760-6
   title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
     species'
   authors:
@@ -451,9 +781,9 @@
   - Aziz Khan
   - Jaime Abraham Castro-Mondragon
   - Anthony Mathelier
-  publisher: openRxiv
-  date: '2020-11-17'
-  link: https://doi.org/g87ff7
+  publisher: BMC Genomics
+  date: '2021-06-26'
+  link: https://doi.org/gs9mk3
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -464,24 +794,6 @@
   publisher: Nature
   date: '2020-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33235363
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.04.02.022079
-  title: 'Evaluating features of scientific conferences: A call for improvements'
-  authors:
-  - Sarvenaz Sarabipour
-  - Aziz Khan
-  - Samantha Seah
-  - Aneth D. Mwakilili
-  - Fiona N. Mumoki
-  - "Pablo J. S\xE1ez"
-  - Benjamin Schwessinger
-  - Humberto J. Debat
-  - Tomislav Mestrovic
-  publisher: openRxiv
-  date: '2020-04-03'
-  link: https://doi.org/gh45db
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -529,6 +841,39 @@
   publisher: Cell
   date: '2020-04-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32302568
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.02.022079
+  title: 'Evaluating features of scientific conferences: A call for improvements'
+  authors:
+  - Sarvenaz Sarabipour
+  - Aziz Khan
+  - Samantha Seah
+  - Aneth D. Mwakilili
+  - Fiona N. Mumoki
+  - "Pablo J. S\xE1ez"
+  - Benjamin Schwessinger
+  - Humberto J. Debat
+  - Tomislav Mestrovic
+  publisher: openRxiv
+  date: '2020-04-03'
+  link: https://doi.org/gh45db
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.17.384578
+  title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
+    species'
+  authors:
+  - Rafael Riudavets Puig
+  - Paul Boddie
+  - Aziz Khan
+  - Jaime Abraham Castro-Mondragon
+  - Anthony Mathelier
+  publisher: openRxiv
+  date: '2020-11-17'
+  link: https://doi.org/g87ff7
   orcid: 0000-0002-6459-6224
   plugin: orcid.py
   file: orcid.yaml
@@ -689,7 +1034,7 @@
   - Aziz Khan
   - "Alejandro Montenegro\u2010Montero"
   - Anthony Mathelier
-  publisher: EMBO reports
+  publisher: The EMBO Reports
   date: '2018-04-12'
   link: https://doi.org/cnhd
   orcid: 0000-0002-6459-6224
@@ -700,19 +1045,6 @@
   - type: website
     text: F1000 Feedback
     link: https://archive.connect.h1.co/article/733031605/
-- id: doi:10.1101/310839
-  title: Super-enhancers are transcriptionally more active and cell-type-specific
-    than stretch enhancers
-  authors:
-  - Aziz Khan
-  - Anthony Mathelier
-  - Xuegong Zhang
-  publisher: openRxiv
-  date: '2018-04-30'
-  link: https://doi.org/gktscf
-  orcid: 0000-0002-6459-6224
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/nar/gkx1126
   title: 'JASPAR 2018: update of the open-access database of transcription factor
     binding profiles and its web framework'
@@ -743,6 +1075,19 @@
   plugin: sources.py
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/46/D1/2/m_cover.gif?Expires=1744459365&Signature=g6NUrK6VKf1dcsBKINZe6ug45Z5UOL9w5COuRAuVNT36P2-zA-XPIYvgwozhHbKSfLx9KMU~QLnRTDrBQtXoqFmOL34beWHhE10xMb8gghA3LpVquyxlxrH5fQJ-375mPCmH0SOGjeMur8fxmcwaDvdVafKyTYtUhEKMMjpObkb84GEiv15rjg3TK5v3rQLq041QE0qdZm57OlDrfYIDXdv4p1rTR1iMAkqiaaUh~c2QkVVopPhjItKzn4hJo4tubmojbJwiFf-Srv9B9xWFH68jnn4b3wv5s7s~uH50GDuwzH9joTICTS7l1eECgluNsIMh4aV0Dx8mzDrbF7XY0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1101/310839
+  title: Super-enhancers are transcriptionally more active and cell-type-specific
+    than stretch enhancers
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  - Xuegong Zhang
+  publisher: openRxiv
+  date: '2018-04-30'
+  link: https://doi.org/gktscf
+  orcid: 0000-0002-6459-6224
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btx804
   title: 'JASPAR RESTful API: accessing JASPAR data from any programming language'
   authors:
@@ -962,55 +1307,3 @@
   tags:
   - open-source
   - database
-- id: doi:10.1126/science.adh8697
-  title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
-    proclivity
-  authors:
-  - Kathleen E. Houlahan
-  - Aziz Khan
-  - Noah F. Greenwald
-  - Cristina Sotomayor Vivas
-  - Robert B. West
-  - Michael Angelo
-  - Christina Curtis
-  publisher: Science
-  date: '2024-05-31'
-  link: https://doi.org/gt3wh4
-  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
-  category: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.xpro.2022.101927
-  title: Somatic variant detection from multi-sampled genomic sequencing data of tumor
-    specimens using the ith.Variant pipeline
-  authors:
-  - Nicole Maeser
-  - Aziz Khan
-  - Ruping Sun
-  publisher: STAR Protocols
-  date: '2023-03-01'
-  link: https://doi.org/g87tb4
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722008073-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/bioinformatics/btaa928
-  title: 'BiasAway: command-line and web server to generate nucleotide composition-matched
-    DNA background sequences'
-  authors:
-  - Aziz Khan
-  - Rafael Riudavets Puig
-  - Paul Boddie
-  - Anthony Mathelier
-  publisher: Bioinformatics
-  date: '2020-11-02'
-  link: https://doi.org/g87ft6
-  image: images/publications/bioinformatics_cover.jpeg
-  buttons:
-  - type: source
-    text: Source Code
-    link: https://github.com/asntech/intervene
-  tags:
-  - open-source
-  - software
-  plugin: sources.py
-  file: sources.yaml
