@@ -3,7 +3,7 @@ name: Anil Thanki
 image: /images/team/anil-thanki.jpg
 role: member
 description: Research Scientist
-country: "en"
+country: "gb"
 aliases:
   - Anil S. Thanki
 links:
