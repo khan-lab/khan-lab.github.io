@@ -4,6 +4,7 @@ image: /images/team/shreyansh.jpg
 role: visiting
 description: Visiting Researcher
 country: "in"
+alumni: true
 aliases:
   - S. Priyadarshi
   - Shreyansh Priyadarshi
