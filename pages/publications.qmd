@@ -1,0 +1,7 @@
+---
+title: Publications
+---
+
+Publications from the group and the PI’s earlier research, including peer-reviewed articles and preprints. 
+
+{{< include ../_generated/publications.md >}}

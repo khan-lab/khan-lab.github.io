@@ -1,0 +1,15 @@
+---
+id: 2025-11-19-mini-genomics-data-carpentry-workshop
+title: Mini Genomics Data Carpentry workshop
+date: 2025-11-19
+categories:
+- lab-news
+description: Taught Genomics Data Carpentry workshop module on Data Wrangling and
+  Processing for Genomics  at MBZUAI Winter School MBZUAI, Abu Dhabi, UAE.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
+---
+
+Taught Genomics Data Carpentry workshop module on <i>Data Wrangling and Processing for Genomics </i> at MBZUAI Winter School MBZUAI, Abu Dhabi, UAE.
+
+[Further details](https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School)

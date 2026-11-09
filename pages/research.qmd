@@ -1,0 +1,9 @@
+---
+title: "Research"
+filters:
+  - ../framework/filters/inline-content.lua
+---
+
+{{< include ../_generated/research-summary.md >}}
+
+{{< include ../_generated/research.md >}}

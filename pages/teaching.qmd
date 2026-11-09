@@ -1,0 +1,7 @@
+---
+title: Teaching
+---
+
+Courses, workshops and guest lectures, with links to teaching materials.
+
+{{< include ../_generated/teaching.md >}}

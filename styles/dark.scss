@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+$body-bg: #151B1E;
+$body-color: #E7ECE9;
+$body-secondary-color: #B8C2BE;
+$body-tertiary-color: #9BA9A4;
+$navbar-bg: #151B1E;
+$navbar-fg: #E7ECE9;
+$footer-bg: #151B1E;
+$footer-fg: #B8C2BE;
+$border-color: #465354;
+$input-bg: #1F282C;
+$input-color: #E7ECE9;
+$input-border-color: #7D8985;
+$input-placeholder-color: #B8C2BE;
+$dropdown-bg: #1F282C;
+$dropdown-color: #E7ECE9;
+$dropdown-link-color: #E7ECE9;
+$dropdown-link-hover-bg: #293337;
+$dropdown-link-hover-color: #E7ECE9;
+$modal-content-bg: #1F282C;
+$popover-bg: #1F282C;
+$popover-body-color: #E7ECE9;
+$card-bg: #1F282C;
+$code-bg: #1F282C;
+$code-color: #E7ECE9;
+$code-block-bg: #1F282C;
+$table-color: #E7ECE9;
+$table-border-color: #465354;
+
+/*-- scss:rules --*/
+:root {
+  color-scheme: dark;
+  --lab-bg: #151B1E;
+  --lab-text: #E7ECE9;
+  --lab-muted: #B8C2BE;
+  --lab-lede: #C4CDC9;
+  --lab-border: #465354;
+  --lab-border-subtle: #344144;
+  --lab-border-strong: #60706B;
+  --lab-input-border: #7D8985;
+  --lab-underline: #84958D;
+  --lab-surface: #1F282C;
+  --lab-hover: #293337;
+  --lab-overview: #1B2428;
+  --lab-input-bg: #1F282C;
+}

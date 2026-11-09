@@ -1,0 +1,135 @@
+source_repository: https://github.com/khan-lab/khan-lab.github.io
+source_commit: 62d3473e5aed3ea88c25e2d343b6c7c366a878ea
+updated: '2026-11-03'
+authorization: Lab maintainer explicitly requested enabling the CBCRG demo map and reusing original 
+  source country fields for imported profiles. This records maintainer authorization, not 
+  independently collected individual consent.
+interpretation: Declared country connections copied verbatim except uppercase ISO normalization; no 
+  nationality, citizenship, birthplace or country inferred from education or names.
+updated_profiles:
+- id: akshat-mistry
+  name: Akshat Mistry
+  source_path: _members/akshat-mistry.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/akshat-mistry.md
+  source_sha256: 6e4831ef3912574a5d6ea04333adfd7bec5eced47f6159b7ca6641102314ba7e
+  original_country: in
+  countries:
+  - IN
+  show_on_global_map: true
+- id: anil-thanki
+  name: Anil Thanki
+  source_path: _members/anil-thanki.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/anil-thanki.md
+  source_sha256: b28f9d4ff8dd7dc024c68095794e9af4ae18eb32c5d1ea356d074ed8f5959a19
+  original_country: gb
+  countries:
+  - GB
+  show_on_global_map: true
+- id: aruzhan-zhamalbek
+  name: Aruzhan Zhamalbek
+  source_path: _members/aruzhan-zhamalbek.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/aruzhan-zhamalbek.md
+  source_sha256: 65386b6d914db4b5c037fa0a7c5c9b5cd56a90c293898e3236b9c3361ba7741b
+  original_country: kz
+  countries:
+  - KZ
+  show_on_global_map: true
+- id: aziz-khan
+  name: Aziz Khan
+  source_path: _members/aziz-khan.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/aziz-khan.md
+  source_sha256: 1d11a88c486cb92f817965a749846bb8f915508cba90a180eef2cb70f8be427d
+  original_country: no
+  countries:
+  - NO
+  show_on_global_map: true
+- id: colin-campbell
+  name: Colin Campbell
+  source_path: _members/colin-campbell.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/colin-campbell.md
+  source_sha256: e5e1d66abae8752e02445155e4108e561ee63a5a79b82a7cda54a76bea9835bf
+  original_country: nz
+  countries:
+  - NZ
+  show_on_global_map: true
+- id: jenna-khanfar
+  name: Jenna Khanfar
+  source_path: _members/jenna-khanfar.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/jenna-khanfar.md
+  source_sha256: 70f2c0e410ebf7252a0dc5c3c67f3d2baabeed72208970bed1cd2166216e543b
+  original_country: jo
+  countries:
+  - JO
+  show_on_global_map: true
+- id: khalifa-juma
+  name: Khalifa Juma
+  source_path: _members/khalifa-juma.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/khalifa-juma.md
+  source_sha256: 24d97e2cd0bd63922d1bf45a50bb24f792fd95dd8b48be68d36d08b132c19333
+  original_country: ae
+  countries:
+  - AE
+  show_on_global_map: true
+- id: lina-utenova
+  name: Lina Utenova
+  source_path: _members/lina-utenova.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/lina-utenova.md
+  source_sha256: e2706e8c106b1c04747b219f30f737b959b0c17861ac4ac39646bc10f564a81e
+  original_country: kz
+  countries:
+  - KZ
+  show_on_global_map: true
+- id: msivaswami
+  name: Muthukumaraswami Sivaswami
+  source_path: _members/msivaswami.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/msivaswami.md
+  source_sha256: 6d32be74afd463fdc9a685aca79a970af039fa54fa06abbf3c5fd94b7976b0b2
+  original_country: in
+  countries:
+  - IN
+  show_on_global_map: true
+- id: shreyansh-priyadarshi
+  name: Shreyansh Priyadarshi
+  source_path: _members/shreyansh-priyadarshi.md
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/shreyansh-priyadarshi.md
+  source_sha256: bebba21577aae16b614b4dcbbe9784ef0d3acfcec74a9aea91cc3ab2d4cd9dbe
+  original_country: in
+  countries:
+  - IN
+  show_on_global_map: true
+newer_profiles_untouched:
+- id: shinya-yoshida
+  sha256: aa4c64296320c715709f10a936ed138ff86c9083e4cdff73634fa913a0170a31
+  reason: No original source member record; left byte-for-byte untouched.
+- id: mohiraa-shafreen
+  sha256: 00828aad8d5b9c8ecc2f2702934791f06d0a6a0516c63e006938acb54c84b1eb
+  reason: No original source member record; left byte-for-byte untouched.
+- id: charlotte-hawley
+  sha256: 655c15b84b6906c66b19f54be26b95ebd4f36726dc4afee1c4f5f84f7910a87d
+  reason: No original source member record; left byte-for-byte untouched.
+- id: nicholas-pratt
+  sha256: e9c129ee45fe373efa0f89406c9832d6759622beacd9c862f6858794f4bde02a
+  reason: No original source member record; left byte-for-byte untouched.
+- id: daniil-gerassimov
+  sha256: 8552e7ceb21d229509db662faa6f92a24b9478123f7253a70e2b726a8bb1541c
+  reason: No original source member record; left byte-for-byte untouched.
+statistics:
+  all:
+    members: 10
+    countries: 7
+  current:
+    members: 7
+    countries: 6
+  alumni:
+    members: 3
+    countries: 2

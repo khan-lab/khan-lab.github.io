@@ -1,0 +1,23 @@
+<script>
+(() => {
+  const list = document.querySelector('[data-teaching-list]');
+  const panel = document.querySelector('.teaching-filters');
+  if (!list || !panel) return;
+  const search = document.getElementById('teaching-search');
+  const type = document.getElementById('teaching-type');
+  panel.hidden = false;
+  function filter() {
+    const query = search.value.trim().toLocaleLowerCase();
+    let count = 0;
+    list.querySelectorAll('.teaching-course').forEach(row => {
+      row.hidden = !(row.textContent.toLocaleLowerCase().includes(query) && (!type.value || row.dataset.teachingType === type.value));
+      if (!row.hidden) count++;
+    });
+    document.getElementById('teaching-count').textContent = `${count} offering${count === 1 ? '' : 's'}`;
+    document.getElementById('teaching-empty').hidden = count !== 0;
+  }
+  search.addEventListener('input', filter);
+  type.addEventListener('input', filter);
+  filter();
+})();
+</script>

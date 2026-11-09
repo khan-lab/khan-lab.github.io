@@ -1,0 +1,13 @@
+---
+title: ""
+pagetitle: Home
+title-block-style: none
+page-layout: full
+body-classes: home-page
+---
+
+{{< include _generated/home.md >}}
+
+{{< include framework/includes/home-people.html >}}
+
+{{< include framework/includes/home-news.html >}}

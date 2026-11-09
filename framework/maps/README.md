@@ -1,0 +1,10 @@
+# Bundled community-map data
+
+Normal site builds and reading the map require no CDN, geocoding or remote data service. `provenance.json` records exact sources, pinned versions/revisions and SHA-256 hashes.
+
+- `countries-50m.json`: World Atlas 2.0.2 country boundaries derived from Natural Earth 1:50m. The World Atlas code is ISC (`world-atlas-LICENSE`); Natural Earth geographic data is public domain. Country identifiers are numeric ISO codes, not alpha-2 labels. Dataset-defined areas without an ISO identifier remain neutral.
+- `iso-countries.json`: the alpha-2/name/numeric subset adapted from the pinned `lukes/ISO-3166-Countries-with-Regional-Codes` data. This reference file remains **CC BY-SA 4.0**, separately from the framework's BSD license; see `iso-LICENSE` and the source URL in `provenance.json`. Fields were selected/renamed into a code-keyed lookup. A compact map credit links to its source and license.
+- `country-paths.json`: deterministic Natural Earth SVG paths generated from the bundled topology with D3 7.9.0/TopoJSON Client 3.1.0. This adapted data file is distributed under CC BY-SA 4.0 with the reference-data attribution above; the underlying Natural Earth geography remains public domain. It enables highlighted, build-generated SVG output without Node in normal Python/Quarto builds.
+- `../vendor/d3.min.js`, `../vendor/topojson-client.min.js`: pinned libraries with their separate ISC license files beside them. No npm installation is required to read or build a website.
+
+After deliberately replacing verified input files and updating source hashes, maintainers can regenerate projected paths offline with `node scripts/community-map-assets.cjs`. This command updates the projected-data checksum and checks Pakistan, Norway, Germany, China and UAE mapping. It does not download anything. Keep topology and projected geometry in sync; tests check asset hashes. The 1:50m dataset covers 236 of the 249 ISO entries with polygons; other valid entries remain fully available in the accessible country list and statistics. No member data or personal coordinates belong in these reference files.

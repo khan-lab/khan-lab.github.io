@@ -1,0 +1,23 @@
+---
+title: News
+body-classes: news-page
+filters:
+  - ../framework/filters/inline-content.lua
+include-in-header:
+  text: '<link rel="alternate" type="application/rss+xml" title="News" href="news.xml">'
+include-after-body:
+  - ../framework/includes/news.html
+listing:
+  id: lab-news
+  contents: ../_generated/news-items.yml
+  template: ../framework/listings/news.ejs.md
+  type: default
+  sort: date desc
+  fields: [date, title, entry-description]
+  date-format: "D MMM YYYY"
+  page-size: 12
+  filter-ui: true
+  feed: false
+---
+
+Research updates, events and stories from our community.

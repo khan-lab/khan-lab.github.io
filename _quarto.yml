@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+  - index.qmd
+  - pages/*.qmd
+  - content/research/*.qmd
+  - content/news/*.qmd
+  - people/*.qmd
+website:
+  title: Example Research Lab
+  search: true
+  open-graph: true
+  navbar:
+    collapse-below: lg
+    title: false
+  page-footer:
+    center: Research with care. Shared openly.
+  site-url: https://khanlab.bio/
+format:
+  html:
+    page-layout: full
+    theme:
+      light:
+      - cosmo
+      - styles/theme.scss
+      - _generated/brand.scss
+      dark:
+      - cosmo
+      - styles/theme.scss
+      - styles/dark.scss
+      - _generated/brand-dark.scss
+    toc: false
+    lang: en
+    html-math-method: mathml
+    include-after-body: framework/includes/publications.html
+    respect-user-color-scheme: true
+execute:
+  enabled: false

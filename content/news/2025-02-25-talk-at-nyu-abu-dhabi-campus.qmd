@@ -1,0 +1,12 @@
+---
+id: 2025-02-25-talk-at-nyu-abu-dhabi-campus
+title: Talk at NYU Abu Dhabi Campus
+date: 2025-02-25
+categories:
+- lab-news
+description: Aziz was invited to speak at the Center for Genomics and Systems Biology,
+  New York University Abu Dhabi (NYUAD) Biology Seminar Series.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+---
+
+Aziz was invited to speak at the Center for Genomics and Systems Biology, New York University Abu Dhabi (NYUAD) Biology Seminar Series.

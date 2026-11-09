@@ -1,0 +1,14 @@
+---
+id: 2025-05-20-new-member
+title: New member
+date: 2025-05-20
+categories:
+- lab-news
+description: We warmly welcome Muthukumaraswami to the lab as a Research Associate!
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://khanlab.bio/members/msivaswami.html
+---
+
+We warmly welcome Muthukumaraswami to the lab as a Research Associate!
+
+[Further details](https://khanlab.bio/members/msivaswami.html)

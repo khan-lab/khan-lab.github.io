@@ -1,0 +1,15 @@
+---
+id: 2025-11-26-workshop-on-open-science-and-reproducibility
+title: Workshop on Open Science and Reproducibility
+date: 2025-11-26
+categories:
+- lab-news
+description: Taught a workshop on Becoming an Open and Reproducible Scientist as part
+  of InSyB2025, UDST, Doha.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://www.udst.edu.qa/insyb2025/program-and-highlights/Workshops
+---
+
+Taught a workshop on <i>Becoming an Open and Reproducible Scientist</i> as part of InSyB2025, UDST, Doha.
+
+[Further details](https://www.udst.edu.qa/insyb2025/program-and-highlights/Workshops)

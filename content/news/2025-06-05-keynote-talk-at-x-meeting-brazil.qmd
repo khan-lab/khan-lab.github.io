@@ -1,0 +1,15 @@
+---
+id: 2025-06-05-keynote-talk-at-x-meeting-brazil
+title: Keynote talk at X-meeting Brazil
+date: 2025-06-05
+categories:
+- lab-news
+description: Aziz delivered a keynote talk on Open Tools and Frameworks for Scalable
+  and Reproducible Genomics at the X-meeting Brazil 2025 in João Pessoa.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://x-meeting.com/events/2025#detailprogram2025
+---
+
+Aziz delivered a keynote talk on <i>Open Tools and Frameworks for Scalable and Reproducible Genomics</i> at the X-meeting Brazil 2025 in João Pessoa.
+
+[Further details](https://x-meeting.com/events/2025#detailprogram2025)

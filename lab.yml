@@ -1,0 +1,116 @@
+lab:
+  name: Computational Biology & Cancer Regulatory Genomics Lab
+  short_name: CBCRG@MBZUAI
+  tagline: Deciphering the cancer genome and epigenome.
+  description: We combine multi-omics, machine learning and complete T2T and pangenome references to
+    understand gene regulation in development and disease, and we build open, FAIR and AI-ready 
+    tools and resources for everyone.
+  mission: Understand how the non-coding genome shapes gene regulation in cancer, and build open 
+    methods and resources that advance discovery.
+  vision: More complete, inclusive and reproducible genomics that advances human health.
+  quote:
+    text: Science and everyday life cannot and should not be separated.
+    author: Rosalind Franklin
+  institution: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+  email: aziz.khan@mbzuai.ac.ae
+  site_url: 'https://khanlab.bio/'
+  recruitment_heading: Training the next generation of scientists
+  recruitment: We are training and building a collaborative team of responsible researchers united 
+    by a shared vision. We are committed to create an inclusive environment and recognize that 
+    diversity — in people, ideas, and data — is essential for scientific creativity and discovery.
+branding:
+  logo: assets/branding/logo-animated.svg
+  favicon: 'assets/branding/favicon.svg'
+  colors:
+    primary: '#2B94C8'
+    secondary: '#596779'
+  fonts:
+    headings: Source Serif 4
+    body: Source Sans 3
+people:
+  global_map:
+    enabled: true
+    show_member_names: false # Set true to show expandable individual names/profile links.
+    include_alumni: true
+    default_filter: all
+  show_education: false # Main People page only; individual profiles retain education.
+  alumni:
+    show_photos: true # Show circular portraits or initials in the alumni directory.
+    link_profiles: false # Enable links from alumni names to their profile pages.
+  photos:
+    grayscale: true
+    blur: 0 # Optional blur in pixels (0–10).
+    reveal_on_hover: true
+navigation:
+- research
+- people
+- publications
+- software
+- news
+- blog
+- teaching
+- join
+homepage:
+  mission: false
+  vision: false
+  quote: true
+  research: true
+  people: true
+  publications: true
+  software: true
+  news: true
+  recruitment: true
+blog:
+  enabled: true # Historical Aziz Khan posts retain their original 2016–2019 dates.
+teaching:
+  search: true # Optional search and activity-type filter.
+  enabled: true # User-supplied courses and workshops in content/teaching/courses.yml.
+  profile_courses: true
+hero:
+  font_sizes: {heading: 2.7, lab_name: 1.1} # Optional rem values: lab_name, heading, description and *_mobile.
+  overview: false
+  image: assets/demo/research-summary.svg
+  image_alt: Research overview connecting deep learning, non-coding mutations, gene regulation, 
+    diverse genomes and open tools.
+  image_caption: ''
+  metrics: [] # Optional curated metrics; no automatic member/resource counts.
+recruitment:
+  slides: # Add more photos here to enable the carousel controls.
+  - image: assets/images/group-photos/05112026.jpg
+    image_alt: Group photo of the lab members - November 5, 2026.
+    caption: Group photo of the lab members - November 5, 2026. By Zara
+  - image: assets/images/group-photos/lab-photo.jpg
+    image_alt: Our first lab group photo
+    caption: Our first lab group photo.
+  photos: {grayscale: true, blur: 0, reveal_on_hover: true}
+research:
+  summary_figure: true # Reuse the hero figure beside all research directions.
+  detail_pages: true
+  summary: Our research bridges biology, multi-omics, machine learning, and data science to 
+    understand how gene regulation shapes health and diseases like cancer. We aim to advance 
+    precision medicine through innovative, collaborative research — using diverse multi-omic 
+    datasets and more complete, inclusive reference genomes.
+news:
+  detail_pages: false
+publications:
+  highlight_authors: true # Only explicitly approved publication_names in people records.
+  altmetric: true
+  orcid: 0000-0002-6459-6224
+  openalex: ''
+provenance:
+  show_links: false # Keep migration evidence in metadata, without public attribution links.
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/index.md
+  source_commit: 62d3473e5aed3ea88c25e2d343b6c7c366a878ea
+  accessed: '2026-10-31'
+
+resources:
+  search: true # Set false to omit resource search and type filters.
+footer:
+  show_email: false # Contact page and member email links remain available.
+  show_logo: true # Reuse branding.logo in the footer's right column.
+  pi_links: true # Reuse PI GitHub, Google Scholar and ORCID links from people.yml.
+  source_url: https://github.com/khan-lab/khan-lab.github.io # CBCRG website source repository.
+  documentation_url: 'https://khan-lab.github.io/researchlabfolio/' # ResearchLabFolio documentation.
+  logos: [{src: assets/branding/mbzuai/MBZUAI_Logo_Bilingual_Left_Dark_Navy_Blue_RGB.svg, alt: 
+        MBZUAI, url: 'https://www.mbzuai.ac.ae/'}]                                                                                        # Entries: {src: assets/university.svg, alt: University name, url: 'https://university.example'}

@@ -1,0 +1,16 @@
+---
+id: 2025-11-25-keynote-talk-at-insyb2025-doha
+title: Keynote talk at InSyB2025 Doha
+date: 2025-11-25
+categories:
+- lab-news
+description: Invited keynote talk on Computational genomics at scale -- Open-source
+  frameworks for cancer omics and gene regulation at 9th International Symposium on
+  Bioinformatics (InSyB2025), UDST, Doha.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://www.udst.edu.qa/insyb2025
+---
+
+Invited keynote talk on <i>Computational genomics at scale -- Open-source frameworks for cancer omics and gene regulation</i> at 9th International Symposium on Bioinformatics (InSyB2025), UDST, Doha.
+
+[Further details](https://www.udst.edu.qa/insyb2025)

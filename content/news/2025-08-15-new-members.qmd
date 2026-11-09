@@ -1,0 +1,15 @@
+---
+id: 2025-08-15-new-members
+title: New members
+date: 2025-08-15
+categories:
+- lab-news
+description: Officially welcomed four masters students (Aruzhan, Jenna, Khalifa, Lina)
+  from MSML program to the team!
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://khanlab.bio/team/
+---
+
+Officially welcomed four masters students (Aruzhan, Jenna, Khalifa, Lina) from MSML program to the team!
+
+[Further details](https://khanlab.bio/team/)

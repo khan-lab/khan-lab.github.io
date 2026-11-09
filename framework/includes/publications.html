@@ -1,0 +1,47 @@
+<script>
+(() => {
+  const tooltipClass = link => link.classList.contains('resource-link') ? 'resource-tooltip-dismissed' : 'paper-tooltip-dismissed';
+  document.querySelectorAll('.paper-link, .resource-link').forEach(link => {
+    ['mouseleave', 'blur'].forEach(event => link.addEventListener(event, () => {
+      if (!link.matches(':hover, :focus')) link.classList.remove(tooltipClass(link));
+    }));
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') document.querySelectorAll('.paper-link:hover, .paper-link:focus, .resource-link:hover, .resource-link:focus').forEach(link => link.classList.add(tooltipClass(link)));
+  });
+  const list = document.querySelector('[data-publications]');
+  if (!list) return;
+  const controls = ['paper-search', 'paper-year', 'paper-type'].map(id => document.getElementById(id));
+  const featured = document.getElementById('paper-featured');
+  const member = document.getElementById('paper-member');
+  const requestedMember = new URLSearchParams(location.search).get('member');
+  if (member && Array.from(member.options).some(option => option.value === requestedMember)) member.value = requestedMember;
+  featured.hidden = false;
+  function filter() {
+    const [query, year, type] = controls.map(el => el.value.toLowerCase());
+    const onlyFeatured = featured.getAttribute('aria-pressed') === 'true';
+    let count = 0;
+    list.querySelectorAll('article').forEach(item => {
+      const searchable = ['h2', '.paper-authors', '.paper-venue', '.paper-year'].map(selector => item.querySelector(selector)?.textContent || '').join(' ').toLowerCase();
+      const matchesMember = !member?.value || JSON.parse(item.dataset.members || '[]').includes(member.value);
+      item.hidden = !(searchable.includes(query) && (!year || item.dataset.year === year) && (!type || item.dataset.type === type) && (!onlyFeatured || item.dataset.featured === 'true') && matchesMember);
+      if (!item.hidden) count++;
+    });
+    document.getElementById('paper-count').textContent = `${count} publication${count === 1 ? '' : 's'}`;
+    document.getElementById('paper-empty').hidden = count !== 0;
+  }
+  featured.addEventListener('click', () => {
+    featured.setAttribute('aria-pressed', featured.getAttribute('aria-pressed') === 'true' ? 'false' : 'true');
+    filter();
+  });
+  controls.forEach(el => el.addEventListener('input', filter));
+  member?.addEventListener('change', () => {
+    const url = new URL(location.href);
+    if (member.value) url.searchParams.set('member', member.value);
+    else url.searchParams.delete('member');
+    history.replaceState(null, '', url);
+    filter();
+  });
+  filter();
+})();
+</script>

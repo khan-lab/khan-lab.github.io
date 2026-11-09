@@ -1,0 +1,16 @@
+---
+id: 2025-12-15-invited-talk-at-uio-oslo
+title: Invited talk at UiO Oslo
+date: 2025-12-15
+categories:
+- lab-news
+description: Invited talk on Polyclonal origins of human premalignant colorectal lesions
+  at the Sven Furberg Seminars in Bioinformatics and Statistical Genomics, University
+  of Oslo, Norway.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://www.mn.uio.no/bils/english/furberg-seminars/dr.-aziz-khan.html
+---
+
+Invited talk on <i>Polyclonal origins of human premalignant colorectal lesions</i> at the Sven Furberg Seminars in Bioinformatics and Statistical Genomics, University of Oslo, Norway.
+
+[Further details](https://www.mn.uio.no/bils/english/furberg-seminars/dr.-aziz-khan.html)

@@ -1,0 +1,337 @@
+- id: akshat-mistry
+  countries: ["IN"]
+  show_on_global_map: true
+  name: Akshat Mistry
+  role: staff
+  position: Research Engineer
+  summary: Akshat is a Research Engineer specializing in bioinformatics pipeline development, genomic data analysis, and machine learning applications in computational biology.
+  bio: |
+    Akshat is a Research Engineer in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab at
+    **MBZUAI**. He holds a Master of Science in Bioinformatics from the **University of Birmingham**, and brings
+    expertise in bioinformatics pipeline development, genomic data analysis, and machine learning applications in
+    computational biology.
+
+    With a background in software development, he combines skills in web development, cloud computing, and machine
+    learning to develop robust bioinformatics tools and support high-impact regulatory genomics research. His focus
+    is on developing user-friendly applications and pipelines that facilitate diagnostics, personalized medicine,
+    and scientific discovery.
+
+  education: MSc, University of Birmingham, Dubai
+  photo: assets/migrated/images/team/akshat-mistry.png
+  links:
+    github: https://github.com/4kshat7
+    linkedin: https://www.linkedin.com/in/akshat-ashwin-mistry
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/akshat-mistry.md
+  orcid: 0009-0007-2468-9382
+  email: akshat.mistry@mbzuai.ac.ae
+- id: anil-thanki
+  countries: ["GB"]
+  show_on_global_map: true
+  name: Anil Thanki
+  role: staff
+  position: Research Scientist
+  summary: Anil is a Research Scientist specializing in bioinformatics tool and pipeline development, genomic data analysis, and computational infrastructure.
+  bio: Anil is a Research Scientist in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab at
+    MBZUAI. He holds a PhD from the University of East Anglia, UK, and specializes in bioinformatics tool and pipeline
+    development, genomic data analysis, and computational infrastructure.
+  education: PhD, University of East Anglia, UK
+  photo: assets/migrated/images/team/anil-thanki.jpg
+  links:
+    google-scholar: https://scholar.google.com/citations?user=_dyCbwsAAAAJ&sortby=pubdate
+    home-page: https://anilthanki.github.io
+    github: https://github.com/anilthanki
+    linkedin: https://www.linkedin.com/in/anilthanki
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/anil-thanki.md
+  orcid: 0000-0002-8941-444X
+  email: anil.thanki@mbzuai.ac.ae
+- id: aruzhan-zhamalbek
+  countries: ["KZ"]
+  show_on_global_map: true
+  name: Aruzhan Zhamalbek
+  role: masters
+  position: MS Student
+  bio: 'My name is Aruzhan Zhamalbek, and I am Master''s student at MBZUAI, joining Professor Aziz Khan''s lab.
+    I graduated with a B.S. in Bioengineering from NYU Abu Dhabi, where I explored the intersection of bioengineering
+    and bioinformatics. I bring over three years of wet lab experience in vaccine development, micro-device engineering,
+    CRISPR, and stem cell research. Building on this foundation, I am now transitioning into computational biology and genomic data analysis, with
+    research interests in omics studies, big data, and genetic variation.'
+  education: 'BSc in Bioengineering_ , New York University Abu Dhabi (NYUAD), UAE (2025)'
+  photo: assets/migrated/images/team/aruzhan-zhamalbek.jpg
+  links:
+    github: https://github.com/areujam
+    linkedin: https://www.linkedin.com/in/aruzhanzhamalbek/
+  projects: []
+  email: aruzhan.zhamalbek@mbzuai.ac.ae
+
+- id: aziz-khan
+  countries: ["NO","PK"]
+  show_on_global_map: true
+  publication_names: [Aziz Khan] # Verified author spelling; no fuzzy name matching.
+  name: Aziz Khan
+  role: pi
+  position: Principal Investigator
+  summary: Aziz is an Assistant Professor of Computational Biology at MBZUAI, leading the CBCRG Lab and focusing on gene regulation in diseases such as cancer.
+  education: 'PhD, Tsinghua University, China'
+  bio: |
+    Aziz is an Assistant Professor of Computational Biology at [**MBZUAI**](https://mbzuai.ac.ae/study/faculty/aziz-khan/),
+    leading the Computational Biology and Cancer Regulatory Genomics (**CBCRG**) Lab in Abu Dhabi. He has a PhD
+    in Bioinformatics from Tsinghua University with [Xuegong Zhang](https://eca.xglab.tech/member/index.html) followed
+    by a Postdoc at NCMM, University of Oslo with [Anthony Mathelier](https://mathelierlab.com/). His research bridges
+    computational biology, genomics, epigenomics, machine learning, and software engineering to understand gene
+    regulation in diseases such as cancer.
+
+    Previously, Aziz was a senior research scientist at Stanford Cancer Institute, Stanford University with [Christina
+    Curtis](https://med.stanford.edu/curtislab.html) where he led a bioinformatics team and developed scalable infrastructure
+    for analyzing large-scale cancer multi-omic datasets. He contributed to major consortiums, including the [Human
+    Tumor Atlas Network (HTAN)](https://humantumoratlas.org/) and the [Metastasis Research Network (MetNet)](https://www.cancer.gov/about-nci/organization/dcb/research-programs/metnet).
+    At Stanford University he also served as an [Instructor](https://explorecourses.stanford.edu/instructor/azizk)
+    for Stanford Biosciences to develop and teach a course on the art of reproducible science.
+
+    He is a strong advocate for open, reproducible, and collaborative science. He has developed widely used bioinformatics
+    [tools and resources](../pages/software.qmd) such as JASPAR, Intervene, dbSUPER, and UniBind, which have become
+    essential resources in gene regulation. He is also a [Certified Instructor](https://carpentries.org/community/instructors/)
+    for The Carpentries, providing hands-on training in software and genomics data science. He was an eLife and
+    ASAPbio Community Ambassador and actively promoted preprints, open-science, and reproducibility.
+  photo: assets/migrated/images/team/aziz.jpg
+  links:
+    google-scholar: https://scholar.google.com/citations?user=m23RfrcAAAAJ&sortby=pubdate
+    home-page: https://mbzuai.ac.ae/study/faculty/aziz-khan/
+    bluesky: https://bsky.app/profile/khanlab.bio
+    github: https://github.com/asntech
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/aziz-khan.md
+  orcid: 0000-0002-6459-6224
+  email: aziz.khan@mbzuai.ac.ae
+
+- id: colin-campbell
+  countries: ["NZ"]
+  show_on_global_map: true
+  name: Colin Campbell
+  role: alumni
+  position: Visiting Researcher
+  bio: I am a Visiting Researcher from NYUAD. I am interested in chromatin regulation, stem cell biology, and transcriptional
+    control. My work focuses on how cytoskeletal components influence gene expression and cell fate decisions. At
+    MBZUAI, my work focusses on the role of beta actin as a regulator of super enhancers.
+  education: BSc, NYU Abu Dhabi, UAE (2020)
+  next_position: "MD student, USA"
+  photo: assets/migrated/images/team/colin-campbell.jpg
+  links:
+    github: https://github.com/crc9954
+  email: colin.campbell@mbzuai.ac.ae
+
+- id: jenna-khanfar
+  countries: ["JO"]
+  show_on_global_map: true
+  name: Jenna Khanfar
+  role: masters
+  position: MS Student
+  bio: Jenna is a Masters student in the Machine Learning program at MBZUAI. She earned her B.Sc. in Bioengineering
+    from New York University Abu Dhabi (NYUAD), where her capstone project focused on developing machine learning
+    algorithms to reconstruct fractured bone models from CT scans for tissue engineering applications.
+  education: BSc, NYU Abu Dhabi, UAE (2025)
+  photo: assets/migrated/images/team/jenna-khanfar.jpg
+  links:
+    linkedin: https://www.linkedin.com/in/jennakhanfar
+    github: https://github.com/jennakhanfar
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/jenna-khanfar.md
+  email: jenna.khanfar@mbzuai.ac.ae
+
+- id: khalifa-juma
+  countries: ["AE"]
+  show_on_global_map: true
+  name: Khalifa Juma
+  role: masters
+  position: MS Student
+  bio: Khalifa is a Master's student in the Machine Learning program at MBZUAI and a member of the Computational
+    Biology and Cancer Regulatory Genomics (CBCRG) Lab. His interests lie at the intersection of artificial intelligence
+    and genomics, particularly in developing bioinformatics tools and applying machine learning methods to biological data.
+  education: BSc, Pennsylvania State University, USA (2024)
+  photo: assets/migrated/images/team/Khalifa-Juma.jpg
+  links:
+    github: https://github.com/Khalofx
+    linkedin: https://www.linkedin.com/in/khalifa-juma-1a5411131
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/khalifa-juma.md
+  orcid: 0009-0005-5227-5772
+  email: khalifa.juma@mbzuai.ac.ae
+
+- id: lina-utenova
+  countries: ["KZ"]
+  show_on_global_map: true
+  name: Lina Utenova
+  role: masters
+  position: MS Student
+  bio: Lina is a Master's student in the Machine Learning program at MBZUAI. She previously conducted both wet-
+    and dry-lab research at the Center for Genomics and Systems Biology (CGSB) at New York University Abu Dhabi
+    (NYUAD), contributing to a multi-omic study on differentially abundant functional pathways and their metabolite
+    products in oral samples from obese individuals.
+  education: BSc, NYU Abu Dhabi, UAE (2024)
+  photo: assets/migrated/images/team/lina.jpg
+  links:
+    github: https://github.com/utenovalina
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_members/lina-utenova.md
+  email: lina.utenova@mbzuai.ac.ae
+
+- id: shinya-yoshida
+  name: Shinya Yoshida
+  role: phd
+  position: Rotating PhD Student
+  education: MSc, The University of Tokyo - 2020
+  bio: I am a first-year PhD student at MBZUAI, currently rotating in Prof. Aziz’s lab. My research interests include epigenetics, software development, and molecular evolution.
+  email: Shinya.Yoshida@mbzuai.ac.ae
+  photo: assets/migrated/images/team/shinya-yoshida.jpg
+  countries: ["JP"]
+  show_on_global_map: true
+  links:
+    github: https://github.com/ShinyaYoshida-biomet
+    orcid: https://orcid.org/0009-0003-2702-7166
+
+- id: yusuf-maulana
+  name: Yusuf Maulana
+  role: phd
+  position: Rotating PhD Student
+  bio: Yusuf is a PhD student at MBZUAI in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab.
+  education: MSc, TBD
+  photo: 
+  email: yusuf.maulana@mbzuai.ac.ae
+  countries: ["ID"]
+  show_on_global_map: true
+  links:
+    github: https://github.com/yusufmaulana
+    orcid: https://orcid.org/0009-0003-1234-5678
+
+- id: zaina-alhemeiri
+  name: Zaina Alhemeiri
+  role: PhD
+  group: phd
+  position: PhD Student
+  education: MSc, University of Bath - 2025; BSc, King's College London - 2024
+  bio: |
+    Zaina is a PhD student in the Computational Biology program at MBZUAI. She holds an M.Sc. in Molecular Biosciences (Medical Biosciences) from the University of Bath and a B.Sc. in Biochemistry from King's College London.
+
+    At MBZUAI, she is part of the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab, where she studies transcriptional regulation in triple-negative breast cancer (TNBC). With a background spanning experimental biochemistry and genomics, her research interests include multi-omics data integration, cancer regulatory genomics, and applying machine learning to biological systems.
+  email: zaina.alhemeiri@mbzuai.ac.ae
+  photo: assets/migrated/images/team/zaina-alhemeiri.png
+  website:
+  countries: ["AE"]
+  show_on_global_map: true
+  links:
+    github: https://github.com/ZainaAH-223
+    orcid: https://orcid.org/0009-0004-8008-1935
+
+- id: meer-asif-ali
+  name: Meer Asif Ali
+  role: phd
+  position: Rotating PhD Student
+  education: MS, UTHealth Houston
+  bio: Meer is a PhD student at MBZUAI in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab.
+  photo: assets/migrated/images/team/meer-asif-ali.jpg
+  email: meer.ali@mbzuai.ac.ae
+  countries: ["IN"]
+  show_on_global_map: true
+  links:
+    github: https://github.com/M-304
+    linkedin: http://www.linkedin.com/in/meer-asif-ali-4609a5175
+
+- id: mohiraa-shafreen
+  name: Mohiraa Shafreen
+  role: msc
+  group: masters
+  position: Rotating MS Student
+  education: M.Tech, SRM Institute of Science and Technology
+  bio: Mohiraa is an MSc Computational Biology student at MBZUAI with a background in biotechnology and prior research in transcriptomics and microbiology.
+  photo: assets/migrated/images/team/mohiraa-shafreen.jpeg
+  email: mohiraa.shafreen@mbzuai.ac.ae
+  countries: ["IN"]
+  show_on_global_map: true
+  links:
+    github: https://github.com/mo-hi-raa
+    google-scholar: https://scholar.google.com/citations?user=0mf9Qd0AAAAJ
+    orcid: https://orcid.org/0009-0001-8445-6317
+
+- id: muhammed-bah
+  name: Muhammed Bah
+  role: masters
+  position: Rotating MS Student
+  bio: Muhammed is a Master's student at MBZUAI in the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab, currently rotating in the lab.
+  education: BSc, TBD
+  photo: 
+  email: muhammed.bah@mbzuai.ac.ae
+  countries: ["GM"]
+  show_on_global_map: true
+
+- id: msivaswami
+  countries: ["IN"]
+  show_on_global_map: true
+  name: Muthukumaraswami Sivaswami
+  role: alumni
+  position: Research Associate II
+  next_position: "PhD student, MBRU" # Next position and institution, once confirmed.
+  bio: Muthu's research focuses on the integration of multi-omics data to investigate the genetic basis of disease as well as phenotype analysis.
+  education: MSc, University of Birmingham, UAE (2024)
+  photo: assets/migrated/images/team/msivaswami.jpg
+  links:
+    google-scholar: https://scholar.google.com/citations?hl=en&user=CvW--fAAAAAJ
+    github: https://github.com/msivaswami
+    orcid: https://orcid.org/0009-0003-9534-784X
+  email: muthukumar.aswami@mbzuai.ac.ae
+
+- id: shreyansh-priyadarshi
+  countries: ["IN"]
+  show_on_global_map: true
+  name: Shreyansh Priyadarshi
+  role: alumni
+  position: Visiting Researcher
+  next_position: "PhD student, University of Southampton"
+
+  bio: Shreyansh is a Visiting Researcher at MBZUA in the Computational Biology and Cancer Regulatory Genomics
+    (CBCRG) Lab and a Pre-Doctoral Research Fellow at the Mphasis AI & Applied Tech Lab, Ashoka University, India. He is also a Visiting Academic at University of Southampton.
+  education: BSc, Ashoka University, India, 2024
+  photo: assets/migrated/images/team/shreyansh.jpg
+  links:
+    google-scholar: https://scholar.google.com/citations?user=cftXdQsAAAAJ
+    home-page: https://iamspriyadarshi.github.io/
+    github: https://github.com/iamspriyadarshi
+    twitter: https://twitter.com/iamspriyadarshi
+  orcid: 0000-0002-6230-4574
+  email: Shreyansh.P@mbzuai.ac.ae
+
+- id: charlotte-hawley
+  name: Charlotte Hawley
+  role: alumni
+  position: Research Intern
+  next_position: "MSc student, University of Oxford"
+  bio: ""
+  education: Imperial College London, UK (2027)
+  photo: 
+  email: charlotte.hawley@mbzuai.ac.ae
+  countries: ["FR"]
+  show_on_global_map: true
+
+- id: nicholas-pratt
+  name: Nicholas Pratt
+  role: alumni
+  position: UGRIP Intern
+  next_position: "PhD student, UC Merced"
+  bio: " "
+  education: Imperial College London, UK (2027)
+  photo: 
+  email: nicholas.pratt@mbzuai.ac.ae
+  countries: ["US"]
+  show_on_global_map: true
+
+- id: daniil-gerassimov
+  name: Daniil Gerassimov
+  role: alumni
+  position: UGRIP Intern
+  next_position: "BSc student, University of Arizona"
+  bio: " "
+  education: University of Arizona (2027)
+  photo: 
+  email: daniil.gerassimov@mbzuai.ac.ae
+  countries: ["KZ"]
+  show_on_global_map: true

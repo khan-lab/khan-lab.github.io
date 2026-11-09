@@ -1,0 +1,15 @@
+<script>
+(() => {
+  document.querySelectorAll('[data-random-people]').forEach(grid => {
+    const members = Array.from(grid.querySelectorAll('.home-person'));
+    // Fisher–Yates gives every current member the same chance on each load.
+    for (let i = members.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [members[i], members[j]] = [members[j], members[i]];
+    }
+    const limit = Number(grid.dataset.randomPeople);
+    members.forEach((member, index) => { member.hidden = index >= limit; });
+    grid.replaceChildren(...members);
+  });
+})();
+</script>

@@ -1,0 +1,29 @@
+<script>
+(() => {
+  const list = document.querySelector('[data-blog-posts]');
+  if (!list) return;
+  const search = document.getElementById('blog-search');
+  const category = document.getElementById('blog-category');
+  const tag = document.getElementById('blog-tag');
+  const params = new URLSearchParams(window.location.search);
+  for (const [control, key] of [[category, 'category'], [tag, 'tag']]) {
+    const value = (params.get(key) || '').toLowerCase();
+    if ([...control.options].some(option => option.value === value)) control.value = value;
+  }
+  document.querySelector('.blog-filters').hidden = false;
+  function filter() {
+    const query = search.value.trim().toLowerCase();
+    let count = 0;
+    list.querySelectorAll('.blog-post-row').forEach(post => {
+      post.hidden = !(post.textContent.toLowerCase().includes(query) &&
+        (!category.value || JSON.parse(post.dataset.categories).includes(category.value)) &&
+        (!tag.value || JSON.parse(post.dataset.tags).includes(tag.value)));
+      if (!post.hidden) count++;
+    });
+    document.getElementById('blog-count').textContent = `${count} post${count === 1 ? '' : 's'}`;
+    document.getElementById('blog-empty').hidden = count !== 0;
+  }
+  [search, category, tag].forEach(control => control.addEventListener('input', filter));
+  filter();
+})();
+</script>

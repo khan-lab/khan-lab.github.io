@@ -1,0 +1,2377 @@
+- id: work-2d02a97cad2673b5
+  title: Temporal and spatial composition of the tumor microenvironment predicts response to immune checkpoint inhibition in metastatic TNBC
+  authors:
+  - Noah F. Greenwald
+  - Iris Nederlof
+  - Cameron Sowers
+  - Daisy Yi Ding
+  - Seongyeol Park
+  - Alex Kong
+  - Kathleen E. Houlahan
+  - Sricharan Reddy Varra
+  - Manon de Graaf
+  - Veerle Geurts
+  - Candace C. Liu
+  - Jolene S. Ranek
+  - Leonie Voorwerk
+  - Michiel de Maaker
+  - Adam Kagel
+  - Erin McCaffrey
+  - Aziz Khan
+  - Christine Yiwen Yeh
+  - Christine Camacho Fullaway
+  - Zumana Khair
+  - Brennan G. Simon
+  - Yunhao Bai
+  - Hadeesha Piyadasa
+  - Tyler Risom
+  - Alea Delmastro
+  - Felix J. Hartmann
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Sean C. Bendall
+  - Ton N. Schumacher
+  - Zhicheng Ma
+  - Marc Bosse
+  - Marc J. van de Vijver
+  - Robert Tibshirani
+  - Hugo M. Horlings
+  - Christina Curtis
+  - Marleen Kok
+  - Michael Angelo
+  year: 2026
+  venue: Nature Cancer
+  type: article
+  doi: 10.1038/s43018-026-01114-5
+  url: https://doi.org/10.1038/s43018-026-01114-5
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s43018-026-01114-5
+  sources:
+  - https://doi.org/10.1038/s43018-026-01114-5
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/206471108
+  - https://orcid.org/0000-0002-6459-6224/work/228672940
+  projects: []
+- id: work-2f7e8dd24915e283
+  title: Polyclonal origins of human premalignant colorectal lesions
+  authors:
+  - Debra Van Egeren
+  - Ryan O. Schenck
+  - Aziz Khan
+  - Aaron M Horning
+  - Shanlan Mo
+  - Clemens L. Weiß
+  - Edward D. Esplin
+  - Winston R. Becker
+  - Si Wu
+  - Casey Hanson
+  - Nasim Barapour
+  - Lihua Jiang
+  - Kévin Contrepois
+  - Hayan Lee
+  - Stephanie A. Nevins
+  - Tuhin K. Guha
+  - Hao Zhang
+  - Zhen He
+  - Zhicheng Ma
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Bahareh Bahmani
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Samuel Lancaster
+  - Jeanne Shen
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - William J. Greenleaf
+  - Zheng Hu
+  - James M. Ford
+  - Michael P. Snyder
+  - Christina Curtis
+  year: 2025
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/2025.09.08.674484
+  url: https://doi.org/10.1101/2025.09.08.674484
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2025.09.08.674484
+  sources:
+  - https://doi.org/10.1101/2025.09.08.674484
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672879
+  projects: []
+- id: work-9d4e3b66cb856a85
+  title: Complex rearrangements fuel ER+ and HER2+ breast tumours
+  authors:
+  - Kathleen E. Houlahan
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Alvina Adimoelja
+  - Seongyeol Park
+  - Aziz Khan
+  - Sophia J. Pribus
+  - Zhicheng Ma
+  - Jennifer L. Caswell-Jin
+  - Christina Curtis
+  year: 2025
+  venue: Nature
+  type: article
+  doi: 10.1038/s41586-024-08377-x
+  url: https://doi.org/10.1038/s41586-024-08377-x
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s41586-024-08377-x
+  sources:
+  - https://doi.org/10.1038/s41586-024-08377-x
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/175276121
+  - https://orcid.org/0000-0002-6459-6224/work/228672920
+  projects: []
+- id: work-adf7b8f0767f13c0
+  title: High-confidence structural predictions of extrachromosomal DNA with ecDNAInspector
+  authors:
+  - Sophia Pribus
+  - Yanding Zhao
+  - Zhicheng Ma
+  - Clemens Weiss
+  - Aziz Khan
+  - Kathleen Houlahan
+  - Christina Curtis
+  year: 2025
+  venue: openRxiv
+  type: preprint
+  doi: 10.64898/2025.12.01.691649
+  url: https://doi.org/10.64898/2025.12.01.691649
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.64898/2025.12.01.691649
+  sources:
+  - https://doi.org/10.64898/2025.12.01.691649
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/199032945
+  - https://orcid.org/0000-0002-6459-6224/work/228672896
+  projects: []
+- id: work-d0ab80cac2a3542b
+  title: Polyclonal origins of human premalignant colorectal lesions
+  authors:
+  - Debra Van Egeren
+  - Ryan O. Schenck
+  - Aziz Khan
+  - Aaron M. Horning
+  - Shanlan Mo
+  - Clemens L. Weiß
+  - Edward D. Esplin
+  - Winston R. Becker
+  - Si Wu
+  - Casey Hanson
+  - Nasim Barapour
+  - Lihua Jiang
+  - Kévin Contrepois
+  - Hayan Lee
+  - Stephanie A. Nevins
+  - Tuhin K. Guha
+  - Hao Zhang
+  - Zhen He
+  - Zhicheng Ma
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Bahareh Bahmani
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Samuel Lancaster
+  - Jeanne Shen
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - William J. Greenleaf
+  - Zheng Hu
+  - James M. Ford
+  - Michael P. Snyder
+  - Christina Curtis
+  year: 2026
+  venue: Nature
+  type: article
+  doi: 10.1038/s41586-025-09930-y
+  url: https://doi.org/10.1038/s41586-025-09930-y
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s41586-025-09930-y
+  sources:
+  - https://doi.org/10.1038/s41586-025-09930-y
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/197942784
+  - https://orcid.org/0000-0002-6459-6224/work/228672905
+  projects: []
+- id: work-d51ec1d5194acf3f
+  title: 'JASPAR 2026: expansion of transcription factor binding profiles and integration
+    of deep learning models'
+  authors:
+  - Damla Ovek Baydar
+  - Ieva Rauluseviciute
+  - Dina R Aronsen
+  - Romain Blanc-Mathieu
+  - Ine Bonthuis
+  - Herman de Beukelaer
+  - Katalin Ferenc
+  - Alice Jegou
+  - Vipin Kumar
+  - Roza Berhanu Lemma
+  - Jérémy Lucas
+  - Mathis Pochon
+  - Chang M Yun
+  - Vivekanandan Ramalingam
+  - Salil Sanjay Deshpande
+  - Aman Patel
+  - Georgi K Marinov
+  - Austin T Wang
+  - Alejandro Aguirre
+  - Jaime A Castro-Mondragon
+  - Damir Baranasic
+  - Jeanne Chèneby
+  - Sveinung Gundersen
+  - Morten Johansen
+  - Aziz Khan
+  - Marieke L Kuijjer
+  - Eivind Hovig
+  - Boris Lenhard
+  - Albin Sandelin
+  - Klaas Vandepoele
+  - Wyeth W Wasserman
+  - François Parcy
+  - Anshul Kundaje
+  - Anthony Mathelier
+  year: 2026
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkaf1209
+  url: https://doi.org/10.1093/nar/gkaf1209
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkaf1209
+  sources:
+  - https://doi.org/10.1093/nar/gkaf1209
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/203087590
+  - https://orcid.org/0000-0002-6459-6224/work/228672899
+  projects: []
+- id: work-f32ba2e7b2e6bf90
+  title: Evolutionary measures show that recurrence of DCIS is distinct from progression
+    to breast cancer
+  authors:
+  - Angelo Fortunato
+  - Diego Mallo
+  - Luis Cisneros
+  - Lorraine M. King
+  - Aziz Khan
+  - Christina Curtis
+  - Marc D. Ryser
+  - Joseph Y. Lo
+  - Allison Hall
+  - Jeffrey R. Marks
+  - E. Shelley Hwang
+  - Carlo C. Maley
+  year: 2025
+  venue: Breast Cancer Research
+  doi: 10.1186/s13058-025-01966-2
+  type: article
+  featured: false
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/228672885
+  sources:
+  - https://doi.org/10.1186/s13058-025-01966-2
+  - https://orcid.org/0000-0002-6459-6224/work/181070075
+  - https://orcid.org/0000-0002-6459-6224/work/228672885
+- id: work-fe835717a3f5b0d3
+  title: Temporal and spatial composition of the tumor microenvironment predicts response
+    to immune checkpoint inhibition
+  authors:
+  - Noah F. Greenwald
+  - Iris Nederlof
+  - Cameron Sowers
+  - Daisy Yi Ding
+  - Seongyeol Park
+  - Alex Kong
+  - Kathleen E. Houlahan
+  - Sricharan Reddy Varra
+  - Manon de Graaf
+  - Veerle Geurts
+  - Candace C. Liu
+  - Jolene S. Ranek
+  - Leonie Voorwerk
+  - Michiel de Maaker
+  - Adam Kagel
+  - Erin McCaffrey
+  - Aziz Khan
+  - Christine Yiwen Yeh
+  - Christine Camacho Fullaway
+  - Zumana Khair
+  - Yunhao Bai
+  - Hadeesha Piyadasa
+  - Tyler Risom
+  - Alea Delmastro
+  - Felix J. Hartmann
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Ton N. Schumacher
+  - Zhicheng Ma
+  - Marc Bosse
+  - Marc J. van de Vijver
+  - Robert Tibshirani
+  - Hugo M. Horlings
+  - Christina Curtis
+  - Marleen Kok
+  - Michael Angelo
+  year: 2025
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/2025.01.26.634557
+  url: https://doi.org/10.1101/2025.01.26.634557
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2025.01.26.634557
+  sources:
+  - https://doi.org/10.1101/2025.01.26.634557
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672902
+  projects: []
+- id: work-6a3e196c40a8251b
+  title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
+    proclivity
+  authors:
+  - Kathleen E. Houlahan
+  - Aziz Khan
+  - Noah F. Greenwald
+  - Cristina Sotomayor Vivas
+  - Robert B. West
+  - Michael Angelo
+  - Christina Curtis
+  year: 2024
+  venue: Science
+  type: article
+  doi: 10.1126/science.adh8697
+  url: https://doi.org/10.1126/science.adh8697
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1126/science.adh8697
+  sources:
+  - https://doi.org/10.1126/science.adh8697
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/160608649
+  - https://orcid.org/0000-0002-6459-6224/work/228672886
+  projects: []
+- id: work-92d06d3f79d00f27
+  title: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways
+    associated with early tumorigenesis
+  authors:
+  - Edward D. Esplin
+  - Casey Hanson
+  - Si Wu
+  - Aaron M. Horning
+  - Nasim Barapour
+  - Stephanie A. Nevins
+  - Lihua Jiang
+  - Kévin Contrepois
+  - Hayan Lee
+  - Tuhin K. Guha
+  - Zheng Hu
+  - Rozelle Laquindanum
+  - Meredith A. Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Winston R. Becker
+  - Bahareh Bahmani
+  - Aziz Khan
+  - Basil Michael
+  - Annika K. Weimer
+  - D. Glen Esplin
+  - Jeanne Shen
+  - Samuel Lancaster
+  - Emma Monte
+  - Thomas V. Karathanos
+  - Uri Ladabaum
+  - Teri A. Longacre
+  - Anshul Kundaje
+  - Christina Curtis
+  - William J. Greenleaf
+  - James M. Ford
+  - Michael P. Snyder
+  year: 2024
+  venue: Nature Cancer
+  type: article
+  doi: 10.1038/s43018-024-00831-z
+  url: https://doi.org/10.1038/s43018-024-00831-z
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s43018-024-00831-z
+  sources:
+  - https://doi.org/10.1038/s43018-024-00831-z
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/179654691
+  - https://orcid.org/0000-0002-6459-6224/work/228672914
+  projects: []
+- id: work-ea7b7dda5011a0c4
+  title: Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression
+    to Breast Cancer
+  authors:
+  - Angelo Fortunato
+  - Diego Mallo
+  - Luis Cisneros
+  - Lorraine M. King
+  - Aziz Khan
+  - Christina Curtis
+  - Marc D. Ryser
+  - Joseph Y. Lo
+  - Allison Hall
+  - Jeffrey R. Marks
+  - E. Shelley Hwang
+  - Carlo C. Maley
+  year: 2024
+  doi: 10.1101/2024.08.15.24311949
+  type: preprint
+  venue: bioRxiv
+  status: candidate
+  featured: false
+  source_url: https://orcid.org/0000-0002-6459-6224/work/165656488
+  sources:
+  - https://doi.org/10.1101/2024.08.15.24311949
+  - https://orcid.org/0000-0002-6459-6224/work/165656488
+  - https://orcid.org/0000-0002-6459-6224/work/228672893
+- id: work-535d2dc9cedf3c0f
+  title: Somatic variant detection from multi-sampled genomic sequencing data of tumor
+    specimens using the ith.Variant pipeline
+  authors:
+  - Nicole Maeser
+  - Aziz Khan
+  - Ruping Sun
+  year: 2023
+  venue: STAR Protocols
+  type: article
+  doi: 10.1016/j.xpro.2022.101927
+  url: https://doi.org/10.1016/j.xpro.2022.101927
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1016/j.xpro.2022.101927
+  sources:
+  - https://doi.org/10.1016/j.xpro.2022.101927
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/133858833
+  - https://orcid.org/0000-0002-6459-6224/work/228672904
+  projects: []
+- id: work-5c6b96443f644c1b
+  title: 'JASPAR 2024: 20th anniversary of the open-access database of transcription
+    factor binding profiles'
+  authors:
+  - Ieva Rauluseviciute
+  - Rafael Riudavets-Puig
+  - Romain Blanc-Mathieu
+  - Jaime A Castro-Mondragon
+  - Katalin Ferenc
+  - Vipin Kumar
+  - Roza Berhanu Lemma
+  - Jérémy Lucas
+  - Jeanne Chèneby
+  - Damir Baranasic
+  - Aziz Khan
+  - Oriol Fornes
+  - Sveinung Gundersen
+  - Morten Johansen
+  - Eivind Hovig
+  - Boris Lenhard
+  - Albin Sandelin
+  - Wyeth W Wasserman
+  - François Parcy
+  - Anthony Mathelier
+  year: 2023
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkad1059
+  url: https://doi.org/10.1093/nar/gkad1059
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkad1059
+  sources:
+  - https://doi.org/10.1093/nar/gkad1059
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/145781962
+  - https://orcid.org/0000-0002-6459-6224/work/228672894
+  projects: []
+- id: work-7bb2df547b36f02b
+  title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
+    proclivity
+  authors:
+  - Kathleen E. Houlahan
+  - Aziz Khan
+  - Noah F Greenwald
+  - Robert B. West
+  - Michael Angelo
+  - Christina Curtis
+  year: 2023
+  venue: Venue not supplied
+  doi: 10.1101/2023.03.15.532870
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/228672889
+  sources:
+  - https://doi.org/10.1101/2023.03.15.532870
+  - https://orcid.org/0000-0002-6459-6224/work/131004383
+  - https://orcid.org/0000-0002-6459-6224/work/137264713
+  - https://orcid.org/0000-0002-6459-6224/work/206470160
+  - https://orcid.org/0000-0002-6459-6224/work/228672889
+- id: work-e14cd3a5f55c62bb
+  title: Deterministic evolution and stringent selection during preneoplasia
+  authors:
+  - Kasper Karlsson
+  - Moritz J. Przybilla
+  - Eran Kotler
+  - Aziz Khan
+  - Hang Xu
+  - Kremena Karagyozova
+  - Alexandra Sockell
+  - Wing H. Wong
+  - Katherine Liu
+  - Amanda Mah
+  - Yuan-Hung Lo
+  - Bingxin Lu
+  - Kathleen E. Houlahan
+  - Zhicheng Ma
+  - Carlos J. Suarez
+  - Chris P. Barnes
+  - Calvin J. Kuo
+  - Christina Curtis
+  year: 2023
+  venue: Nature
+  type: article
+  doi: 10.1038/s41586-023-06102-8
+  url: https://doi.org/10.1038/s41586-023-06102-8
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s41586-023-06102-8
+  sources:
+  - https://doi.org/10.1038/s41586-023-06102-8
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/136061539
+  - https://orcid.org/0000-0002-6459-6224/work/228672938
+  projects: []
+- id: work-3f5e836ef95fb390
+  title: Deterministic evolution and stringent selection during pre-neoplasia
+  authors:
+  - Kasper Karlsson
+  - Moritz J. Przybilla
+  - Eran Kotler
+  - Aziz Khan
+  - Hang Xu
+  - Kremena Karagyozova
+  - Alexandra Sockell
+  - Wing H. Wong
+  - Katherine Liu
+  - Amanda Mah
+  - Yuan-Hung Lo
+  - Bingxin Lu
+  - Kathleen E. Houlahan
+  - Zhicheng Ma
+  - Carlos J. Suarez
+  - Chris P. Barnes
+  - Calvin J. Kuo
+  - Christina Curtis
+  year: 2022
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/2022.04.09.487529
+  url: https://doi.org/10.1101/2022.04.09.487529
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2022.04.09.487529
+  sources:
+  - https://doi.org/10.1101/2022.04.09.487529
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/111321090
+  - https://orcid.org/0000-0002-6459-6224/work/131486548
+  - https://orcid.org/0000-0002-6459-6224/work/137264711
+  - https://orcid.org/0000-0002-6459-6224/work/228672923
+  projects: []
+- id: work-575e9049225c2087
+  title: Ultra high-throughput whole-genome methylation sequencing reveals trajectories
+    in precancerous polyps to early colorectal adenocarcinoma
+  authors:
+  - Hayan Lee
+  - Gat Krieger
+  - Tyson Clark
+  - Aziz Khan
+  - Casey Ryan Hanson
+  - Yizhou Zhu
+  - Nasim Bararpour
+  - Aaron M. Horning
+  - Edward D. Esplin
+  - Stephanie Nevins
+  - Annika K. Weimer
+  - Eti Meiri
+  - Shlomit Gilad
+  - Sima Benjamin
+  - Danit Lebanony
+  - Nika Iremadze
+  - Florian Oberstrass
+  - Ariel Jaimovich
+  - William Greenleaf
+  - James M. Ford
+  - Doron Lipson
+  - Zohar Shipony
+  - Michael P. Snyder
+  year: 2022
+  venue: Venue not supplied
+  doi: 10.1101/2022.05.30.494076
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/123118689
+  sources:
+  - https://doi.org/10.1101/2022.05.30.494076
+  - https://orcid.org/0000-0002-6459-6224/work/123118689
+  - https://orcid.org/0000-0002-6459-6224/work/137264709
+- id: work-ab95a6f670640df6
+  title: 'Molecular classification and biomarkers of clinical outcome in breast ductal
+    carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts'
+  authors:
+  - Siri H. Strand
+  - Belén Rivero-Gutiérrez
+  - Kathleen E. Houlahan
+  - Jose A. Seoane
+  - Lorraine M. King
+  - Tyler Risom
+  - Lunden A. Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Shi Wei
+  - Angela DeMichele
+  - Tari King
+  - Priscilla F. McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Anna Maria Storniolo
+  - Alastair M. Thompson
+  - Gaorav P. Gupta
+  - Robyn Burns
+  - Deborah J. Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley X. Zhu
+  - Jen Tappenden
+  - Daisy Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey R. Marks
+  - Graham A. Colditz
+  - E. Shelley Hwang
+  - Robert B. West
+  year: 2022
+  venue: Cancer Cell
+  type: article
+  doi: 10.1016/j.ccell.2022.10.021
+  url: https://doi.org/10.1016/j.ccell.2022.10.021
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1016/j.ccell.2022.10.021
+  sources:
+  - https://doi.org/10.1016/j.ccell.2022.10.021
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/133858841
+  - https://orcid.org/0000-0002-6459-6224/work/137264708
+  - https://orcid.org/0000-0002-6459-6224/work/228672895
+  projects: []
+- id: work-44da1138314b7b90
+  title: 'DCIS genomic signatures define biology and clinical outcome: Human Tumor
+    Atlas Network (HTAN) analysis of TBCRC 038 and RAHBT cohorts'
+  authors:
+  - Siri H Strand
+  - Belén Rivero-Gutiérrez
+  - Kathleen E Houlahan
+  - Jose A Seoane
+  - Lorraine M King
+  - Tyler Risom
+  - Lunden A Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Shi Wei
+  - Angela DeMichele
+  - Tari King
+  - Priscilla F McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Anna Maria Storniolo
+  - Alastair M Thompson
+  - Gaorav P Gupta
+  - Robyn Burns
+  - Deborah J Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley X Zhu
+  - Jen Tappenden
+  - Daisy Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey R Marks
+  - Graham A Colditz
+  - E Shelley Hwang
+  - Robert B West
+  year: 2021
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/2021.06.16.448585
+  url: https://doi.org/10.1101/2021.06.16.448585
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2021.06.16.448585
+  sources:
+  - https://doi.org/10.1101/2021.06.16.448585
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/103392119
+  - https://orcid.org/0000-0002-6459-6224/work/228672901
+  projects: []
+- id: work-4df96b67a22e5929
+  title: Changing scientific meetings for the better
+  authors:
+  - Sarvenaz Sarabipour
+  - Aziz Khan
+  - Yu Fen Samantha Seah
+  - Aneth D. Mwakilili
+  - Fiona N. Mumoki
+  - Pablo J. Sáez
+  - Benjamin Schwessinger
+  - Humberto J. Debat
+  - Tomislav Mestrovic
+  year: 2021
+  venue: Nature Human Behaviour
+  type: article
+  doi: 10.1038/s41562-021-01067-y
+  url: https://doi.org/10.1038/s41562-021-01067-y
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s41562-021-01067-y
+  sources:
+  - https://doi.org/10.1038/s41562-021-01067-y
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/90635212
+  - https://orcid.org/0000-0002-6459-6224/work/94223795
+  - https://orcid.org/0000-0002-6459-6224/work/96064261
+  projects: []
+- id: work-8507092a3a2c6505
+  title: A call to eradicate non-inclusive terms from the life sciences
+  authors:
+  - Aziz Khan
+  year: 2021
+  venue: eLife
+  type: article
+  doi: 10.7554/elife.65604
+  url: https://doi.org/10.7554/elife.65604
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.7554/eLife.65604
+  sources:
+  - https://doi.org/10.7554/elife.65604
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/88361100
+  - https://orcid.org/0000-0002-6459-6224/work/96064254
+  projects: []
+- id: work-9a8c69fbc0b8b2f1
+  title: 'The Human Tumor Atlas Network (HTAN) Breast Precancer Atlas: A Multi-Omic
+    Integrative Analysis of Ductal Carcinoma in situ&amp;nbsp;With Clinical Outcomes'
+  authors:
+  - Siri  H. Strand
+  - Belén Rivero-Gutiérrez
+  - Kathleen  E. Houlahan
+  - Jose  A. Seoane
+  - Lorraine King
+  - Tyler Risom
+  - Lunden  A. Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Gabrielle  B. Rocque
+  - Angela DeMichele
+  - Tari King
+  - Priscilla McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Ana Maria Storniolo
+  - Alastair Thompson
+  - Gaorav Gupta
+  - Robyn Burns
+  - Deborah  J. Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley  X. Zhu
+  - Jen Tappenden
+  - Daisy  Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert  Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey  R. Marks
+  - Graham A. Colditz
+  - E. Shelley Hwang
+  - Robert  B. West
+  year: 2021
+  venue: Elsevier BV
+  type: article
+  doi: 10.2139/ssrn.3874170
+  url: https://doi.org/10.2139/ssrn.3874170
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.2139/ssrn.3874170
+  sources:
+  - https://doi.org/10.2139/ssrn.3874170
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/223784882
+  projects: []
+- id: work-9c45b9502b6ddbb5
+  title: 'Pakistan: anger mounts over threat to higher education.'
+  authors:
+  - Aziz Khan
+  year: 2021
+  venue: Nature
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33907327
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:33907327
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-bc58d19778f4af67
+  title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
+    species'
+  authors:
+  - Rafael Riudavets Puig
+  - Paul Boddie
+  - Aziz Khan
+  - Jaime Abraham Castro-Mondragon
+  - Anthony Mathelier
+  year: 2021
+  venue: BMC Genomics
+  type: article
+  doi: 10.1186/s12864-021-07760-6
+  url: https://doi.org/10.1186/s12864-021-07760-6
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1186/s12864-021-07760-6
+  sources:
+  - https://doi.org/10.1186/s12864-021-07760-6
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672927
+  - https://orcid.org/0000-0002-6459-6224/work/96445271
+  projects: []
+- id: work-dc7825551fbdd666
+  title: Multi-omic Analysis of Familial Adenomatous Polyposis Reveals Molecular Pathways
+    and Polyclonal Spreading Associated with Early Tumorigenesis
+  authors:
+  - Michael Snyder
+  - Aaron Horning
+  - Edward Esplin
+  - Si Wu
+  - Casey Hanson
+  - Nasim Bararpour
+  - Stephanie Nevins
+  - Lihua Jiang
+  - Kevin Contrepoi
+  - Hayan Lee
+  - Tuhin Guha
+  - Zheng Hu
+  - Rozelle Laquindanum
+  - Meredith Mills
+  - Hassan Chaib
+  - Roxanne Chiu
+  - Ruiqi Jian
+  - Joanne Chan
+  - Mathew Ellenberger
+  - Aziz Khan
+  - Basil Michael
+  - Bahareh Bahmani
+  - Glen Esplin
+  - Jeanne Shen
+  - Samuel Lancaster
+  - Uri Ladabaum
+  - Anshul Kundaje
+  - Teri Longacre
+  - William Greenleaf
+  - Christina Curtis
+  - James Ford
+  - Winston Becker
+  year: 2021
+  venue: Springer Science and Business Media LLC
+  type: preprint
+  doi: 10.21203/rs.3.rs-515393/v1
+  url: https://doi.org/10.21203/rs.3.rs-515393/v1
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.21203/rs.3.rs-515393/v1
+  sources:
+  - https://doi.org/10.21203/rs.3.rs-515393/v1
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672881
+  - https://orcid.org/0000-0002-6459-6224/work/94430675
+  projects: []
+- id: work-efaf558f23079af4
+  title: 'Pakistan: anger mounts over threat to higher education'
+  authors:
+  - Aziz Khan
+  year: 2021
+  venue: Nature
+  doi: 10.1038/d41586-021-01119-3
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/93135826
+  sources:
+  - https://doi.org/10.1038/d41586-021-01119-3
+  - https://orcid.org/0000-0002-6459-6224/work/93135826
+- id: work-f26366cf5164c5e5
+  title: 'JASPAR 2022: the 9th release of the open-access database of transcription
+    factor binding profiles'
+  authors:
+  - Jaime A Castro-Mondragon
+  - Rafael Riudavets-Puig
+  - Ieva Rauluseviciute
+  - Roza Berhanu Lemma
+  - Laura Turchi
+  - Romain Blanc-Mathieu
+  - Jeremy Lucas
+  - Paul Boddie
+  - Aziz Khan
+  - Nicolás Manosalva Pérez
+  - Oriol Fornes
+  - Tiffany Y Leung
+  - Alejandro Aguirre
+  - Fayrouz Hammal
+  - Daniel Schmelter
+  - Damir Baranasic
+  - Benoit Ballester
+  - Albin Sandelin
+  - Boris Lenhard
+  - Klaas Vandepoele
+  - Wyeth W Wasserman
+  - François Parcy
+  - Anthony Mathelier
+  year: 2021
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkab1113
+  url: https://doi.org/10.1093/nar/gkab1113
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkab1113
+  sources:
+  - https://doi.org/10.1093/nar/gkab1113
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/104062174
+  - https://orcid.org/0000-0002-6459-6224/work/228672900
+  projects: []
+- id: work-1de0880b8f2b396f
+  title: 'COVID-19: students caught in Pakistan’s digital divide'
+  authors:
+  - Aziz Khan
+  year: 2020
+  venue: Nature
+  doi: 10.1038/d41586-020-03291-4
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/84187873
+  sources:
+  - https://doi.org/10.1038/d41586-020-03291-4
+  - https://orcid.org/0000-0002-6459-6224/work/137264714
+  - https://orcid.org/0000-0002-6459-6224/work/84187873
+- id: work-3fffa7970a39f232
+  title: 'UniBind: maps of high-confidence direct TF-DNA interactions across nine
+    species'
+  authors:
+  - Rafael Riudavets Puig
+  - Paul Boddie
+  - Aziz Khan
+  - Jaime Abraham Castro-Mondragon
+  - Anthony Mathelier
+  year: 2020
+  venue: bioRxiv
+  type: preprint
+  doi: 10.1101/2020.11.17.384578
+  url: https://doi.org/10.1101/2020.11.17.384578
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2020.11.17.384578
+  sources:
+  - https://doi.org/10.1101/2020.11.17.384578
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672918
+  - https://orcid.org/0000-0002-6459-6224/work/83648811
+  projects: []
+- id: work-58deb117297ff751
+  title: 'Evaluating features of scientific conferences: A call for improvements'
+  authors:
+  - Sarvenaz Sarabipour
+  - Aziz Khan
+  - Samantha Seah
+  - Aneth D. Mwakilili
+  - Fiona N. Mumoki
+  - Pablo J. Sáez
+  - Benjamin Schwessinger
+  - Humberto J. Debat
+  - Tomislav Mestrovic
+  year: 2020
+  venue: bioRxiv
+  type: preprint
+  doi: 10.1101/2020.04.02.022079
+  url: https://doi.org/10.1101/2020.04.02.022079
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/2020.04.02.022079
+  sources:
+  - https://doi.org/10.1101/2020.04.02.022079
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672906
+  - https://orcid.org/0000-0002-6459-6224/work/71510778
+  projects: []
+- id: work-61bac36e336dadcd
+  title: 'BiasAway: command-line and web server to generate nucleotide composition-matched
+    DNA background sequences'
+  authors:
+  - Aziz Khan
+  - Rafael Riudavets Puig
+  - Paul Boddie
+  - Anthony Mathelier
+  year: 2020
+  venue: Bioinformatics
+  type: article
+  doi: 10.1093/bioinformatics/btaa928
+  url: https://doi.org/10.1093/bioinformatics/btaa928
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/bioinformatics/btaa928
+  sources:
+  - https://doi.org/10.1093/bioinformatics/btaa928
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672931
+  - https://orcid.org/0000-0002-6459-6224/work/82918079
+  - https://orcid.org/0000-0002-6459-6224/work/83925038
+  projects: []
+- id: work-774dbf96bda18914
+  title: 'JASPAR 2020: update of the open-access database of transcription factor
+    binding profiles.'
+  authors:
+  - Oriol Fornes
+  - Jaime A Castro-Mondragon
+  - Aziz Khan
+  - Robin van der Lee
+  - Xi Zhang
+  - Phillip A Richmond
+  - Bhavi P Modi
+  - Solenne Correard
+  - Marius Gheorghe
+  - Damir Baranašić
+  - Walter Santana-Garcia
+  - Ge Tan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - François Parcy
+  - Albin Sandelin
+  - Boris Lenhard
+  - Wyeth W Wasserman
+  - Anthony Mathelier
+  year: 2020
+  venue: Nucleic acids research
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31701148
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:31701148
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-9b62ac298f657958
+  title: 'COVID-19: students caught in Pakistan''s digital divide.'
+  authors:
+  - Aziz Khan
+  year: 2020
+  venue: Nature
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33235363
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:33235363
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-f50814794931b58e
+  title: 'The Human Tumor Atlas Network: Charting Tumor Transitions across Space and
+    Time at Single-Cell Resolution'
+  authors:
+  - Orit Rozenblatt-Rosen
+  - Aviv Regev
+  - Philipp Oberdoerffer
+  - Tal Nawy
+  - Anna Hupalowska
+  - Jennifer E. Rood
+  - Orr Ashenberg
+  - Ethan Cerami
+  - Robert J. Coffey
+  - Emek Demir
+  - Li Ding
+  - Edward D. Esplin
+  - James M. Ford
+  - Jeremy Goecks
+  - Sharmistha Ghosh
+  - Joe W. Gray
+  - Justin Guinney
+  - Sean E. Hanlon
+  - Shannon K. Hughes
+  - E. Shelley Hwang
+  - Christine A. Iacobuzio-Donahue
+  - Judit Jané-Valbuena
+  - Bruce E. Johnson
+  - Ken S. Lau
+  - Tracy Lively
+  - Sarah A. Mazzilli
+  - Dana Pe’er
+  - Sandro Santagata
+  - Alex K. Shalek
+  - Denis Schapiro
+  - Michael P. Snyder
+  - Peter K. Sorger
+  - Avrum E. Spira
+  - Sudhir Srivastava
+  - Kai Tan
+  - Robert B. West
+  - Elizabeth H. Williams
+  - Denise Aberle
+  - Samuel I. Achilefu
+  - Foluso O. Ademuyiwa
+  - Andrew C. Adey
+  - Rebecca L. Aft
+  - Rachana Agarwal
+  - Ruben A. Aguilar
+  - Fatemeh Alikarami
+  - Viola Allaj
+  - Christopher Amos
+  - Robert A. Anders
+  - Michael R. Angelo
+  - Kristen Anton
+  - Orr Ashenberg
+  - Jon C. Aster
+  - Ozgun Babur
+  - Amir Bahmani
+  - Akshay Balsubramani
+  - David Barrett
+  - Jennifer Beane
+  - Diane E. Bender
+  - Kathrin Bernt
+  - Lynne Berry
+  - Courtney B. Betts
+  - Julie Bletz
+  - Katie Blise
+  - Adrienne Boire
+  - Genevieve Boland
+  - Alexander Borowsky
+  - Kristopher Bosse
+  - Matthew Bott
+  - Ed Boyden
+  - James Brooks
+  - Raphael Bueno
+  - Erik A. Burlingame
+  - Qiuyin Cai
+  - Joshua Campbell
+  - Wagma Caravan
+  - Ethan Cerami
+  - Hassan Chaib
+  - Joseph M. Chan
+  - Young Hwan Chang
+  - Deyali Chatterjee
+  - Ojasvi Chaudhary
+  - Alyce A. Chen
+  - Bob Chen
+  - Changya Chen
+  - Chia-hui Chen
+  - Feng Chen
+  - Yu-An Chen
+  - Milan G. Chheda
+  - Koei Chin
+  - Roxanne Chiu
+  - Shih-Kai Chu
+  - Rodrigo Chuaqui
+  - Jaeyoung Chun
+  - Luis Cisneros
+  - Robert J. Coffey
+  - Graham A. Colditz
+  - Kristina Cole
+  - Natalie Collins
+  - Kevin Contrepois
+  - Lisa M. Coussens
+  - Allison L. Creason
+  - Daniel Crichton
+  - Christina Curtis
+  - Tanja Davidsen
+  - Sherri R. Davies
+  - Ino de Bruijn
+  - Laura Dellostritto
+  - Angelo De Marzo
+  - Emek Demir
+  - David G. DeNardo
+  - Dinh Diep
+  - Li Ding
+  - Sharon Diskin
+  - Xengie Doan
+  - Julia Drewes
+  - Stephen Dubinett
+  - Michael Dyer
+  - Jacklynn Egger
+  - Jennifer Eng
+  - Barbara Engelhardt
+  - Graham Erwin
+  - Edward D. Esplin
+  - Laura Esserman
+  - Alex Felmeister
+  - Heidi S. Feiler
+  - Ryan C. Fields
+  - Stephen Fisher
+  - Keith Flaherty
+  - Jennifer Flournoy
+  - James M. Ford
+  - Angelo Fortunato
+  - Allison Frangieh
+  - Jennifer L. Frye
+  - Robert S. Fulton
+  - Danielle Galipeau
+  - Siting Gan
+  - Jianjiong Gao
+  - Long Gao
+  - Peng Gao
+  - Vianne R. Gao
+  - Tim Geiger
+  - Ajit George
+  - Gad Getz
+  - Sharmistha Ghosh
+  - Marios Giannakis
+  - David L. Gibbs
+  - William E. Gillanders
+  - Jeremy Goecks
+  - Simon P. Goedegebuure
+  - Alanna Gould
+  - Kate Gowers
+  - Joe W. Gray
+  - William Greenleaf
+  - Jeremy Gresham
+  - Jennifer L. Guerriero
+  - Tuhin K. Guha
+  - Alexander R. Guimaraes
+  - Justin Guinney
+  - David Gutman
+  - Nir Hacohen
+  - Sean Hanlon
+  - Casey R. Hansen
+  - Olivier Harismendy
+  - Kathleen A. Harris
+  - Aaron Hata
+  - Akimasa Hayashi
+  - Cody Heiser
+  - Karla Helvie
+  - John M. Herndon
+  - Gilliam Hirst
+  - Frank Hodi
+  - Travis Hollmann
+  - Aaron Horning
+  - James J. Hsieh
+  - Shannon Hughes
+  - Won Jae Huh
+  - Stephen Hunger
+  - Shelley E. Hwang
+  - Christine A. Iacobuzio-Donahue
+  - Heba Ijaz
+  - Benjamin Izar
+  - Connor A. Jacobson
+  - Samuel Janes
+  - Judit Jané-Valbuena
+  - Reyka G. Jayasinghe
+  - Lihua Jiang
+  - Brett E. Johnson
+  - Bruce Johnson
+  - Tao Ju
+  - Humam Kadara
+  - Klaus Kaestner
+  - Jacob Kagan
+  - Lukas Kalinke
+  - Robert Keith
+  - Aziz Khan
+  - Warren Kibbe
+  - Albert H. Kim
+  - Erika Kim
+  - Junhyong Kim
+  - Annette Kolodzie
+  - Mateusz Kopytra
+  - Eran Kotler
+  - Robert Krueger
+  - Kostyantyn Krysan
+  - Anshul Kundaje
+  - Uri Ladabaum
+  - Blue B. Lake
+  - Huy Lam
+  - Rozelle Laquindanum
+  - Ken S. Lau
+  - Ashley M. Laughney
+  - Hayan Lee
+  - Marc Lenburg
+  - Carina Leonard
+  - Ignaty Leshchiner
+  - Rochelle Levy
+  - Jerry Li
+  - Christine G. Lian
+  - Kian-Huat Lim
+  - Jia-Ren Lin
+  - Yiyun Lin
+  - Qi Liu
+  - Ruiyang Liu
+  - Tracy Lively
+  - William J.R. Longabaugh
+  - Teri Longacre
+  - Cynthia X. Ma
+  - Mary Catherine Macedonia
+  - Tyler Madison
+  - Christopher A. Maher
+  - Anirban Maitra
+  - Netta Makinen
+  - Danika Makowski
+  - Carlo Maley
+  - Zoltan Maliga
+  - Diego Mallo
+  - John Maris
+  - Nick Markham
+  - Jeffrey Marks
+  - Daniel Martinez
+  - Robert J. Mashl
+  - Ignas Masilionais
+  - Jennifer Mason
+  - Joan Massagué
+  - Pierre Massion
+  - Marissa Mattar
+  - Richard Mazurchuk
+  - Linas Mazutis
+  - Sarah A. Mazzilli
+  - Eliot T. McKinley
+  - Joshua F. McMichael
+  - Daniel Merrick
+  - Matthew Meyerson
+  - Julia R. Miessner
+  - Gordon B. Mills
+  - Meredith Mills
+  - Suman B. Mondal
+  - Motomi Mori
+  - Yuriko Mori
+  - Elizabeth Moses
+  - Yael Mosse
+  - Jeremy L. Muhlich
+  - George F. Murphy
+  - Nicholas E. Navin
+  - Tal Nawy
+  - Michel Nederlof
+  - Reid Ness
+  - Stephanie Nevins
+  - Milen Nikolov
+  - Ajit Johnson Nirmal
+  - Garry Nolan
+  - Edward Novikov
+  - Philipp Oberdoerffer
+  - Brendan O’Connell
+  - Michael Offin
+  - Stephen T. Oh
+  - Anastasiya Olson
+  - Alex Ooms
+  - Miguel Ossandon
+  - Kouros Owzar
+  - Swapnil Parmar
+  - Tasleema Patel
+  - Gary J. Patti
+  - Dana Pe’er
+  - Itsik Pe'er
+  - Tao Peng
+  - Daniel Persson
+  - Marvin Petty
+  - Hanspeter Pfister
+  - Kornelia Polyak
+  - Kamyar Pourfarhangi
+  - Sidharth V. Puram
+  - Qi Qiu
+  - Álvaro Quintanal-Villalonga
+  - Arjun Raj
+  - Marisol Ramirez-Solano
+  - Rumana Rashid
+  - Ashley N. Reeb
+  - Aviv Regev
+  - Mary Reid
+  - Adam Resnick
+  - Sheila M. Reynolds
+  - Jessica L. Riesterer
+  - Scott Rodig
+  - Joseph T. Roland
+  - Sonia Rosenfield
+  - Asaf Rotem
+  - Sudipta Roy
+  - Orit Rozenblatt-Rosen
+  - Charles M. Rudin
+  - Marc D. Ryser
+  - Sandro Santagata
+  - Maria Santi-Vicini
+  - Kazuhito Sato
+  - Denis Schapiro
+  - Deborah Schrag
+  - Nikolaus Schultz
+  - Cynthia L. Sears
+  - Rosalie C. Sears
+  - Subrata Sen
+  - Triparna Sen
+  - Alex Shalek
+  - Jeff Sheng
+  - Quanhu Sheng
+  - Kooresh I. Shoghi
+  - Martha J. Shrubsole
+  - Yu Shyr
+  - Alexander B. Sibley
+  - Kiara Siex
+  - Alan J. Simmons
+  - Dinah S. Singer
+  - Shamilene Sivagnanam
+  - Michal Slyper
+  - Michael P. Snyder
+  - Artem Sokolov
+  - Sheng-Kwei Song
+  - Peter K. Sorger
+  - Austin Southard-Smith
+  - Avrum Spira
+  - Sudhir Srivastava
+  - Janet Stein
+  - Phillip Storm
+  - Elizabeth Stover
+  - Siri H. Strand
+  - Timothy Su
+  - Damir Sudar
+  - Ryan Sullivan
+  - Lea Surrey
+  - Mario Suvà
+  - Kai Tan
+  - Nadezhda V. Terekhanova
+  - Luke Ternes
+  - Lisa Thammavong
+  - Guillaume Thibault
+  - George V. Thomas
+  - Vésteinn Thorsson
+  - Ellen Todres
+  - Linh Tran
+  - Madison Tyler
+  - Yasin Uzun
+  - Anil Vachani
+  - Eliezer Van Allen
+  - Simon Vandekar
+  - Deborah J. Veis
+  - Sébastien Vigneau
+  - Arastoo Vossough
+  - Angela Waanders
+  - Nikhil Wagle
+  - Liang-Bo Wang
+  - Michael C. Wendl
+  - Robert West
+  - Elizabeth H. Williams
+  - Chi-yun Wu
+  - Hao Wu
+  - Hung-Yi Wu
+  - Matthew A. Wyczalkowski
+  - Yubin Xie
+  - Xiaolu Yang
+  - Clarence Yapp
+  - Wenbao Yu
+  - Yinyin Yuan
+  - Dadong Zhang
+  - Kun Zhang
+  - Mianlei Zhang
+  - Nancy Zhang
+  - Yantian Zhang
+  - Yanyan Zhao
+  - Daniel Cui Zhou
+  - Zilu Zhou
+  - Houxiang Zhu
+  - Qin Zhu
+  - Xiangzhu Zhu
+  - Yuankun Zhu
+  - Xiaowei Zhuang
+  year: 2020
+  venue: Cell
+  doi: 10.1016/j.cell.2020.03.053
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/76927669
+  sources:
+  - https://doi.org/10.1016/j.cell.2020.03.053
+  - https://orcid.org/0000-0002-6459-6224/work/76927669
+- id: work-fe4513cf7bcd50c0
+  title: 'The Human Tumor Atlas Network: Charting Tumor Transitions across Space and
+    Time at Single-Cell Resolution.'
+  authors:
+  - Orit Rozenblatt-Rosen
+  - Aviv Regev
+  - Philipp Oberdoerffer
+  - Tal Nawy
+  - Anna Hupalowska
+  - Jennifer E Rood
+  - Orr Ashenberg
+  - Ethan Cerami
+  - Robert J Coffey
+  - Emek Demir
+  - Li Ding
+  - Edward D Esplin
+  - James M Ford
+  - Jeremy Goecks
+  - Sharmistha Ghosh
+  - Joe W Gray
+  - Justin Guinney
+  - Sean E Hanlon
+  - Shannon K Hughes
+  - E Shelley Hwang
+  - Christine A Iacobuzio-Donahue
+  - Judit Jané-Valbuena
+  - Bruce E Johnson
+  - Ken S Lau
+  - Tracy Lively
+  - Sarah A Mazzilli
+  - Dana Pe'er
+  - Sandro Santagata
+  - Alex K Shalek
+  - Denis Schapiro
+  - Michael P Snyder
+  - Peter K Sorger
+  - Avrum E Spira
+  - Sudhir Srivastava
+  - Kai Tan
+  - Robert B West
+  - Elizabeth H Williams
+  year: 2020
+  venue: Cell
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/32302568
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:32302568
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-124906cc2165ebac
+  title: Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering
+    Protein-RNA Crosslink Sites
+  authors:
+  - Huijuan Feng
+  - Suying Bao
+  - Mohammad Alinoor Rahman
+  - Sebastien M. Weyn-Vanhentenryck
+  - Aziz Khan
+  - Justin Wong
+  - Ankeeta Shah
+  - Elise D. Flynn
+  - Adrian R. Krainer
+  - Chaolin Zhang
+  year: 2019
+  venue: Molecular Cell
+  doi: 10.1016/j.molcel.2019.02.002
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/58820722
+  sources:
+  - https://doi.org/10.1016/j.molcel.2019.02.002
+  - https://orcid.org/0000-0002-6459-6224/work/58820722
+  - https://orcid.org/0000-0002-6459-6224/work/96064258
+- id: work-1f526f809e5e3a91
+  title: A map of direct TF–DNA interactions in the human genome
+  authors:
+  - Marius Gheorghe
+  - Geir Kjetil Sandve
+  - Aziz Khan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - Anthony Mathelier
+  year: 2019
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkz582
+  url: https://doi.org/10.1093/nar/gkz582
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkz582
+  sources:
+  - https://doi.org/10.1093/nar/gkz582
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/96064253
+  projects: []
+- id: work-2c6e995d271742e1
+  title: 'JASPAR 2020: update of the open-access database of transcription factor
+    binding profiles'
+  authors:
+  - Oriol Fornes
+  - Jaime A Castro-Mondragon
+  - Aziz Khan
+  - Robin van der Lee
+  - Xi Zhang
+  - Phillip A Richmond
+  - Bhavi P Modi
+  - Solenne Correard
+  - Marius Gheorghe
+  - Damir Baranašić
+  - Walter Santana-Garcia
+  - Ge Tan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - François Parcy
+  - Albin Sandelin
+  - Boris Lenhard
+  - Wyeth W Wasserman
+  - Anthony Mathelier
+  year: 2019
+  venue: Nucleic Acids Research
+  doi: 10.1093/nar/gkz1001
+  type: article
+  featured: true
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/64332282
+  sources:
+  - https://doi.org/10.1093/nar/gkz1001
+  - https://orcid.org/0000-0002-6459-6224/work/64332282
+  - https://orcid.org/0000-0002-6459-6224/work/64789513
+  - https://orcid.org/0000-0002-6459-6224/work/96064249
+- id: work-428ac927092b664b
+  title: Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering
+    Protein-RNA Crosslink Sites.
+  authors:
+  - Huijuan Feng
+  - Suying Bao
+  - Mohammad Alinoor Rahman
+  - Sebastien M Weyn-Vanhentenryck
+  - Aziz Khan
+  - Justin Wong
+  - Ankeeta Shah
+  - Elise D Flynn
+  - Adrian R Krainer
+  - Chaolin Zhang
+  year: 2019
+  venue: Molecular cell
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31226278
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:31226278
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-8d302c9264dc6fda
+  title: Integrative modeling reveals key chromatin and sequence signatures predicting
+    super-enhancers
+  authors:
+  - Aziz Khan
+  - Xuegong Zhang
+  year: 2019
+  venue: Scientific Reports
+  type: article
+  doi: 10.1038/s41598-019-38979-9
+  url: https://doi.org/10.1038/s41598-019-38979-9
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1038/s41598-019-38979-9
+  sources:
+  - https://doi.org/10.1038/s41598-019-38979-9
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/54654520
+  - https://orcid.org/0000-0002-6459-6224/work/96064260
+  projects: []
+- id: work-a8f8a27a01dcf401
+  title: High OGT activity is essential for MYC-driven proliferation of prostate cancer
+    cells
+  authors:
+  - Harri M Itkonen
+  - Alfonso Urbanucci
+  - Sara ES Martin
+  - Aziz Khan
+  - Anthony Mathelier
+  - Bernd Thiede
+  - Suzanne Walker
+  - Ian G Mills
+  year: 2019
+  venue: Theranostics
+  type: article
+  doi: 10.7150/thno.30834
+  url: https://doi.org/10.7150/thno.30834
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.7150/thno.30834
+  sources:
+  - https://doi.org/10.7150/thno.30834
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/137264710
+  - https://orcid.org/0000-0002-6459-6224/work/96064247
+  projects: []
+- id: work-00a734cf71316497
+  title: Making genome browsers portable and personal
+  authors:
+  - Aziz Khan
+  - Xuegong Zhang
+  year: 2018
+  venue: Genome Biology
+  type: article
+  doi: 10.1186/s13059-018-1470-9
+  url: https://doi.org/10.1186/s13059-018-1470-9
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1186/s13059-018-1470-9
+  sources:
+  - https://doi.org/10.1186/s13059-018-1470-9
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/46673702
+  - https://orcid.org/0000-0002-6459-6224/work/96064250
+  projects: []
+- id: work-053a2ed83e10381f
+  title: A map of direct TF–DNA interactions in the human genome
+  authors:
+  - Marius Gheorghe
+  - Geir Kjetil Sandve
+  - Aziz Khan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - Anthony Mathelier
+  year: 2018
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gky1210
+  url: https://doi.org/10.1093/nar/gky1210
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gky1210
+  sources:
+  - https://doi.org/10.1093/nar/gky1210
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/51295145
+  - https://orcid.org/0000-0002-6459-6224/work/96064257
+  projects: []
+- id: work-0882813cd9a8c4c2
+  title: Put science first and formatting later
+  authors:
+  - Aziz Khan
+  - Alejandro Montenegro‐Montero
+  - Anthony Mathelier
+  year: 2018
+  venue: The EMBO Reports
+  type: article
+  doi: 10.15252/embr.201845731
+  url: https://doi.org/10.15252/embr.201845731
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.15252/embr.201845731
+  sources:
+  - https://doi.org/10.15252/embr.201845731
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/43557495
+  - https://orcid.org/0000-0002-6459-6224/work/96064251
+  projects: []
+- id: work-110b622750590bd9
+  title: A map of direct TF-DNA interactions in the human genome
+  authors:
+  - Marius Gheorghe
+  - Geir Kjetil Sandve
+  - Aziz Khan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - Anthony Mathelier
+  year: 2018
+  venue: Venue not supplied
+  doi: 10.1101/394205
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/228672933
+  sources:
+  - https://doi.org/10.1101/394205
+  - https://orcid.org/0000-0002-6459-6224/work/228672933
+  - https://orcid.org/0000-0002-6459-6224/work/47547919
+- id: work-22c489e24c0e4bb9
+  title: 'Bioconda: sustainable and comprehensive software distribution for the life
+    sciences.'
+  authors:
+  - Björn Grüning
+  - Ryan Dale
+  - Andreas Sjödin
+  - Brad A Chapman
+  - Jillian Rowe
+  - Christopher H Tomkins-Tinch
+  - Renan Valieris
+  - Johannes Köster
+  year: 2018
+  venue: Nature methods
+  type: article
+  doi: ''
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29967506
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:29967506
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  projects: []
+- id: work-c1eff60cd6ac0cc4
+  title: Super-enhancers are transcriptionally more active and cell type-specific
+    than stretch enhancers
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  - Xuegong Zhang
+  year: 2018
+  venue: Epigenetics
+  type: article
+  doi: 10.1080/15592294.2018.1514231
+  url: https://doi.org/10.1080/15592294.2018.1514231
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1080/15592294.2018.1514231
+  sources:
+  - https://doi.org/10.1080/15592294.2018.1514231
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/47910505
+  - https://orcid.org/0000-0002-6459-6224/work/96064248
+  projects: []
+- id: work-ea4c1ee9f75b43ae
+  title: Super-enhancers are transcriptionally more active and cell-type-specific
+    than stretch enhancers
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  - Xuegong Zhang
+  year: 2018
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/310839
+  url: https://doi.org/10.1101/310839
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/310839
+  sources:
+  - https://doi.org/10.1101/310839
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672908
+  - https://orcid.org/0000-0002-6459-6224/work/44163985
+  projects: []
+- id: work-f76da8f1d7bea7c3
+  title: 'Bioconda: sustainable and comprehensive software distribution for the life
+    sciences'
+  authors:
+  - The Bioconda Team
+  - Björn Grüning
+  - Ryan Dale
+  - Andreas Sjödin
+  - Brad A. Chapman
+  - Jillian Rowe
+  - Christopher H. Tomkins-Tinch
+  - Renan Valieris
+  - Johannes Köster
+  year: 2018
+  venue: Nature Methods
+  doi: 10.1038/s41592-018-0046-7
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/49371066
+  sources:
+  - https://doi.org/10.1038/s41592-018-0046-7
+  - https://orcid.org/0000-0002-6459-6224/work/49371066
+  - https://orcid.org/0000-0002-6459-6224/work/96064259
+- id: work-f88dde939a1e23a0
+  title: "Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites"
+  authors:
+  - Huijuan Feng
+  - Suying Bao
+  - Sebastien M. Weyn-Vanhentenryck
+  - Aziz Khan
+  - Justin Wong
+  - Ankeeta Shah
+  - Elise D. Flynn
+  - Chaolin Zhang
+  year: 2018
+  venue: Venue not supplied
+  doi: 10.1101/428615
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/48815303
+  sources:
+  - https://doi.org/10.1101/428615
+  - https://orcid.org/0000-0002-6459-6224/work/228672925
+  - https://orcid.org/0000-0002-6459-6224/work/48815303
+- id: work-2a05de58fe156115
+  title: 'Intervene: a tool for intersection and visualization of multiple gene or
+    genomic region sets'
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  year: 2017
+  venue: Venue not supplied
+  doi: 10.1101/109728
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/228672936
+  sources:
+  - https://doi.org/10.1101/109728
+  - https://orcid.org/0000-0002-6459-6224/work/228672936
+  - https://orcid.org/0000-0002-6459-6224/work/59557073
+- id: work-2fc834eb809bdead
+  title: 'Bioconda: A sustainable and comprehensive software distribution for the life sciences'
+  authors:
+  - Björn Grüning
+  - Ryan Dale
+  - Andreas Sjödin
+  - Brad A. Chapman
+  - Jillian Rowe
+  - Christopher H. Tomkins-Tinch
+  - Renan Valieris
+  - Adam Caprez
+  - Bérénice Batut
+  - Mathias Haudgaard
+  - Thomas Cokelaer
+  - Kyle A. Beauchamp
+  - Brent S Pedersen
+  - Youri Hoogstrate
+  - Anthony Bretaudeau
+  - Devon Ryan
+  - Gildas Le Corguillé
+  - Dilmurat Yusuf
+  - Sebastian Luna-Valero
+  - Rory Kirchner
+  - Karel Brinda
+  - Thomas Wollmann
+  - Martin Raden
+  - Simon J. van Heeringen
+  - Nicola Soranzo
+  - Lorena Pantano
+  - Zachary Charlop-Powers
+  - Per Unneberg
+  - Matthias De Smet
+  - Marcel Martin
+  - Greg Von Kuster
+  - Tiago Antao
+  - Milad Miladi
+  - Kevin Thornton
+  - Christian Brueffer
+  - Marius van den Beek
+  - Daniel Maticzka
+  - Clemens Blank
+  - Sebastian Will
+  - K´evin Gravouil
+  - Joachim Wolff
+  - Manuel Holtgrewe
+  - Jörg Fallmann
+  - Vitor C. Piro
+  - Ilya Shlyakhter
+  - Ayman Yousif
+  - Philip Mabon
+  - Xiao-Ou Zhang
+  - Wei Shen
+  - Jennifer Cabral
+  - Cristel Thomas
+  - Eric Enns
+  - Joseph Brown
+  - Jorrit Boekel
+  - Mattias de Hollander
+  - Jerome Kelleher
+  - Nitesh Turaga
+  - Julian R. de Ruiter
+  - Dave Bouvier
+  - Simon Gladman
+  - Saket Choudhary
+  - Nicholas Harding
+  - Florian Eggenhofer
+  - Arne Kratz
+  - Zhuoqing Fang
+  - Robert Kleinkauf
+  - Henning Timm
+  - Peter J. A. Cock
+  - Enrico Seiler
+  - Colin Brislawn
+  - Hai Nguyen
+  - Endre Bakken Stovner
+  - Philip Ewels
+  - Matt Chambers
+  - James E. Johnson
+  - Emil Hägglund
+  - Simon Ye
+  - Roman Valls Guimera
+  - Elmar Pruesse
+  - W. Augustine Dunn
+  - Lance Parsons
+  - Rob Patro
+  - David Koppstein
+  - Elena Grassi
+  - Inken Wohlers
+  - Alex Reynolds
+  - MacIntosh Cornwell
+  - Nicholas Stoler
+  - Daniel Blankenberg
+  - Guowei He
+  - Marcel Bargull
+  - Alexander Junge
+  - Rick Farouni
+  - Mallory Freeberg
+  - Sourav Singh
+  - Daniel R. Bogema
+  - Fabio Cumbo
+  - Liang-Bo Wang
+  - David E Larson
+  - Matthew L. Workentine
+  - Upendra Kumar Devisetty
+  - Sacha Laurent
+  - Pierrick Roger
+  - Xavier Garnier
+  - Rasmus Agren
+  - Aziz Khan
+  - John M Eppley
+  - Wei Li
+  - Bianca Katharina Stöcker
+  - Tobias Rausch
+  - James Taylor
+  - Patrick R. Wright
+  - Adam P. Taranto
+  - Davide Chicco
+  - Bengt Sennblad
+  - Jasmijn A. Baaijens
+  - Matthew Gopez
+  - Nezar Abdennur
+  - Iain Milne
+  - Jens Preussner
+  - Luca Pinello
+  - Avi Srivastava
+  - Aroon T. Chande
+  - Philip Reiner Kensche
+  - Yuri Pirola
+  - Michael Knudsen
+  - Ino de Bruijn
+  - Kai Blin
+  - Giorgio Gonnella
+  - Oana M. Enache
+  - Vivek Rai
+  - Nicholas R. Waters
+  - Saskia Hiltemann
+  - Matthew L. Bendall
+  - Christoph Stahl
+  - Alistair Miles
+  - Yannick Boursin
+  - Yasset Perez-Riverol
+  - Sebastian Schmeier
+  - Erik Clarke
+  - Kevin Arvai
+  - Matthieu Jung
+  - Tom´as Di Domenico
+  - Julien Seiler
+  - Eric Rasche
+  - Etienne Kornobis
+  - Daniela Beisser
+  - Sven Rahmann
+  - Alexander S Mikheyev
+  - Camy Tran
+  - Jordi Capellades
+  - Christopher Schröder
+  - Adrian Emanuel Salatino
+  - Simon Dirmeier
+  - Timothy H. Webster
+  - Oleksandr Moskalenko
+  - Gordon Stephen
+  - Johannes Köster
+  year: 2017
+  venue: openRxiv
+  type: preprint
+  doi: 10.1101/207092
+  url: https://doi.org/10.1101/207092
+  status: candidate
+  featured: false
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1101/207092
+  sources:
+  - https://doi.org/10.1101/207092
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/228672892
+  - https://orcid.org/0000-0002-6459-6224/work/38765319
+  projects: []
+- id: work-3a1b8f583fa10184
+  title: 'JASPAR RESTful API: accessing JASPAR data from any programming language'
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  year: 2017
+  venue: Venue not supplied
+  doi: 10.1101/160184
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/164873083
+  sources:
+  - https://doi.org/10.1101/160184
+  - https://orcid.org/0000-0002-6459-6224/work/164873083
+  - https://orcid.org/0000-0002-6459-6224/work/228672909
+- id: work-43f21a5a4c96279e
+  title: 'Intervene: a tool for intersection and visualization of multiple gene or
+    genomic region sets'
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  year: 2017
+  venue: BMC Bioinformatics
+  type: article
+  doi: 10.1186/s12859-017-1708-7
+  url: https://doi.org/10.1186/s12859-017-1708-7
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1186/s12859-017-1708-7
+  sources:
+  - https://doi.org/10.1186/s12859-017-1708-7
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/38765222
+  - https://orcid.org/0000-0002-6459-6224/work/96064252
+  projects: []
+- id: work-46192792442e283d
+  title: Integrative analysis reveals genomic and epigenomic signatures of super-enhancers
+    and its constituents
+  authors:
+  - Aziz Khan
+  - Xuegong Zhang
+  year: 2017
+  venue: Venue not supplied
+  doi: 10.1101/105262
+  type: preprint
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/228672883
+  sources:
+  - https://doi.org/10.1101/105262
+  - https://orcid.org/0000-0002-6459-6224/work/228672883
+  - https://orcid.org/0000-0002-6459-6224/work/40007560
+- id: work-49904a9568d32adc
+  title: 'JASPAR RESTful API: accessing JASPAR data from any programming language'
+  authors:
+  - Aziz Khan
+  - Anthony Mathelier
+  year: 2017
+  venue: Bioinformatics
+  type: article
+  doi: 10.1093/bioinformatics/btx804
+  url: https://doi.org/10.1093/bioinformatics/btx804
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/bioinformatics/btx804
+  sources:
+  - https://doi.org/10.1093/bioinformatics/btx804
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/39918274
+  - https://orcid.org/0000-0002-6459-6224/work/39963019
+  - https://orcid.org/0000-0002-6459-6224/work/96064262
+  projects: []
+- id: work-7b2eb1e53e0d2fb0
+  title: 'JASPAR 2018: update of the open-access database of transcription factor
+    binding profiles and its web framework'
+  authors:
+  - Aziz Khan
+  - Oriol Fornes
+  - Arnaud Stigliani
+  - Marius Gheorghe
+  - Jaime A Castro-Mondragon
+  - Robin van der Lee
+  - Adrien Bessy
+  - Jeanne Chèneby
+  - Shubhada R Kulkarni
+  - Ge Tan
+  - Damir Baranasic
+  - David J Arenillas
+  - Albin Sandelin
+  - Klaas Vandepoele
+  - Boris Lenhard
+  - Benoît Ballester
+  - Wyeth W Wasserman
+  - François Parcy
+  - Anthony Mathelier
+  year: 2017
+  venue: Nucleic Acids Research
+  doi: 10.1093/nar/gkx1188
+  type: article
+  status: candidate
+  source_url: https://orcid.org/0000-0002-6459-6224/work/87383469
+  sources:
+  - https://doi.org/10.1093/nar/gkx1188
+  - https://orcid.org/0000-0002-6459-6224/work/87383469
+- id: work-e06956d2b6c72fee
+  title: 'JASPAR 2018: update of the open-access database of transcription factor
+    binding profiles and its web framework'
+  authors:
+  - Aziz Khan
+  - Oriol Fornes
+  - Arnaud Stigliani
+  - Marius Gheorghe
+  - Jaime A Castro-Mondragon
+  - Robin van der Lee
+  - Adrien Bessy
+  - Jeanne Chèneby
+  - Shubhada R Kulkarni
+  - Ge Tan
+  - Damir Baranasic
+  - David J Arenillas
+  - Albin Sandelin
+  - Klaas Vandepoele
+  - Boris Lenhard
+  - Benoît Ballester
+  - Wyeth W Wasserman
+  - François Parcy
+  - Anthony Mathelier
+  year: 2017
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkx1126
+  url: https://doi.org/10.1093/nar/gkx1126
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkx1126
+  sources:
+  - https://doi.org/10.1093/nar/gkx1126
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/179623556
+  - https://orcid.org/0000-0002-6459-6224/work/38717758
+  - https://orcid.org/0000-0002-6459-6224/work/96064255
+  projects: []
+- id: work-cf5e9449c6f4a58d
+  title: 'dbSUPER: a database of super-enhancers in mouse and human genome'
+  authors:
+  - Aziz Khan
+  - Xuegong Zhang
+  year: 2016
+  venue: Nucleic Acids Research
+  type: article
+  doi: 10.1093/nar/gkv1002
+  url: https://doi.org/10.1093/nar/gkv1002
+  status: candidate
+  featured: true
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: doi:10.1093/nar/gkv1002
+  sources:
+  - https://doi.org/10.1093/nar/gkv1002
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://orcid.org/0000-0002-6459-6224/work/38765225
+  - https://orcid.org/0000-0002-6459-6224/work/96064246
+  projects: []

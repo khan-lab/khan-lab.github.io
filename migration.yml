@@ -1,0 +1,32 @@
+source_repository: https://github.com/khan-lab/khan-lab.github.io
+source_commit: 62d3473e5aed3ea88c25e2d343b6c7c366a878ea
+accessed: '2026-10-31'
+counts:
+  people: 10
+  resources: 13
+  news: 22
+  publication_candidates: 43
+  confirmed_from_news: 3
+  source_derived_research_directions: 2
+  assets: 22
+  crossref_enriched_manual_records: 1
+  displayed_publications: 44
+  historical_candidates_unpublished: 0
+excluded_template_posts:
+- 2019-01-07-example-post-1.md
+- 2021-09-30-example-post-2.md
+- 2023-02-23-example-post-3.md
+notes:
+- Publication metadata preserved from source cache, not independently re-enriched.
+- The complete public bibliography, including PI prior work and preprints, is displayed
+  following the user request of 2026-11-01. Future API discoveries remain candidates.
+- Member project assignments, funding and collaborators not inferred.
+- Source configuration khanlab.io differs from public khanlab.bio; source provenance
+  retained.
+- Migration includes public photos for local review; source BSD license retained;
+  confirm photo rights before public release.
+missing_from_source_cache:
+- 10.1186/s13058-025-01966-2
+unmatched_news_dois: []
+enrichment_source: https://api.crossref.org/works/10.1186/s13058-025-01966-2
+bibliography_review: publication-review.yml

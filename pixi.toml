@@ -1,0 +1,25 @@
+[workspace]
+name = "researchlabfolio"
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
+
+[dependencies]
+quarto = "==1.11.9"
+python = "==3.13.18"
+pyyaml = "==6.0.3"
+pip = ">=25,<27"
+
+[activation.env]
+PYTHONDONTWRITEBYTECODE = "1"
+
+[tasks]
+researchlabfolio = "python scripts/cli_bridge.py"
+rlf = "python scripts/cli_bridge.py"
+prepare = "python scripts/prepare.py"
+check = "python scripts/run.py check"
+test = "python -m unittest discover -s tests -v"
+build = "python scripts/run.py build"
+preview = "python scripts/run.py preview"
+clean = "python scripts/run.py clean"
+sync-publications = "python scripts/publications.py"
+audit = "python scripts/audit.py _site"
