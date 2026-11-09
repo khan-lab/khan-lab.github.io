@@ -1,0 +1,13 @@
+# Old LWT URLs -> current public URLs. Targets are relative to the site root.
+/team/: people/
+/tools/: software/
+/members/akshat-mistry.html: people/akshat-mistry.html
+/members/anil-thanki.html: people/anil-thanki.html
+/members/aruzhan-zhamalbek.html: people/aruzhan-zhamalbek.html
+/members/aziz-khan.html: people/aziz-khan.html
+/members/colin-campbell.html: people/colin-campbell.html
+/members/jenna-khanfar.html: people/jenna-khanfar.html
+/members/khalifa-juma.html: people/khalifa-juma.html
+/members/lina-utenova.html: people/lina-utenova.html
+/members/msivaswami.html: people/msivaswami.html
+/members/shreyansh-priyadarshi.html: people/shreyansh-priyadarshi.html

@@ -15,6 +15,8 @@ rlf build
 
 Edit identity in `lab.yml`, records in `content/`, page text in `pages/` and images in `assets/`. Output is `_site/`.
 
+Legacy LWT page and member links are maintained in `redirects.yml`; builds generate the redirect pages automatically.
+
 This repository owns ongoing lab content. The template's CBCRG example is a separate demo snapshot.
 
 [Documentation](https://khan-lab.github.io/researchlabfolio/) · [Publishing guide](https://khan-lab.github.io/researchlabfolio/guides/publishing.html)
