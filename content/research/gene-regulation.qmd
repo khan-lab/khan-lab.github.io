@@ -1,0 +1,13 @@
+---
+id: gene-regulation
+title: Non-coding mutations and gene regulation in cancer
+description: Which mutations change gene regulation in cancer, and how? We identify the regulatory changes that matter and use them to inform cancer detection and precision medicine.
+featured: true
+people: []
+publications: []
+software: []
+---
+
+Most mutations in cancer genomes fall outside protein-coding genes, in regions that control when and where genes are switched on. Yet only a few have been linked to tumour behaviour, and separating functional changes from background mutations remains a central challenge in cancer genomics.
+
+Our main focus is non-coding mutations in super-enhancers, transcription factor binding sites and other regulatory elements, which we study alongside coding mutations to understand how the two together shape gene expression. We combine tumour genomes with bulk and single-cell multi-omic data to prioritise candidate mutations, trace their effects on regulatory activity and generate testable hypotheses about cancer mechanisms. We then translate these insights into markers and approaches that could support earlier detection and more precise treatment.

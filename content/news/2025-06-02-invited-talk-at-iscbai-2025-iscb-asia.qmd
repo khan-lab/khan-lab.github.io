@@ -1,0 +1,16 @@
+---
+id: 2025-06-02-invited-talk-at-iscbai-2025-iscb-asia
+title: Invited talk at iscbAI 2025 (ISCB-Asia)
+date: 2025-06-02
+categories:
+- lab-news
+description: Aziz presented on Towards FAIR, diverse and reproducible multi-omics
+  for AI-driven biology at the 1st International Symposium on Computational Biology
+  with AI in Bali.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://www.iscb-cn.org.cn/web/31/list.html
+---
+
+Aziz presented on <i>Towards FAIR, diverse and reproducible multi-omics for AI-driven biology</i> at the 1st International Symposium on Computational Biology with AI in Bali.
+
+[Further details](https://www.iscb-cn.org.cn/web/31/list.html)

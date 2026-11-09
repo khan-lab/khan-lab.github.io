@@ -1,0 +1,13 @@
+---
+id: open-science
+title: AI-ready methods and open resources
+description: How can genomic knowledge be made usable by both researchers and AI? We develop interpretable AI methods and open resources that people and AI systems can use and build on.
+featured: true
+people: []
+publications: []
+software: []
+---
+
+AI is changing how genomic data is analysed, but many models are difficult to interpret, and many biological databases were not designed to be used by AI agents. For AI to advance our understanding of gene regulation, its predictions need to be explainable, and the resources it draws on need to be accessible, well documented and reproducible.
+
+We build machine-learning methods whose predictions can be traced back to sequence features such as transcription factor motifs and regulatory elements. We also develop open tools and databases for regulatory genomics, including dbSUPER, JASPAR and Intervene, and make biological resources accessible to AI agents through standard interfaces. Everything we build is open source, documented and designed so that others can reproduce, reuse and extend it.

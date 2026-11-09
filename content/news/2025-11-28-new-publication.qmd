@@ -1,0 +1,16 @@
+---
+id: 2025-11-28-new-publication
+title: New publication
+date: 2025-11-28
+categories:
+- publication
+description: 'Excited to share the new publication, polyclonal origins of human premalignant
+  colorectal lesions came online in Nature. The Accelerated Article Preview is available
+  at doi: 10.1038/s41586-025-09930-y and print at bioRχiv (doi: 10.1101/2025.09.08.674484).'
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://doi.org/10.1038/s41586-025-09930-y
+---
+
+Excited to share the new publication, polyclonal origins of human premalignant colorectal lesions came online in Nature. The Accelerated Article Preview is available at doi: 10.1038/s41586-025-09930-y and print at bioRχiv (doi: 10.1101/2025.09.08.674484).
+
+[Further details](https://doi.org/10.1038/s41586-025-09930-y)

@@ -1,0 +1,65 @@
+{
+  "projection": "d3.geoNaturalEarth1",
+  "extent": [
+    [
+      8,
+      8
+    ],
+    [
+      952,
+      492
+    ]
+  ],
+  "sources": [
+    {
+      "file": "d3.min.js",
+      "source": "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js",
+      "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539",
+      "bytes": 279706
+    },
+    {
+      "file": "d3-LICENSE",
+      "source": "https://cdn.jsdelivr.net/npm/d3@7.9.0/LICENSE",
+      "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+      "bytes": 731
+    },
+    {
+      "file": "topojson-client.min.js",
+      "source": "https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js",
+      "sha256": "25cd02ae486cc5063e0215a4e4cfb15de83700c87ac48bac4d57dc6aaf3ebb89",
+      "bytes": 7169
+    },
+    {
+      "file": "topojson-LICENSE",
+      "source": "https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/LICENSE",
+      "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+      "bytes": 734
+    },
+    {
+      "file": "countries-50m.json",
+      "source": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json",
+      "sha256": "04342cdc1e3016bcd7db1630de95684d67b79fe3c8c460321e87aef469502394",
+      "bytes": 756420
+    },
+    {
+      "file": "world-atlas-LICENSE",
+      "source": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/LICENSE",
+      "sha256": "8048290dfdb6e83fbed17e8985c8cfc4ce9da9b842642f3d3e497280790cfa31",
+      "bytes": 734
+    },
+    {
+      "file": "iso-countries.json",
+      "source": "https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/145f1ad3caff212ed25f42b0ee2c8b92a75af895/all/all.json",
+      "sha256": "e1434e42786484b1841082a0a16cf27208691443dc6440d125ad81d49007ea42",
+      "bytes": 65317
+    },
+    {
+      "file": "iso-LICENSE",
+      "source": "https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/145f1ad3caff212ed25f42b0ee2c8b92a75af895/LICENSE.md",
+      "sha256": "e9c7458d87ae87ffd92460a0903e4fb5ff5f1e6070d2f2ee3b247cc63cb4bf45",
+      "bytes": 214
+    }
+  ],
+  "iso_reference_sha256": "10064f219e88360278e25b2028eb96f0b599db95fea6fac523f7208d530ff99a",
+  "country_paths_sha256": "6fd63c74b5379239766d4b79b2a201c0731902d0ff7710db4fb5fcc904622f6a"
+}

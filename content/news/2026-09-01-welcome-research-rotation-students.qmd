@@ -1,0 +1,17 @@
+---
+id: 2026-09-01-welcome-research-rotation-students
+title: Welcome to our research rotation students
+date: '2026-09-01'
+categories:
+- lab-news
+description: We welcome Mir, Mohira, Muhammed, Shinya, Yusuf, and Zaina to the lab for their research rotations. We look forward to their contributions and scientific engagement.
+people:
+- meer-asif-ali
+- mohiraa-shafreen
+- muhammed-bah
+- shinya-yoshida
+- yusuf-maulana
+- zaina-alhemeiri
+---
+
+We welcome Mir, Mohira, Muhammed, Shinya, Yusuf, and Zaina to the lab for their research rotations. We look forward to their contributions and scientific engagement.

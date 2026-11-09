@@ -1,0 +1,40 @@
+name: Review publication candidates (opt in)
+on:
+  schedule:
+    - cron: '23 5 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  candidates:
+    if: vars.PUBLICATION_SYNC_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: prefix-dev/setup-pixi@194d461b21b6c5717c722ffc597fa91ed2ff29fa # v0.9.1
+        with:
+          pixi-version: v0.83.0
+          cache: true
+      - run: pixi install --locked
+      - run: pixi run sync-publications
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          ORCID_ACCESS_TOKEN: ${{ secrets.ORCID_ACCESS_TOKEN }}
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
+        with:
+          name: publication-diagnostics
+          path: .scratch/reports/publications.json
+          if-no-files-found: ignore
+          retention-days: 14
+      - run: pixi run check
+      - uses: peter-evans/create-pull-request@22a9089034f40e5a961c8808d113e2c98fb63676 # v7
+        with:
+          branch: automation/publication-candidates
+          title: Review discovered publication candidates
+          commit-message: Update publication candidates for review
+          body: Review candidate metadata and lab affiliation. New candidates remain hidden until explicitly included in content/publications/overrides.yml. Manual entries and curation are preserved.
+          add-paths: content/publications/cache.yml

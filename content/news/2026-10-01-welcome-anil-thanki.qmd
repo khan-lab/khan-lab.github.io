@@ -1,0 +1,12 @@
+---
+id: 2026-10-01-welcome-anil-thanki
+title: Anil joins the lab as a research scientist
+date: '2026-10-01'
+categories:
+- lab-news
+description: Welcome to Anil, who joins the group from EBI in the UK as a research scientist.
+people:
+- anil-thanki
+---
+
+Welcome to Anil, who joins the group from EBI in the UK as a research scientist!

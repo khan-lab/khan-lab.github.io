@@ -1,0 +1,72 @@
+assets/migrated/images/team/akshat-mistry.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/akshat-mistry.png
+  sha256: 1725d880ba884ae5c82602e2e67ff3bf3e2f3f86ccb13954efd950efd566c1a1
+assets/migrated/images/team/anil-thanki.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/anil-thanki.jpg
+  sha256: eed8383e46119f396c263824349f19b5fc6df6b1f71fabf131d6f87ab11456e5
+assets/migrated/images/team/aruzhan-zhamalbek.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/aruzhan-zhamalbek.jpg
+  sha256: 0a0814223a08151cbed212c263b55077b3f90aec9f619159b4f75ee05e43df27
+assets/migrated/images/team/aziz.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/aziz.jpg
+  sha256: 2a69b1ef83f61821b862196967279346c10fbd5e9480e20d1d206435b1223d10
+assets/migrated/images/team/colin-campbell.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/colin-campbell.jpg
+  sha256: cf628d7a691f902c8b16fc26de63ab34c63d4f3963ab5383cf2b56a345ebc901
+assets/migrated/images/team/jenna-khanfar.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/jenna-khanfar.jpg
+  sha256: 3777775e1dcbf5da4119418cc2ef94854092a6b4f5987c0b95d27abd7dabc34c
+assets/migrated/images/team/Khalifa-Juma.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/Khalifa-Juma.jpg
+  sha256: f6121986593eff21a37ef39f1f0731f43bb6e49410b837d3d6aeaf43f83a3fcd
+assets/migrated/images/team/lina.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/lina.jpg
+  sha256: 0ad791db1dd597e475ee7532b2b9a8db69cfb23676a738e39c5b4be4bbee46f7
+assets/migrated/images/team/msivaswami.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/msivaswami.jpg
+  sha256: a2c0c3c307f18358b9e0d258f0d5809e7ead8c1bbc6466c2ddb489471bb423a9
+assets/migrated/images/team/shreyansh.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/team/shreyansh.jpg
+  sha256: a46577ef942aa691f2f038f1e1b7f00da3d9f5e89244e7ab8186791edfd84a28
+assets/migrated/images/tools/intervene.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/intervene.png
+  sha256: 476562f23da6670dd5a86f90d0711a2310747339f893fbf161586c3cc4935360
+assets/migrated/images/publications/jaspar.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/publications/jaspar.jpg
+  sha256: aeb4adcaec3982ea72cce4e1247db3c33eb6e7a71a9be1c3319944cf838afba5
+assets/migrated/images/tools/UniBind.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/UniBind.png
+  sha256: 5ad11f5b104ed183f85b352472295f550768bd656fc1609cdc7396d126e774f5
+assets/migrated/images/tools/dbsuper.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/dbsuper.png
+  sha256: be48377911827999414988614e47bfd7d9be329273f87eb89d64bc5157474277
+assets/migrated/images/tools/jaspar-rest-api.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/jaspar-rest-api.png
+  sha256: 18a22967437d5df2f205b9299f9eef24ac45da878a9944b87350fb1a02e4fab1
+assets/migrated/images/tools/mCross_logo.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/mCross_logo.png
+  sha256: abc84813f40f88be030d3c424e210615f9acf18fbdc219960620c0926cc478d9
+assets/migrated/images/tools/ith.variant.jpg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/ith.variant.jpg
+  sha256: 3786482cae4fca9d86cf8e3fd54edb15b0999fe65098883bca6859987dd048d2
+assets/migrated/images/tools/cli.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/cli.png
+  sha256: 98adbe7669978576b5201c7a7f3d1e84ca29c438d5f1d4eb7d38b34eac2b65b3
+assets/migrated/images/tools/biasaway.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/biasaway.png
+  sha256: 94aefd65b206d19c9ed0a94c57fa4b1292c6bc144877a7f6c8a7181f5c7f43bc
+assets/migrated/images/tools/ecrcentral-logo.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/ecrcentral-logo.png
+  sha256: 508362e48a378b98a8f836c9fd2fcd030e8a58bf75c235ab38e79c061df876e1
+assets/migrated/images/tools/pyjaspar.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/pyjaspar.png
+  sha256: 1a6dbd7d7f8c84f8b9794a12413acdd14424ea13d9be842bd0696da063b0c713
+assets/migrated/images/tools/intervene-shiny.png:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/tools/intervene-shiny.png
+  sha256: 3422f72c43bd72e5fbf6d03ac6954a258c5b5150b4784cf5a72218e4038c0480
+assets/branding/logo.svg:
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/images/logo.svg
+  sha256: cc2c9b7acf76b9c5ff9480d2842cf28a953d7060f3c917d822162551dd878bd7
+  source_sha256: 9d58da13b91ed85e21b7ba7e392c1bf4334165e14c6a6e1bbeb205c25963dca4
+  modifications: Locally revised SVG; source_sha256 retains the original imported
+    asset checksum.

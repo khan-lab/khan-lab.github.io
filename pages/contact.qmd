@@ -1,0 +1,13 @@
+---
+title: About & Contact
+---
+
+{{< include ../_generated/contact.md >}}
+
+The CBCRG Lab is part of the Computational Biology Department at MBZUAI, Masdar City, Abu Dhabi, UAE. The public contact page lists the first floor of Building 1B.
+
+[Campus map](https://maps.app.goo.gl/PE5hPbBgajcbfkfn6)
+
+## Our mission
+
+We are training and building a collaborative team of responsible researchers united by a shared vision. We are committed to create an inclusive environment and recognize that diversity — in people, ideas, and data — is essential for scientific creativity and discovery.

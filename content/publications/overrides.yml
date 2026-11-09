@@ -1,0 +1,379 @@
+include:
+- work-d0ab80cac2a3542b
+- work-2d02a97cad2673b5
+- work-d51ec1d5194acf3f
+- work-adf7b8f0767f13c0
+- work-9d4e3b66cb856a85
+- work-2f7e8dd24915e283
+- work-fe835717a3f5b0d3
+- work-6a3e196c40a8251b
+- work-5c6b96443f644c1b
+- work-92d06d3f79d00f27
+- work-e14cd3a5f55c62bb
+- work-535d2dc9cedf3c0f
+- work-3f5e836ef95fb390
+- work-f26366cf5164c5e5
+- work-ab95a6f670640df6
+- work-9c45b9502b6ddbb5
+- work-4df96b67a22e5929
+- work-8507092a3a2c6505
+- work-61bac36e336dadcd
+- work-44da1138314b7b90
+- work-dc7825551fbdd666
+- work-9a8c69fbc0b8b2f1
+- work-bc58d19778f4af67
+- work-9b62ac298f657958
+- work-fe4513cf7bcd50c0
+- work-58deb117297ff751
+- work-3fffa7970a39f232
+- work-774dbf96bda18914
+- work-428ac927092b664b
+- work-053a2ed83e10381f
+- work-8d302c9264dc6fda
+- work-1f526f809e5e3a91
+- work-a8f8a27a01dcf401
+- work-c1eff60cd6ac0cc4
+- work-00a734cf71316497
+- work-22c489e24c0e4bb9
+- work-0882813cd9a8c4c2
+- work-e06956d2b6c72fee
+- work-ea4c1ee9f75b43ae
+- work-49904a9568d32adc
+- work-2fc834eb809bdead
+- work-43f21a5a4c96279e
+- work-cf5e9449c6f4a58d
+exclude: []
+overrides:
+  work-d0ab80cac2a3542b:
+    preprint: https://doi.org/10.1101/2025.09.08.674484
+    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12935544/pdf/41586_2025_Article_9930.pdf
+    code: https://github.com/cancersysbio/HTAN-FAP
+    data: https://doi.org/10.5281/zenodo.13228021
+    link_sources:
+    - https://www.nature.com/articles/s41586-025-09930-y
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC12935544/
+  work-d51ec1d5194acf3f:
+    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12807658/pdf/gkaf1209.pdf
+    code: https://github.com/asntech/pyjaspar
+    data: https://jaspar.elixir.no/downloads/
+    link_sources:
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC12807658/
+    - https://jaspar.elixir.no/docs/
+    website: https://jaspar.elixir.no/
+  work-2d02a97cad2673b5:
+    pdf: https://europepmc.org/articles/PMC13262111?pdf=render
+    code: https://github.com/angelolab/publications/tree/main/2024-Greenwald_Nederlof_etal_TONIC
+    data: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1288
+    preprint: https://doi.org/10.1101/2025.01.26.634557
+    link_sources:
+    - https://europepmc.org/article/MED/41708895
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC13262111/
+    - https://github.com/angelolab/SpaceCat
+  work-2f7e8dd24915e283:
+    code: https://github.com/cancersysbio/HTAN-FAP
+    data: https://doi.org/10.5281/zenodo.13228021
+    link_sources:
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC12935544/
+    - https://github.com/cancersysbio/HTAN-FAP
+    venue: bioRxiv
+  work-9d4e3b66cb856a85:
+    pdf: https://europepmc.org/articles/PMC11821522?pdf=render
+    code: https://github.com/cancersysbio/breast-architecture
+    data: https://portal.gdc.cancer.gov/
+    link_sources:
+    - https://europepmc.org/article/MED/39779850
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC11821522/
+  work-adf7b8f0767f13c0:
+    code: https://github.com/cancersysbio/ecDNAInspector
+    link_sources:
+    - https://github.com/cancersysbio/ecDNAInspector
+    venue: bioRxiv
+  work-fe835717a3f5b0d3:
+    code: https://github.com/angelolab/publications/tree/main/2024-Greenwald_Nederlof_etal_TONIC
+    data: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1288
+    link_sources:
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC13262111/
+    - https://github.com/angelolab/SpaceCat
+    venue: bioRxiv
+  work-6a3e196c40a8251b:
+    code: https://github.com/cancersysbio/germline-epitopes
+    data: https://portal.gdc.cancer.gov/
+    preprint: https://doi.org/10.1101/2023.03.15.532870
+    link_sources:
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC10055121/
+    - https://github.com/cancersysbio/germline-epitopes
+  work-92d06d3f79d00f27:
+    pdf: https://europepmc.org/articles/PMC11584401?pdf=render
+    data: https://humantumoratlas.org/explore
+    link_sources:
+    - https://europepmc.org/article/MED/39478120
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC11584401/
+  work-535d2dc9cedf3c0f:
+    pdf: https://europepmc.org/articles/PMC9816983?pdf=render
+    code: https://github.com/SunPathLab/ith.Variant
+    data: https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-5547
+    link_sources:
+    - https://europepmc.org/article/MED/36586123
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC9816983/
+    - https://github.com/SunPathLab/ith.Variant
+  work-5c6b96443f644c1b:
+    pdf: https://europepmc.org/articles/PMC10767809?pdf=render
+    website: https://jaspar.elixir.no/
+    code: https://github.com/asntech/jaspar
+    data: https://jaspar.elixir.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/MED/37962376
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC10767809/
+    - https://jaspar.elixir.no/docs/
+  work-e14cd3a5f55c62bb:
+    pdf: https://europepmc.org/articles/PMC10247377?pdf=render
+    code: https://github.com/cancersysbio/gastric_organoid_evolution
+    data: https://doi.org/10.5281/zenodo.6401895
+    preprint: https://doi.org/10.1101/2022.04.09.487529
+    link_sources:
+    - https://europepmc.org/article/MED/37258665
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC10247377/
+    - https://github.com/cancersysbio/gastric_organoid_evolution
+  work-3f5e836ef95fb390:
+    pdf: https://www.biorxiv.org/content/biorxiv/early/2022/04/28/2022.04.09.487529.full.pdf
+    code: https://github.com/cancersysbio/gastric_organoid_evolution
+    data: https://doi.org/10.5281/zenodo.6401895
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR480175
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC10247377/
+    - https://github.com/cancersysbio/gastric_organoid_evolution
+    venue: bioRxiv
+  work-ab95a6f670640df6:
+    pdf: https://europepmc.org/articles/PMC9772081?pdf=render
+    code: https://data.mendeley.com/datasets/tbzv5hpvw5/1
+    data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002371.v1.p1
+    link_sources:
+    - https://europepmc.org/article/MED/36400020
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC9772081/
+  work-44da1138314b7b90:
+    pdf: https://www.biorxiv.org/content/biorxiv/early/2021/07/24/2021.06.16.448585.full.pdf
+    code: https://data.mendeley.com/datasets/tbzv5hpvw5/1
+    data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002371.v1.p1
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR373963
+    - https://data.mendeley.com/datasets/tbzv5hpvw5/1
+    venue: bioRxiv
+  work-4df96b67a22e5929:
+    pdf: https://www.nature.com/articles/s41562-021-01067-y.pdf
+    website: https://elifeambassadors.github.io/improving-conferences/
+    code: https://github.com/eLifeAmbassadors/improving-conferences
+    preprint: https://doi.org/10.1101/2020.04.02.022079
+    link_sources:
+    - https://europepmc.org/article/MED/33723404
+    - https://asntech.github.io/publication/
+    - https://github.com/eLifeAmbassadors/improving-conferences
+  work-8507092a3a2c6505:
+    pdf: https://europepmc.org/articles/PMC7870137?pdf=render
+    code: https://github.com/asntech/inclusive-science
+    data: https://doi.org/10.5281/zenodo.4458453
+    link_sources:
+    - https://europepmc.org/article/MED/33556000
+    - https://asntech.github.io/publication/
+    - https://doi.org/10.5281/zenodo.4458453
+  work-bc58d19778f4af67:
+    pdf: https://europepmc.org/articles/PMC8236138?pdf=render
+    website: https://unibind.uio.no/
+    code: https://bitbucket.org/CBGR/chip-eat/
+    data: https://unibind.uio.no/downloads/
+    preprint: https://doi.org/10.1101/2020.11.17.384578
+    link_sources:
+    - https://europepmc.org/article/MED/34174819
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8236138/
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6393237/
+    - https://unibind.uio.no/
+    - https://asntech.github.io/publication/
+  work-dc7825551fbdd666:
+    pdf: https://www.researchsquare.com/article/rs-515393/latest.pdf
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR342641
+  work-f26366cf5164c5e5:
+    pdf: https://europepmc.org/articles/PMC8728201?pdf=render
+    website: https://jaspar.elixir.no/
+    code: https://github.com/asntech/jaspar
+    data: https://jaspar.elixir.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/MED/34850907
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8728201/
+    - https://jaspar.elixir.no/docs/
+  work-3fffa7970a39f232:
+    pdf: https://www.biorxiv.org/content/biorxiv/early/2021/01/29/2020.11.17.384578.full.pdf
+    website: https://unibind.uio.no/
+    code: https://bitbucket.org/CBGR/chip-eat/
+    data: https://unibind.uio.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR239468
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8236138/
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6393237/
+    - https://unibind.uio.no/
+    venue: bioRxiv
+  work-58deb117297ff751:
+    website: https://elifeambassadors.github.io/improving-conferences/
+    code: https://github.com/eLifeAmbassadors/improving-conferences
+    link_sources:
+    - https://asntech.github.io/publication/
+    - https://github.com/eLifeAmbassadors/improving-conferences
+    venue: bioRxiv
+  work-61bac36e336dadcd:
+    pdf: https://europepmc.org/articles/PMC8275979?pdf=render
+    website: https://biasaway.readthedocs.io/
+    code: https://bitbucket.org/CBGR/biasaway
+    data: https://doi.org/10.5281/zenodo.3923866
+    link_sources:
+    - https://europepmc.org/article/MED/33135764
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8275979/
+    - https://github.com/asntech/biasaway
+  work-774dbf96bda18914:
+    pdf: https://europepmc.org/articles/PMC7145627?pdf=render
+    website: https://jaspar.elixir.no/
+    code: https://github.com/asntech/jaspar
+    data: https://jaspar.elixir.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/MED/31701148
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC7145627/
+    - https://jaspar.elixir.no/docs/
+  work-9b62ac298f657958:
+    pdf: https://www.nature.com/articles/d41586-020-03291-4.pdf
+    link_sources:
+    - https://europepmc.org/article/MED/33235363
+  work-fe4513cf7bcd50c0:
+    pdf: https://europepmc.org/articles/PMC7376497?pdf=render
+    website: https://humantumoratlas.org/
+    data: https://humantumoratlas.org/explore
+    link_sources:
+    - https://europepmc.org/article/MED/32302568
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC7376497/
+    - https://humantumoratlas.org/
+  work-1f526f809e5e3a91:
+    pdf: https://europepmc.org/articles/PMC6698730?pdf=render
+    website: https://unibind.uio.no/
+    code: https://bitbucket.org/CBGR/chip-eat/
+    data: https://unibind.uio.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/MED/31251803
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8236138/
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6393237/
+    - https://unibind.uio.no/
+  work-428ac927092b664b:
+    pdf: https://europepmc.org/articles/PMC6676488?pdf=render
+    preprint: https://doi.org/10.1101/428615
+    link_sources:
+    - https://europepmc.org/article/MED/31226278
+    - https://asntech.github.io/publication/
+    - https://zhanglab.c2b2.columbia.edu/index.php/MCross
+    - https://github.com/chaolinzhanglab/mCross
+    code: https://github.com/chaolinzhanglab/mCross
+  work-8d302c9264dc6fda:
+    pdf: https://europepmc.org/articles/PMC6393462?pdf=render
+    website: https://improsedoc.readthedocs.io/
+    code: https://github.com/asntech/improse
+    preprint: https://doi.org/10.1101/105262
+    link_sources:
+    - https://europepmc.org/article/MED/30814546
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6393462/
+    - https://asntech.github.io/publication/
+    - https://github.com/asntech/improse
+  work-a8f8a27a01dcf401:
+    pdf: https://europepmc.org/articles/PMC6531294?pdf=render
+    data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121474
+    link_sources:
+    - https://europepmc.org/article/MED/31149037
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6531294/
+  work-00a734cf71316497:
+    pdf: https://europepmc.org/articles/PMC6050684?pdf=render
+    link_sources:
+    - https://europepmc.org/article/MED/30016986
+  work-053a2ed83e10381f:
+    pdf: https://europepmc.org/articles/PMC6393237?pdf=render
+    website: https://unibind.uio.no/
+    code: https://bitbucket.org/CBGR/chip-eat/
+    data: https://unibind.uio.no/downloads/
+    preprint: https://doi.org/10.1101/394205
+    link_sources:
+    - https://europepmc.org/article/MED/30517703
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC8236138/
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC6393237/
+    - https://unibind.uio.no/
+    - https://asntech.github.io/publication/
+  work-0882813cd9a8c4c2:
+    pdf: https://europepmc.org/articles/PMC5934772?pdf=render
+    link_sources:
+    - https://europepmc.org/article/MED/29650529
+  work-22c489e24c0e4bb9:
+    pdf: https://europepmc.org/articles/PMC11070151?pdf=render
+    website: https://bioconda.github.io/
+    code: https://github.com/bioconda/bioconda-recipes
+    data: https://doi.org/10.5281/zenodo.1068297
+    preprint: https://doi.org/10.1101/207092
+    link_sources:
+    - https://europepmc.org/article/MED/29967506
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC11070151/
+    - https://asntech.github.io/publication/
+    - https://bioconda.github.io/
+  work-c1eff60cd6ac0cc4:
+    pdf: https://europepmc.org/articles/PMC6284781?pdf=render
+    preprint: https://doi.org/10.1101/310839
+    link_sources:
+    - https://europepmc.org/article/MED/30169995
+    - https://asntech.github.io/publication/
+  work-ea4c1ee9f75b43ae:
+    pdf: https://www.biorxiv.org/content/biorxiv/early/2018/04/30/310839.full.pdf
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR13725
+    venue: bioRxiv
+  work-2fc834eb809bdead:
+    pdf: https://www.biorxiv.org/content/biorxiv/early/2017/10/27/207092.full.pdf
+    website: https://bioconda.github.io/
+    code: https://github.com/bioconda/bioconda-recipes
+    data: https://doi.org/10.5281/zenodo.1068297
+    link_sources:
+    - https://europepmc.org/article/PPR/PPR24171
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC11070151/
+    - https://asntech.github.io/publication/
+    - https://bioconda.github.io/
+    venue: bioRxiv
+  work-43f21a5a4c96279e:
+    pdf: https://europepmc.org/articles/PMC5452382?pdf=render
+    website: https://asntech.shinyapps.io/intervene/
+    code: https://github.com/asntech/intervene
+    preprint: https://doi.org/10.1101/109728
+    link_sources:
+    - https://europepmc.org/article/MED/28569135
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC5452382/
+    - https://asntech.github.io/publication/
+  work-49904a9568d32adc:
+    pdf: https://academic.oup.com/bioinformatics/article-pdf/34/9/1612/25120761/btx804.pdf
+    website: https://jaspar.elixir.no/api/
+    code: https://github.com/asntech/jaspar
+    data: https://jaspar.elixir.no/downloads/
+    preprint: https://doi.org/10.1101/160184
+    link_sources:
+    - https://europepmc.org/article/MED/29253085
+    - https://asntech.github.io/publication/
+    - https://jaspar.elixir.no/docs/
+  work-e06956d2b6c72fee:
+    pdf: https://europepmc.org/articles/PMC5753243?pdf=render
+    website: https://jaspar.elixir.no/
+    code: https://github.com/asntech/jaspar
+    data: https://jaspar.elixir.no/downloads/
+    link_sources:
+    - https://europepmc.org/article/MED/29140473
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC5753243/
+    - https://jaspar.elixir.no/docs/
+  work-cf5e9449c6f4a58d:
+    pdf: https://europepmc.org/articles/PMC4702767?pdf=render
+    website: https://dbsuper.khanlab.bio/
+    code: https://github.com/asntech/dbsuper
+    data: https://asntech.org/dbsuper/download.php
+    preprint: https://www.biorxiv.org/content/early/2015/08/22/014803
+    link_sources:
+    - https://europepmc.org/article/MED/26438538
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC4702767/
+    - https://asntech.github.io/publication/
+    - https://asntech.org/dbsuper/
+    - https://dbsuper.khanlab.bio/
+    - https://github.com/asntech/dbsuper

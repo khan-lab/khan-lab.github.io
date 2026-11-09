@@ -1,0 +1,15 @@
+---
+id: 2025-08-21-associate-editor-at-nar-genomics-and-bioinformatics
+title: Associate Editor at NAR Genomics and Bioinformatics
+date: 2025-08-21
+categories:
+- lab-news
+description: Excited to announce that Aziz has joined the Editorial Board of Oxford
+  University Press’s NAR Genomics and Bioinformatics journal as an Associate Editor.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://academic.oup.com/nargab/pages/Editorial_Board
+---
+
+Excited to announce that Aziz has joined the Editorial Board of Oxford University Press’s NAR Genomics and Bioinformatics journal as an Associate Editor.
+
+[Further details](https://academic.oup.com/nargab/pages/Editorial_Board)

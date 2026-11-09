@@ -1,0 +1,45 @@
+<script>
+(() => {
+  const list = document.querySelector('[data-resources]');
+  if (!list) return;
+  const viewSwitch = document.querySelector('.resource-view-switch');
+  const storageKey = 'researchlabfolio:resources-view:' + window.location.pathname;
+  function setView(view) {
+    list.dataset.view = view === 'list' ? 'list' : 'grid';
+    viewSwitch.querySelectorAll('[data-resource-view]').forEach(button => {
+      button.setAttribute('aria-pressed', String(button.dataset.resourceView === list.dataset.view));
+    });
+  }
+  if (viewSwitch) {
+    let savedView;
+    try { savedView = window.localStorage.getItem(storageKey); } catch (_) { /* Storage is optional. */ }
+    setView(savedView);
+    viewSwitch.hidden = false;
+    viewSwitch.addEventListener('click', event => {
+      const button = event.target.closest('button[data-resource-view]');
+      if (!button || !viewSwitch.contains(button)) return;
+      setView(button.dataset.resourceView);
+      try { window.localStorage.setItem(storageKey, list.dataset.view); } catch (_) { /* Keep switching without storage. */ }
+    });
+  }
+  const panel = document.querySelector('.resource-filters');
+  if (!panel) return;
+  const search = document.getElementById('resource-search');
+  const type = document.getElementById('resource-type');
+  panel.hidden = false;
+  function filter() {
+    const query = search.value.trim().toLowerCase();
+    let count = 0;
+    list.querySelectorAll('.resource').forEach(item => {
+      const searchable = Array.from(item.querySelectorAll('h2, p, .related')).map(el => el.textContent).join(' ').toLowerCase();
+      item.hidden = !(searchable.includes(query) && (!type.value || item.dataset.type === type.value));
+      if (!item.hidden) count++;
+    });
+    document.getElementById('resource-count').textContent = `${count} resource${count === 1 ? '' : 's'}`;
+    document.getElementById('resource-empty').hidden = count !== 0;
+  }
+  search.addEventListener('input', filter);
+  type.addEventListener('input', filter);
+  filter();
+})();
+</script>

@@ -1,0 +1,31 @@
+<script>
+(() => {
+  function revealLinkedEntry() {
+    if (!location.hash) return;
+    let id;
+    try { id = decodeURIComponent(location.hash.slice(1)); }
+    catch { return; }
+    const list = window['quarto-listings']?.['listing-lab-news'];
+    if (!list) return;
+    // List.js detaches entries on other pages, so search its full item pool.
+    let item, target;
+    for (const candidate of list.items) {
+      const found = candidate.elm.id === id ? candidate.elm
+        : Array.from(candidate.elm.querySelectorAll('[id]')).find(node => node.id === id);
+      if (found) { item = candidate; target = found; break; }
+    }
+    if (!item) return;
+    if (!list.matchingItems.includes(item)) {
+      list.search('');
+      const input = document.querySelector('.quarto-listing-filter input');
+      if (input) input.value = '';
+    }
+    const index = list.matchingItems.indexOf(item);
+    const size = list.page;
+    list.show(Math.floor(index / size) * size + 1, size);
+    requestAnimationFrame(() => target.scrollIntoView());
+  }
+  window.addEventListener('load', revealLinkedEntry);
+  window.addEventListener('hashchange', revealLinkedEntry);
+})();
+</script>

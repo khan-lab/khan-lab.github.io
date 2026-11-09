@@ -1,0 +1,558 @@
+{
+  "source": "https://github.com/khan-lab/khan-lab.github.io",
+  "platform": "lwt-lab",
+  "source_commit": "62d3473e5aed3ea88c25e2d343b6c7c366a878ea",
+  "imported_at": "2026-11-01T11:24:26.149720+00:00",
+  "accuracy": "extracted_unverified",
+  "dry_run": false,
+  "extracted_counts": {
+    "people": 10,
+    "projects": 1,
+    "publications": 43,
+    "software": 13,
+    "news": 22,
+    "pages": 2
+  },
+  "added_counts": {
+    "people": 0,
+    "projects": 0,
+    "publications": 0,
+    "software": 0,
+    "news": 0,
+    "pages": 0
+  },
+  "preserved_counts": {
+    "people": 10,
+    "projects": 1,
+    "publications": 43,
+    "software": 13,
+    "news": 22,
+    "pages": 2
+  },
+  "url_mappings": {
+    "/members/akshat-mistry.html": "people/akshat-mistry.html",
+    "/members/anil-thanki.html": "people/anil-thanki.html",
+    "/members/aruzhan-zhamalbek.html": "people/aruzhan-zhamalbek.html",
+    "/members/aziz-khan.html": "people/aziz-khan.html",
+    "/members/colin-campbell.html": "people/colin-campbell.html",
+    "/members/jenna-khanfar.html": "people/jenna-khanfar.html",
+    "/members/khalifa-juma.html": "people/khalifa-juma.html",
+    "/members/lina-utenova.html": "people/lina-utenova.html",
+    "/members/msivaswami.html": "people/msivaswami.html",
+    "/members/shreyansh-priyadarshi.html": "people/shreyansh-priyadarshi.html",
+    "/contact/": "pages/contact.html",
+    "/join/": "pages/opportunities.html",
+    "/news/": "pages/news.html",
+    "/publications/": "pages/publications.html",
+    "/tools/": "pages/software.html"
+  },
+  "skipped": [
+    {
+      "record": "404.md",
+      "reason": "Repository documentation/scaffold, not a site content page"
+    },
+    {
+      "record": "_posts/2019-01-07-example-post-1.md",
+      "reason": "Placeholder sample post, not a factual laboratory announcement"
+    },
+    {
+      "record": "_posts/2021-09-30-example-post-2.md",
+      "reason": "Placeholder sample post, not a factual laboratory announcement"
+    },
+    {
+      "record": "_posts/2023-02-23-example-post-3.md",
+      "reason": "Placeholder sample post, not a factual laboratory announcement"
+    },
+    {
+      "record": "testbed.md",
+      "reason": "Repository documentation/scaffold, not a site content page"
+    }
+  ],
+  "duplicates": [
+    {
+      "record": "akshat-mistry",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "anil-thanki",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "aruzhan-zhamalbek",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "aziz-khan",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "colin-campbell",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "jenna-khanfar",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "khalifa-juma",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "lina-utenova",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "msivaswami",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "shreyansh-priyadarshi",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "research-overview",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-d0ab80cac2a3542b",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-2d02a97cad2673b5",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-d51ec1d5194acf3f",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-adf7b8f0767f13c0",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-9d4e3b66cb856a85",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-2f7e8dd24915e283",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-fe835717a3f5b0d3",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-6a3e196c40a8251b",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-5c6b96443f644c1b",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-92d06d3f79d00f27",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-e14cd3a5f55c62bb",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-535d2dc9cedf3c0f",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-3f5e836ef95fb390",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-f26366cf5164c5e5",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-ab95a6f670640df6",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-9c45b9502b6ddbb5",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-4df96b67a22e5929",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-8507092a3a2c6505",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-61bac36e336dadcd",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-44da1138314b7b90",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-dc7825551fbdd666",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-9a8c69fbc0b8b2f1",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-bc58d19778f4af67",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-9b62ac298f657958",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-fe4513cf7bcd50c0",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-58deb117297ff751",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-3fffa7970a39f232",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-774dbf96bda18914",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-428ac927092b664b",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-053a2ed83e10381f",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-8d302c9264dc6fda",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-1f526f809e5e3a91",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-a8f8a27a01dcf401",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-c1eff60cd6ac0cc4",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-00a734cf71316497",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-22c489e24c0e4bb9",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-0882813cd9a8c4c2",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-e06956d2b6c72fee",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-ea4c1ee9f75b43ae",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-49904a9568d32adc",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-2fc834eb809bdead",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-43f21a5a4c96279e",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "work-cf5e9449c6f4a58d",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "intervene",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "jaspar-database",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "unibind",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "dbsuper",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "jaspar-restful-api",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "mcrossbase",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "ith-variant",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "biasaway-cli",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "biasaway-webserver",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "ecrcentral",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "improse",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "pyjaspar",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "intervene-shinyapp",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-12-21-talk-at-informatics-day-sabanci-university",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-12-15-invited-talk-at-uio-oslo",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-12-02-new-publication",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-11-28-new-publication",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-11-26-workshop-on-open-science-and-reproducibility",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-11-25-keynote-talk-at-insyb2025-doha",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-11-19-mini-genomics-data-carpentry-workshop",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-11-12-featured-talk-at-ai-innovation-day-mbzuai",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-09-12-new-preprint",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-08-21-associate-editor-at-nar-genomics-and-bioinformatics",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-08-15-new-members",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-06-05-keynote-talk-at-x-meeting-brazil",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-06-02-invited-talk-at-iscbai-2025-iscb-asia",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-05-20-new-member",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-05-08-genomics-workshop-was-a-big-success",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-04-01-genomics-data-carpentry-workshop-mbzuai",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-03-21-new-publication",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-03-13-hse-mbzuai-meet-up-on-ai-in-biology",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-02-25-talk-at-nyu-abu-dhabi-campus",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-02-17-talk-at-nust-islamabad",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-02-14-talk-at-lums-lahore",
+      "reason": "Existing curated/previously imported record retained"
+    },
+    {
+      "record": "2025-02-01-new-lab-new-continent-and-new-beginnings",
+      "reason": "Existing curated/previously imported record retained"
+    }
+  ],
+  "missing_images": [],
+  "unresolved_metadata": [],
+  "broken_links": [],
+  "warnings": [],
+  "review": [
+    {
+      "record": "404.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/akshat-mistry.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/anil-thanki.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/aruzhan-zhamalbek.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/aziz-khan.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/jenna-khanfar.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/khalifa-juma.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/lina-utenova.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/msivaswami.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "_members/shreyansh-priyadarshi.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "contact/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "contact/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "join/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "join/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "news/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "news/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "publications/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "publications/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "team/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "team/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "testbed.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "tools/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "tools/index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "news-index",
+      "reason": "Listing introduction retained in lab.yml provenance.source_sections; native directory renders structured records"
+    },
+    {
+      "record": "publications-index",
+      "reason": "Listing introduction retained in lab.yml provenance.source_sections; native directory renders structured records"
+    },
+    {
+      "record": "team-index",
+      "reason": "Listing introduction retained in lab.yml provenance.source_sections; native directory renders structured records"
+    },
+    {
+      "record": "tools-index",
+      "reason": "Listing introduction retained in lab.yml provenance.source_sections; native directory renders structured records"
+    },
+    {
+      "record": "index.md",
+      "reason": "Template expressions removed; original text retained in provenance/source."
+    },
+    {
+      "record": "contact-index",
+      "reason": "Curated native section page retained"
+    },
+    {
+      "record": "join-index",
+      "reason": "Curated native section page retained"
+    }
+  ],
+  "schema_valid": true,
+  "asset_checksums": {},
+  "asset_sources": {}
+}

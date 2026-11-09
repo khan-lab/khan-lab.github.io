@@ -1,0 +1,91 @@
+- id: cbio7501-reproducible-open-science
+  type: course
+  title: The Art of Reproducible and Open Science
+  code: CBIO7501
+  institution: MBZUAI, Abu Dhabi, UAE
+  teaching_role: Instructor
+  credits: 2 credits
+  description: A hands-on course covering computational reproducibility, version control, portable computing environments, containers, workflow automation, and FAIR research practices.
+  people: [aziz-khan]
+  source_url: https://github.com/khan-lab/cbio7501-f26
+  offerings:
+    - term: Fall
+      year: 2026
+      links:
+        Course website: https://khanlab.bio/cbio7501-f26/
+        Course materials: https://github.com/khan-lab/cbio7501-f26
+        Syllabus: https://github.com/khan-lab/cbio7501-f26/blob/main/syllabus.qmd
+- id: res799-research-methods
+  title: Research Methods
+  code: RES799
+  institution: MBZUAI, Abu Dhabi, UAE
+  people: [aziz-khan]
+  offerings:
+    - term: Fall
+      year: 2025
+- id: cb703-single-cell-biology
+  type: guest-lecture
+  title: Introduction to Single Cell Biology and Bioinformatics
+  code: CB703
+  institution: MBZUAI, Abu Dhabi, UAE
+  people: [aziz-khan]
+  offerings:
+    - term: Spring
+      year: 2025
+      links:
+        Course materials: https://github.com/Munfred/scbb/
+- id: cb803-single-cell-biology
+  type: guest-lecture
+  title: Single Cell Biology and Bioinformatics
+  code: CB803
+  institution: MBZUAI, Abu Dhabi, UAE
+  people: [aziz-khan]
+  offerings:
+    - term: Spring
+      year: 2025
+      links:
+        Course materials: https://github.com/Munfred/scbb/
+- id: genomics-data-carpentry-mbzuai
+  type: workshop
+  title: Genomics Data Carpentry
+  institution: MBZUAI, Abu Dhabi, UAE
+  people: [aziz-khan]
+  offerings:
+    - term: Spring
+      year: 2025
+      links:
+        Workshop website: https://mbzuai.ac.ae/event/genomics-data-carpentry-workshop/
+- id: bios259-reproducible-science
+  title: 'The Art of Reproducible Science: A Hands-on Approach'
+  code: BIOS 259
+  institution: Stanford University
+  people: [aziz-khan]
+  offerings:
+    - term: Winter
+      year: 2025
+      links:
+        Course catalog: https://explorecourses.stanford.edu/search?q=BIOS+259&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20242025
+    - term: Winter
+      year: 2024
+      links:
+        Course catalog: https://explorecourses.stanford.edu/search?q=BIOS+259&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20232024
+- id: unix-shell-stanford
+  type: workshop
+  title: Unix Shell Workshop
+  institution: Stanford University, California, USA
+  people: [aziz-khan]
+  offerings:
+    - term: Summer
+      year: 2024
+      links:
+        Workshop website: https://asntech.github.io/2024-05-31-stanford-online
+- id: genomics-data-carpentry-rutgers
+  type: workshop
+  title: Genomics Data Carpentry
+  institution: Rutgers University, New Jersey, USA
+  people: [aziz-khan]
+  offerings:
+    - term: Summer
+      year: 2024
+      links:
+        Workshop website: https://asntech.github.io/2024-04-25-rutgers

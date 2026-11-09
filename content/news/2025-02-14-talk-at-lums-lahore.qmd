@@ -1,0 +1,12 @@
+---
+id: 2025-02-14-talk-at-lums-lahore
+title: Talk at LUMS Lahore
+date: 2025-02-14
+categories:
+- lab-news
+description: Aziz was invited to speak at the Syed Babar Ali School of Science and
+  Engineering (SBASSE), LUMS Life Sciences Seminar Series.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+---
+
+Aziz was invited to speak at the Syed Babar Ali School of Science and Engineering (SBASSE), LUMS Life Sciences Seminar Series.

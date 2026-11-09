@@ -1,0 +1,14 @@
+---
+id: 2026-10-06-invited-talk-at-nyu-abu-dhabi
+title: Invited talk at NYU Abu Dhabi
+date: '2026-10-06'
+categories:
+- lab-news
+- talks
+description: Aziz gave an invited talk, “Decoding gene regulation and tracing how colorectal 
+  cancer begins,” at NYU Abu Dhabi on 6 October 2026.
+people:
+- aziz-khan
+---
+
+Aziz gave an invited talk, *Decoding gene regulation and tracing how colorectal cancer begins*, at NYU Abu Dhabi on 6 October 2026.

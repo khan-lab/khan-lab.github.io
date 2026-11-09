@@ -1,0 +1,214 @@
+- id: work-f32ba2e7b2e6bf90
+  title: Evolutionary measures show that recurrence of DCIS is distinct from progression to breast 
+    cancer
+  authors:
+  - Angelo Fortunato
+  - Diego Mallo
+  - Luis Cisneros
+  - Lorraine M. King
+  - Aziz Khan
+  - Christina Curtis
+  - Marc D. Ryser
+  - Joseph Y. Lo
+  - Allison Hall
+  - Jeffrey R. Marks
+  - E. Shelley Hwang
+  - Carlo C. Maley
+  year: 2025
+  venue: Breast Cancer Research
+  doi: 10.1186/s13058-025-01966-2
+  type: article
+  status: confirmed
+  source_url: https://api.crossref.org/works/10.1186/s13058-025-01966-2
+  sources:
+  - https://doi.org/10.1186/s13058-025-01966-2
+  featured: false
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC11929273/pdf/13058_2025_Article_1966.pdf
+  preprint: https://www.medrxiv.org/content/10.1101/2024.08.15.24311949v1
+  code: https://github.com/adamallo/ManuscriptScripts_DCISRecurrenceVsProgression
+  data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002371.v3.p1
+  link_sources:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11929273/
+  - https://www.medrxiv.org/content/10.1101/2024.08.15.24311949v1
+  inclusion_evidence: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+- id: work-9c45b9502b6ddbb5
+  title: 'Pakistan: anger mounts over threat to higher education.'
+  authors:
+  - Aziz Khan
+  year: 2021
+  venue: Nature
+  type: article
+  doi: 10.1038/d41586-021-01119-3
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33907327
+  status: confirmed
+  featured: false
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:33907327
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/33907327
+  projects: []
+- id: work-774dbf96bda18914
+  title: 'JASPAR 2020: update of the open-access database of transcription factor binding profiles.'
+  authors:
+  - Oriol Fornes
+  - Jaime A Castro-Mondragon
+  - Aziz Khan
+  - Robin van der Lee
+  - Xi Zhang
+  - Phillip A Richmond
+  - Bhavi P Modi
+  - Solenne Correard
+  - Marius Gheorghe
+  - Damir Baranašić
+  - Walter Santana-Garcia
+  - Ge Tan
+  - Jeanne Chèneby
+  - Benoit Ballester
+  - François Parcy
+  - Albin Sandelin
+  - Boris Lenhard
+  - Wyeth W Wasserman
+  - Anthony Mathelier
+  year: 2020
+  venue: Nucleic acids research
+  type: article
+  doi: 10.1093/nar/gkz1001
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31701148
+  status: confirmed
+  featured: true
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:31701148
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/31701148
+  projects: []
+- id: work-9b62ac298f657958
+  title: "COVID-19: students caught in Pakistan's digital divide."
+  authors:
+  - Aziz Khan
+  year: 2020
+  venue: Nature
+  type: article
+  doi: 10.1038/d41586-020-03291-4
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33235363
+  status: confirmed
+  featured: false
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:33235363
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/33235363
+  projects: []
+- id: work-fe4513cf7bcd50c0
+  title: 'The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time at Single-Cell
+    Resolution.'
+  authors:
+  - Orit Rozenblatt-Rosen
+  - Aviv Regev
+  - Philipp Oberdoerffer
+  - Tal Nawy
+  - Anna Hupalowska
+  - Jennifer E Rood
+  - Orr Ashenberg
+  - Ethan Cerami
+  - Robert J Coffey
+  - Emek Demir
+  - Li Ding
+  - Edward D Esplin
+  - James M Ford
+  - Jeremy Goecks
+  - Sharmistha Ghosh
+  - Joe W Gray
+  - Justin Guinney
+  - Sean E Hanlon
+  - Shannon K Hughes
+  - E Shelley Hwang
+  - Christine A Iacobuzio-Donahue
+  - Judit Jané-Valbuena
+  - Bruce E Johnson
+  - Ken S Lau
+  - Tracy Lively
+  - Sarah A Mazzilli
+  - Dana Pe'er
+  - Sandro Santagata
+  - Alex K Shalek
+  - Denis Schapiro
+  - Michael P Snyder
+  - Peter K Sorger
+  - Avrum E Spira
+  - Sudhir Srivastava
+  - Kai Tan
+  - Robert B West
+  - Elizabeth H Williams
+  year: 2020
+  venue: Cell
+  type: article
+  doi: 10.1016/j.cell.2020.03.053
+  url: https://www.ncbi.nlm.nih.gov/pubmed/32302568
+  status: confirmed
+  featured: false
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:32302568
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/32302568
+  projects: []
+- id: work-428ac927092b664b
+  title: Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering Protein-RNA 
+    Crosslink Sites.
+  authors:
+  - Huijuan Feng
+  - Suying Bao
+  - Mohammad Alinoor Rahman
+  - Sebastien M Weyn-Vanhentenryck
+  - Aziz Khan
+  - Justin Wong
+  - Ankeeta Shah
+  - Elise D Flynn
+  - Adrian R Krainer
+  - Chaolin Zhang
+  year: 2019
+  venue: Molecular cell
+  type: article
+  doi: 10.1016/j.molcel.2019.02.002
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31226278
+  status: confirmed
+  featured: false
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:31226278
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/31226278
+  projects: []
+- id: work-22c489e24c0e4bb9
+  title: 'Bioconda: sustainable and comprehensive software distribution for the life sciences.'
+  authors:
+  - Björn Grüning
+  - Ryan Dale
+  - Andreas Sjödin
+  - Brad A Chapman
+  - Jillian Rowe
+  - Christopher H Tomkins-Tinch
+  - Renan Valieris
+  - Johannes Köster
+  year: 2018
+  venue: Nature methods
+  type: article
+  doi: 10.1038/s41592-018-0046-7
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29967506
+  status: confirmed
+  featured: false
+  source_url: 
+    https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  source_id: pmid:29967506
+  sources:
+  - https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/citations.yaml
+  - https://europepmc.org/article/MED/29967506
+  projects: []

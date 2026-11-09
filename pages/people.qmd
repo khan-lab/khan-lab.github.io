@@ -1,0 +1,7 @@
+---
+title: People
+---
+
+We are building a dedicated team of responsible researchers to advance the frontier of computational biology and genomics. We are hiring at all levels. Please send your CV with a cover email explaining your interest and fit.
+
+{{< include ../_generated/people.md >}}

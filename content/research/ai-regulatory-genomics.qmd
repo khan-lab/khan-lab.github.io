@@ -1,0 +1,13 @@
+---
+id: ai-regulatory-genomics
+title: Regulatory genomics beyond a single reference
+description: How does gene regulation differ across human genomes? We use complete and diverse genome references to study regulation as it varies between individuals and populations.
+featured: true
+people: []
+publications: []
+software: []
+---
+
+Most regulatory genomics still relies on a single reference genome. This biases how sequencing data is mapped, hides differences between the two copies of each chromosome, and leaves out sequence carried by many people, particularly in under-represented populations. As a result, regulatory variation that differs between individuals is often missed or misread.
+
+We work with telomere-to-telomere (T2T) assemblies, pangenomes and personal diploid genomes to study gene regulation in a more complete and inclusive way. We develop methods that link genetic variation to changes in transcription factor binding, chromatin accessibility and gene expression, and we use personal references to improve variant detection. Our aim is to understand how regulatory differences between people arise and how they contribute to traits and disease.

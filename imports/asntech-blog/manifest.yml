@@ -1,0 +1,364 @@
+source_repository: https://github.com/asntech/asntech.github.io
+source_commit: ebf6ffcc9198f8b251a0eb0f65b3119b51430dd4
+source_index: https://asntech.github.io/post/
+imported_at: '2026-11-03'
+author: aziz-khan
+counts:
+  posts: 7
+  local_images: 12
+date_policy: Preserve the source page datePublished calendar date; retain the original
+  timestamp in metadata.
+taxonomy_policy: Original tags preserved; Archive is the new required category.
+content_policy: Article bodies only; original text, captions, links and static tweet
+  quotes retained. Old theme navigation, sharing widgets, scripts and comments excluded.
+posts:
+- slug: computational-biology-without-borders
+  title: Computational biology without borders
+  source_path: post/computational-biology-without-borders/index.html
+  url: https://asntech.github.io/post/computational-biology-without-borders/
+  source_published_datetime: 2019-10-23 00:00:00 +0000 UTC
+  date: '2019-10-23'
+  tags:
+  - open-source
+  - open science
+  - conference
+  description: I discuss the importance of open source software for the scientific
+    discovery in the current data-intensive century. I also shared my experience about
+    the ISMB/ECCB and BOSC 2019 in Basel.
+  images:
+  - https://i.ibb.co/1QRqzGT/IMG-20190726-084155-HDR.jpg
+  - https://www.open-bio.org/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg
+  - https://pbs.twimg.com/media/EAJoUsqXsAAa-FT?format=jpg&name=4096x4096
+  scripts: 5
+  iframes: 0
+  blockquotes: 10
+  text_characters: 13493
+  destination: content/blog/computational-biology-without-borders.qmd
+  public_url: /blog/computational-biology-without-borders.html
+  source_sha256: f89f3e6de5f038b751bfd2c76bc34fa943723daa09b918f93e7ff7e5b2ee989d
+  destination_sha256: cb2684b0334b72b2689778cdcaa63fcc3e1ce9bb3470cdd8f133317d993a5f0e
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 10
+  article_images: 3
+- slug: database-of-fundings-for-postdocs
+  title: A database of funding for postdocs & ECRs
+  source_path: post/database-of-fundings-for-postdocs/index.html
+  url: https://asntech.github.io/post/database-of-fundings-for-postdocs/
+  source_published_datetime: 2018-02-20 12:00:00 +0000 UTC
+  date: '2018-02-20'
+  tags:
+  - funding
+  - postdoc
+  - ecr
+  description: A detailed list of funding schemes and travel grants for postdocs and
+    early career researchers.
+  images:
+  - https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png
+  - https://asntech.github.io/postdoc-funding-schemes/travel-grants.png
+  scripts: 1
+  iframes: 0
+  blockquotes: 8
+  text_characters: 2266
+  destination: content/blog/database-of-fundings-for-postdocs.qmd
+  public_url: /blog/database-of-fundings-for-postdocs.html
+  source_sha256: 78b2b6587abf0d053efbab84ff06ebea684c4ab3356223651854b8a9c1cc1ded
+  destination_sha256: b0f535273070bc6a420065c6fd107f7e7d5c55f33fd8119783c5768a764e32eb
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 8
+  article_images: 2
+- slug: jaspar-database-with-a-new-look
+  title: JASPAR database in a new look after 14 years
+  source_path: post/jaspar-database-with-a-new-look/index.html
+  url: https://asntech.github.io/post/jaspar-database-with-a-new-look/
+  source_published_datetime: 2018-01-01 12:00:00 +0000 UTC
+  date: '2018-01-01'
+  tags:
+  - jaspar
+  - database
+  description: The 2018 release of JASPAR comes with a completely redesigned web interface
+    that meets modern web standards.
+  images:
+  - https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg
+  - https://asntech.github.io/img/jaspar-rest-api.png
+  scripts: 0
+  iframes: 0
+  blockquotes: 2
+  text_characters: 2731
+  destination: content/blog/jaspar-database-with-a-new-look.qmd
+  public_url: /blog/jaspar-database-with-a-new-look.html
+  source_sha256: 1b36c33e95abbcbca18f38d404ca74c2dc7f366581f5a4d0e7ab7659aaa9c6b2
+  destination_sha256: c0814541511e42f16cb376e64299822df3957c1bd5d71ef2ef5b40eae5dac316
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 2
+  article_images: 2
+- slug: my-worst-journal-shopping-and-peer-review-experience
+  title: My worst Journal shopping and peer-review experience
+  source_path: post/my-worst-journal-shopping-and-peer-review-experience/index.html
+  url: https://asntech.github.io/post/my-worst-journal-shopping-and-peer-review-experience/
+  source_published_datetime: 2019-02-27 12:00:00 +0000 UTC
+  date: '2019-02-27'
+  tags:
+  - publishing
+  - peer-review
+  description: It took 3 years to get my first and last PhD paper out after 4 rejections.
+  images: []
+  scripts: 4
+  iframes: 0
+  blockquotes: 6
+  text_characters: 4794
+  destination: content/blog/my-worst-journal-shopping-and-peer-review-experience.qmd
+  public_url: /blog/my-worst-journal-shopping-and-peer-review-experience.html
+  source_sha256: bf0c82f1065a76cab4ea561a494f31fe4f6d98f1f099c4f3b094482bdcbfec63
+  destination_sha256: 9fe8e8dc355c684331edb9e94e34aad229f6bfed5049b2f3bbb54939f2bc8c55
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 6
+  article_images: 0
+- slug: time-to-make-venn-diagram-upset
+  title: Time to make Venn diagrams UpSet
+  source_path: post/time-to-make-venn-diagram-upset/index.html
+  url: https://asntech.github.io/post/time-to-make-venn-diagram-upset/
+  source_published_datetime: 2017-08-20 12:00:00 +0000 UTC
+  date: '2017-08-20'
+  tags:
+  - venn
+  - upset
+  - bioviz
+  description: UpSet plots are the right solution to show complex set intersections.
+  images:
+  - https://media.nature.com/lw926/nature-assets/nature/journal/v488/n7410/images/nature11241-f4.2.jpg
+  - https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg
+  - https://asntech.github.io/img/Intervene_pairwise_frac-ses.png
+  - http://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png
+  scripts: 0
+  iframes: 0
+  blockquotes: 3
+  text_characters: 2534
+  destination: content/blog/time-to-make-venn-diagram-upset.qmd
+  public_url: /blog/time-to-make-venn-diagram-upset.html
+  source_sha256: 7ada83432b427b75159c44c1942518f3585eed0200986caa36a42145b00d258b
+  destination_sha256: 0fd9992d686d712d1dc1a96a47375e82a6648b8f0320a0016855773c8cf5ed7d
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 3
+  article_images: 4
+- slug: towards-a-format-free-initial-submission-policy
+  title: 'Towards a format-free submission policy: Let''s put science first'
+  source_path: post/towards-a-format-free-initial-submission-policy/index.html
+  url: https://asntech.github.io/post/towards-a-format-free-initial-submission-policy/
+  source_published_datetime: 2018-04-12 12:00:00 +0000 UTC
+  date: '2018-04-12'
+  tags:
+  - publishing
+  - opinion
+  description: We urge journals and the scientific community to adopt, to put science
+    first and formatting later
+  images:
+  - https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png
+  scripts: 3
+  iframes: 0
+  blockquotes: 7
+  text_characters: 3094
+  destination: content/blog/towards-a-format-free-initial-submission-policy.qmd
+  public_url: /blog/towards-a-format-free-initial-submission-policy.html
+  source_sha256: 9c449e37127ddc6d98f6a248df2047bebba5ec0977b1008d04077c789a06918d
+  destination_sha256: ead3ab2d02900bc50ccc77be8420380db78705d1ddce1ba95eea6fddc7d55a42
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 7
+  article_images: 1
+- slug: welcome
+  title: Welcome to my new website using Hugo framework
+  source_path: post/welcome/index.html
+  url: https://asntech.github.io/post/welcome/
+  source_published_datetime: 2016-04-20 12:00:00 +0000 UTC
+  date: '2016-04-20'
+  tags:
+  - academic
+  - hugo
+  description: This is a welcome post about my new website using Acedemic theme for
+    Hugo.
+  images: []
+  scripts: 0
+  iframes: 0
+  blockquotes: 0
+  text_characters: 90
+  destination: content/blog/welcome.qmd
+  public_url: /blog/welcome.html
+  source_sha256: f840223d6f20416369f19f1da9de427efc3751d91139ba89e820dc55d2d9bbfc
+  destination_sha256: 6f2ac01a13c96b338ef86b1e4fb411fc7cd35c0dc77d258d56edf0d7925e2ec8
+  plain_text_preserved: true
+  text_comparison: Whitespace-normalized prose, code and quotations; image alternative
+    text is checked separately.
+  static_blockquotes: 0
+  article_images: 0
+assets:
+- post: computational-biology-without-borders
+  original_url: https://i.ibb.co/1QRqzGT/IMG-20190726-084155-HDR.jpg
+  original_alt: ''
+  filename: basel-tripoint.jpg
+  download_url: https://i.ibb.co/1QRqzGT/IMG-20190726-084155-HDR.jpg
+  resolved_url: https://i.ibb.co/1QRqzGT/IMG-20190726-084155-HDR.jpg
+  type: jpeg
+  bytes: 3836100
+  sha256: b4f3788301b279f8e8eb14f399e1fd44f8ba4ced5d3623866db515089fde485d
+  retrieval_errors: []
+  destination: assets/blog/asntech/computational-biology-without-borders/basel-tripoint.jpg
+  alt: The Dreiländereck monument beside the Rhine, where Switzerland, France and
+    Germany meet.
+- post: computational-biology-without-borders
+  original_url: https://www.open-bio.org/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg
+  original_alt: ''
+  filename: rhine-swimmers.jpg
+  errors:
+  - url: https://www.open-bio.org/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg
+    error: 'HTTP Error 404: Not Found'
+  resolved_url: https://www.open-bio.org/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg
+  bytes: 5427675
+  sha256: 7c0065c50e435cc98b2e67c87e6308117cebc8a2084533e0a152196b76659e32
+  download_url: https://www.open-bio.org/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg
+  recovery_note: Recovered the same image from the current publisher image URL after
+    the old URL failed.
+  destination: assets/blog/asntech/computational-biology-without-borders/rhine-swimmers.jpg
+  alt: People swimming and floating in the Rhine during the Basel heatwave.
+- post: computational-biology-without-borders
+  original_url: https://pbs.twimg.com/media/EAJoUsqXsAAa-FT?format=jpg&name=4096x4096
+  original_alt: ''
+  filename: regsys-single-cell-session.jpg
+  download_url: https://pbs.twimg.com/media/EAJoUsqXsAAa-FT?format=jpg&name=4096x4096
+  resolved_url: https://pbs.twimg.com/media/EAJoUsqXsAAa-FT?format=jpg&name=4096x4096
+  type: jpeg
+  bytes: 534698
+  sha256: 109a844bee901e4791be548b30430582616261a1af1a184b8ef2e6ce50b6a1c0
+  retrieval_errors: []
+  destination: assets/blog/asntech/computational-biology-without-borders/regsys-single-cell-session.jpg
+  alt: Audience at the RegSys single-cell session during ISMB/ECCB 2019.
+- post: database-of-fundings-for-postdocs
+  original_url: https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png
+  original_alt: ''
+  filename: postdoc-funding-banner.png
+  download_url: https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png
+  resolved_url: https://asntech.github.io/postdoc-funding-schemes/postdoc-funding-banner.png
+  type: png
+  bytes: 1625046
+  sha256: 75573ecb05094744287cf26d8615dcb8dc548c89f30bac419a781a7def460cee
+  retrieval_errors: []
+  destination: assets/blog/asntech/database-of-fundings-for-postdocs/postdoc-funding-banner.png
+  alt: Funding schemes and fellowship opportunities for postdoctoral researchers.
+- post: database-of-fundings-for-postdocs
+  original_url: https://asntech.github.io/postdoc-funding-schemes/travel-grants.png
+  original_alt: ''
+  filename: travel-grants.png
+  download_url: https://asntech.github.io/postdoc-funding-schemes/travel-grants.png
+  resolved_url: https://asntech.github.io/postdoc-funding-schemes/travel-grants.png
+  type: png
+  bytes: 773967
+  sha256: 3de73a9c568de11567710812e8cb66dae1c462909eb95d91433123770923d6c0
+  retrieval_errors: []
+  destination: assets/blog/asntech/database-of-fundings-for-postdocs/travel-grants.png
+  alt: Travel-grant opportunities for postdocs and early-career researchers.
+- post: jaspar-database-with-a-new-look
+  original_url: https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg
+  original_alt: ''
+  filename: jaspar-web-interface.jpg
+  download_url: https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg
+  resolved_url: https://pbs.twimg.com/media/DMRI_M3XkAUr4DA.jpg
+  type: jpeg
+  bytes: 137995
+  sha256: 5edf77f3e9840fdd7c1306921efb763515a1b1f0c3fe87fb7ea5b97ef337bbd0
+  retrieval_errors: []
+  destination: assets/blog/asntech/jaspar-database-with-a-new-look/jaspar-web-interface.jpg
+  alt: Screenshot of the redesigned JASPAR 2018 database homepage.
+- post: jaspar-database-with-a-new-look
+  original_url: https://asntech.github.io/img/jaspar-rest-api.png
+  original_alt: ''
+  filename: jaspar-rest-api.png
+  download_url: https://raw.githubusercontent.com/asntech/asntech.github.io/ebf6ffcc9198f8b251a0eb0f65b3119b51430dd4/img/jaspar-rest-api.png
+  resolved_url: https://raw.githubusercontent.com/asntech/asntech.github.io/ebf6ffcc9198f8b251a0eb0f65b3119b51430dd4/img/jaspar-rest-api.png
+  type: png
+  bytes: 333771
+  sha256: 18a22967437d5df2f205b9299f9eef24ac45da878a9944b87350fb1a02e4fab1
+  retrieval_errors: []
+  destination: assets/blog/asntech/jaspar-database-with-a-new-look/jaspar-rest-api.png
+  alt: Screenshot of the JASPAR REST API interface.
+- post: time-to-make-venn-diagram-upset
+  original_url: https://media.nature.com/lw926/nature-assets/nature/journal/v488/n7410/images/nature11241-f4.2.jpg
+  original_alt: ''
+  filename: six-genome-venn-diagram.jpg
+  errors:
+  - url: https://media.nature.com/lw926/nature-assets/nature/journal/v488/n7410/images/nature11241-f4.2.jpg
+    error: 'HTTP Error 404: Not Found'
+  resolved_url: https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fnature11241/MediaObjects/41586_2012_Article_BFnature11241_Fig4_HTML.jpg
+  bytes: 91480
+  sha256: 8eaa248fc2c161bcac254f0f7887cb38df3bba0d7d5270c0abd3b762a712c4d4
+  archive_cdx_sha1: null
+  download_url: https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fnature11241/MediaObjects/41586_2012_Article_BFnature11241_Fig4_HTML.jpg
+  recovery_note: Recovered the same image from the current publisher image URL after
+    the old URL failed.
+  destination: assets/blog/asntech/time-to-make-venn-diagram-upset/six-genome-venn-diagram.jpg
+  alt: Six-way Venn diagram of shared gene families among six plant genomes, from
+    D’Hont and colleagues (2012).
+- post: time-to-make-venn-diagram-upset
+  original_url: https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg
+  original_alt: ''
+  filename: genome-intersections-upset.jpg
+  errors:
+  - url: https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg
+    error: 'HTTP Error 404: Not Found'
+  resolved_url: https://web.archive.org/web/20170721053455id_/https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg
+  bytes: 58007
+  sha256: 973de080699e521518a37ea5decb44e8f12d7e9526f68b10d4a33dbf56496c9c
+  archive_cdx_sha1: OW6SEU64NW27O52DZHPKQJXVAD3LN6MH
+  download_url: https://web.archive.org/web/20170721053455id_/https://pbs.twimg.com/media/DDQ7SU3XgAATHsv.jpg
+  recovery_note: Recovered from a public archive snapshot after the original URL failed.
+  destination: assets/blog/asntech/time-to-make-venn-diagram-upset/genome-intersections-upset.jpg
+  alt: UpSet plot presenting intersections of the six plant-genome gene-family sets.
+- post: time-to-make-venn-diagram-upset
+  original_url: https://asntech.github.io/img/Intervene_pairwise_frac-ses.png
+  original_alt: SEs
+  filename: intervene-pairwise-heatmap.png
+  download_url: https://raw.githubusercontent.com/asntech/asntech.github.io/ebf6ffcc9198f8b251a0eb0f65b3119b51430dd4/img/Intervene_pairwise_frac-ses.png
+  resolved_url: https://raw.githubusercontent.com/asntech/asntech.github.io/ebf6ffcc9198f8b251a0eb0f65b3119b51430dd4/img/Intervene_pairwise_frac-ses.png
+  type: png
+  bytes: 658614
+  sha256: 355b5d946704ed2386c32e953a3399514d631d99f7fb100cefd83d6d9f99d3ec
+  retrieval_errors: []
+  destination: assets/blog/asntech/time-to-make-venn-diagram-upset/intervene-pairwise-heatmap.png
+  alt: Intervene pairwise intersection heatmap comparing super-enhancer sets.
+- post: time-to-make-venn-diagram-upset
+  original_url: http://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png
+  original_alt: ''
+  filename: intervene-modules.png
+  download_url: https://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png
+  resolved_url: https://intervene.readthedocs.io/en/latest/_images/Intervene_sketch.png
+  type: png
+  bytes: 274359
+  sha256: c716905079c6ac0047566b114c5ad0eab73ba165329218ef87ca508e9b1c2264
+  retrieval_errors: []
+  destination: assets/blog/asntech/time-to-make-venn-diagram-upset/intervene-modules.png
+  alt: Diagram of the Intervene Venn, UpSet and pairwise intersection analysis modules.
+- post: towards-a-format-free-initial-submission-policy
+  original_url: https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png
+  original_alt: ''
+  filename: format-free-f1000.png
+  errors:
+  - url: https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png
+    error: 'HTTP Error 503: Service Temporarily Unavailable'
+  resolved_url: https://web.archive.org/web/20230807081156id_/https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png
+  bytes: 47246
+  sha256: 14c85cda3cf4f1ad0f49652464b4d665f4bae02d4649bc60f815dcf7dd0af1c9
+  archive_cdx_sha1: 5TKRILSSPLLGGE4ISD457RRULL4ADEHJ
+  download_url: https://web.archive.org/web/20230807081156id_/https://blog.f1000.com/wp-content/uploads/2018/07/Copy-of-Copy-of-Copy-of-A-method-for-the-acute-and-rapid-degradation-of-endogenous-proteins-12-480x320.png
+  recovery_note: Recovered from a public archive snapshot after the original URL failed.
+  destination: assets/blog/asntech/towards-a-format-free-initial-submission-policy/format-free-f1000.png
+  alt: F1000Prime image highlighting the article Put science first and formatting
+    later.

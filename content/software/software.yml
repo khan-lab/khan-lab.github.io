@@ -1,0 +1,178 @@
+- id: askjaspar
+  name: AskJASPAR
+  type: software
+  description: A natural-language interface and MCP server for querying JASPAR TF binding profiles.
+  url: https://askjaspar.khanlab.bio/
+  featured: false
+  projects: []
+  source_url: https://askjaspar.khanlab.bio/
+- id: encodefetch
+  name: ENCODEfetch
+  type: software
+  description: A command-line tool and Python package for retrieving matched case-control data/metadata from ENCODE.
+  url: https://khanlab.bio/ENCODEfetch/
+  repo: https://github.com/khan-lab/ENCODEfetch
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/ENCODEfetch
+- id: egafetch
+  name: EGAfetch
+  type: software
+  description: A command-line client for parallel download of data and metadata from the European Genome-phenome Archive.
+  url: https://khanlab.bio/EGAfetch/
+  repo: https://github.com/khan-lab/EGAfetch
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/EGAfetch
+- id: rwcheck
+  name: RWCheck
+  type: software
+  description: A tool for fast retraction screening for DOIs, PubMed IDs, BibTeX and RIS references
+  url: https://rwcheck.khanlab.bio/
+  repo: https://github.com/khan-lab/rwcheck
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/rwcheck
+- id: intervene
+  name: Intervene
+  type: software
+  description: A tool for intersection and visualization of multiple gene or genomic region sets
+  url: https://github.com/asntech/intervene
+  repo: https://github.com/asntech/intervene
+  image: assets/migrated/images/tools/intervene.png
+  image_alt: Intervene project illustration
+  featured: true
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: jaspar-database
+  name: JASPAR database
+  type: database
+  description: The open and high-quality transcription factor binding profile database
+  url: https://github.com/asntech/jaspar
+  repo: https://github.com/asntech/jaspar
+  image: assets/migrated/images/publications/jaspar.jpg
+  image_alt: JASPAR database project illustration
+  featured: true
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: unibind
+  name: UniBind
+  type: dataset
+  description: A map of direct TF-DNA interactions in the human genome.
+  url: https://unibind.uio.no/
+  repo: https://bitbucket.org/CBGR/unibind/
+  image: assets/migrated/images/tools/UniBind.png
+  image_alt: UniBind project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: dbsuper
+  name: dbSUPER
+  type: database
+  description: The first integrated and interactive database of super-enhancers
+  url: https://dbsuper.khanlab.bio
+  repo: https://github.com/khan-lab/dbsuper
+  image: assets/migrated/images/tools/dbsuper.png
+  image_alt: dbSUPER project illustration
+  featured: true
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: jaspar-restful-api
+  name: JASPAR RESTful API
+  type: software
+  description: Programmatically accessing JASPAR data from any programming language
+  url: https://jaspar.elixir.no/api/
+  repo: https://github.com/asntech/jaspar
+  image: assets/migrated/images/tools/jaspar-rest-api.png
+  image_alt: JASPAR RESTful API project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: mcrossbase
+  name: mCrossBase
+  type: database
+  description: A database of RNA-binding proteins binding motifs and crosslink sites
+  url: https://zhanglab.c2b2.columbia.edu/mCrossBase/
+  repo: https://github.com/asntech/mCrossBase
+  image: assets/migrated/images/tools/mCross_logo.png
+  image_alt: mCrossBase project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: ith-variant
+  name: ith.Variant
+  type: software
+  description: somatic variant detection from multi-sampled genomic WGS/WES data of tumors
+  url: https://github.com/SunPathLab/ith.Variant
+  repo: https://github.com/SunPathLab/ith.Variant
+  image: assets/migrated/images/tools/ith.variant.jpg
+  image_alt: ith.Variant project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: biasaway-cli
+  name: BiasAway CLI
+  type: software
+  description: A tool to generate composition-matched background sequence set
+  url: https://github.com/asntech/biasaway
+  repo: https://github.com/asntech/biasaway
+  image: assets/migrated/images/tools/cli.png
+  image_alt: BiasAway CLI project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: biasaway-webserver
+  name: BiasAway Webserver
+  type: software
+  description: A webserver to generate composition-matched background sequence set
+  url: https://biasaway.uio.no/
+  repo: https://github.com/asntech/biasaway
+  image: assets/migrated/images/tools/biasaway.png
+  image_alt: BiasAway Webserver project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: ecrcentral
+  name: ECRcentral
+  type: education
+  description: A central platform for early career researchers community
+  url: https://ecrcentral.org
+  repo: https://github.com/ecrcentral/ecrcentral
+  image: assets/migrated/images/tools/ecrcentral-logo.png
+  image_alt: ECRcentral project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: improse
+  name: imPROSE
+  type: software
+  description: an integrated methods to predict super-enhancers
+  url: https://asntech.github.io/improse
+  repo: https://github.com/asntech/improse
+  image: assets/migrated/images/tools/cli.png
+  image_alt: imPROSE project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: pyjaspar
+  name: pyJASPAR
+  type: software
+  description: A Pythonic interface to JASPAR transcription factor motifs
+  url: https://github.com/asntech/pyjaspar
+  repo: https://github.com/asntech/pyjaspar
+  image: assets/migrated/images/tools/pyjaspar.png
+  image_alt: pyJASPAR project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml
+- id: intervene-shinyapp
+  name: Intervene ShinyApp
+  type: software
+  description: A tool for intersection and visualization of multiple gene or genomic region sets
+  url: https://github.com/asntech/intervene/
+  repo: https://github.com/asntech/intervene-shiny
+  image: assets/migrated/images/tools/intervene-shiny.png
+  image_alt: Intervene ShinyApp project illustration
+  featured: false
+  projects: []
+  source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/tools.yaml

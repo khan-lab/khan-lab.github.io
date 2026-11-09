@@ -1,0 +1,41 @@
+<script>
+(() => {
+  const section = document.querySelector('.home-news');
+  if (!section) return;
+  const previews = Array.from(section.querySelectorAll('[data-news-preview]'), text => ({
+    text, paragraph: text.closest('p'), full: text.textContent
+  }));
+  function fit({text, paragraph, full}) {
+    text.textContent = full;
+    const limit = 2 * parseFloat(getComputedStyle(paragraph).lineHeight) + 1;
+    if (paragraph.getBoundingClientRect().height <= limit) return;
+    const characters = Array.from(full);
+    let low = 0, high = characters.length;
+    // Measure the real inline paragraph, including the always-visible More link.
+    while (low < high) {
+      const middle = Math.ceil((low + high) / 2);
+      text.textContent = characters.slice(0, middle).join('').trimEnd() + '…';
+      if (paragraph.getBoundingClientRect().height <= limit) low = middle;
+      else high = middle - 1;
+    }
+    let excerpt = characters.slice(0, low).join('').trimEnd();
+    const boundary = excerpt.lastIndexOf(' ');
+    if (boundary > excerpt.length * .7) excerpt = excerpt.slice(0, boundary);
+    text.textContent = excerpt.trimEnd() + '…';
+  }
+  let pending;
+  function refresh() {
+    cancelAnimationFrame(pending);
+    pending = requestAnimationFrame(() => previews.forEach(fit));
+  }
+  previews.forEach(fit);
+  if (document.fonts) document.fonts.ready.then(refresh);
+  if ('ResizeObserver' in window) {
+    let width = section.getBoundingClientRect().width;
+    new ResizeObserver(entries => {
+      const next = entries[0].contentRect.width;
+      if (Math.abs(next - width) > .5) { width = next; refresh(); }
+    }).observe(section);
+  } else window.addEventListener('resize', refresh);
+})();
+</script>

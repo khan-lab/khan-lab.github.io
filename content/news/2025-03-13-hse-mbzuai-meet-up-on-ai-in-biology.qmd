@@ -1,0 +1,16 @@
+---
+id: 2025-03-13-hse-mbzuai-meet-up-on-ai-in-biology
+title: HSE & MBZUAI meet-up on AI in Biology
+date: 2025-03-13
+categories:
+- lab-news
+description: Lab presented on the AI-driven integration of diverse multi-omics data
+  for advancing precision medicine at the HSE University and MBZUAI collaborative
+  event on AI in Biology.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://cs.hse.ru/onlinemeetup
+---
+
+Lab presented on the <i>AI-driven integration of diverse multi-omics data for advancing precision medicine</i> at the HSE University and MBZUAI collaborative event on <i>AI in Biology</i>.
+
+[Further details](https://cs.hse.ru/onlinemeetup)

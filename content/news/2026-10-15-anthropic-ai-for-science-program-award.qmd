@@ -1,0 +1,11 @@
+---
+id: 2026-10-15-anthropic-ai-for-science-program-award
+title: Anthropic AI for Science Program award
+date: '2026-10-15'
+categories:
+- lab-news
+- awards
+description: CBCRG has received an award through Anthropic’s AI for Science Program.
+---
+
+We are delighted to have received an award through Anthropic’s AI for Science Program.

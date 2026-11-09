@@ -1,0 +1,6 @@
+[template]
+name = "researchlabfolio"
+version = "0.2.0"
+content_schema = 1
+cli_min_version = "0.3.0"
+quarto_version = "1.11.9"

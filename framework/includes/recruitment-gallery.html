@@ -1,0 +1,33 @@
+<script>
+(() => {
+  document.querySelectorAll('[data-recruitment-gallery]').forEach(gallery => {
+    const slides = Array.from(gallery.querySelectorAll('.recruitment-slide'));
+    const controls = gallery.querySelector('.recruitment-gallery-controls');
+    if (slides.length < 2 || !controls) return;
+    let current = 0;
+    const status = controls.querySelector('[role="status"]');
+    function show(index) {
+      current = (index + slides.length) % slides.length;
+      slides.forEach((slide, i) => {
+        slide.setAttribute('aria-hidden', String(i !== current));
+        slide.setAttribute('role', 'group');
+        slide.setAttribute('aria-roledescription', 'slide');
+        slide.setAttribute('aria-label', `${i + 1} of ${slides.length}`);
+      });
+      status.textContent = `Photo ${current + 1} of ${slides.length}`;
+    }
+    controls.querySelector('[data-gallery-previous]').addEventListener('click', () => show(current - 1));
+    controls.querySelector('[data-gallery-next]').addEventListener('click', () => show(current + 1));
+    controls.addEventListener('keydown', event => {
+      const targets = {ArrowLeft: current - 1, ArrowRight: current + 1, Home: 0, End: slides.length - 1};
+      if (!(event.key in targets)) return;
+      event.preventDefault();
+      show(targets[event.key]);
+    });
+    gallery.setAttribute('aria-roledescription', 'carousel');
+    gallery.classList.add('recruitment-gallery-enhanced');
+    show(0);
+    controls.hidden = false;
+  });
+})();
+</script>

@@ -1,0 +1,15 @@
+---
+id: 2026-09-07-lina-utenova-ml-for-healthcare-summer-school-2026
+title: Lina selected for CCAIM Summer School
+date: '2026-09-07'
+categories:
+- lab-news
+- achievements
+description: Lina was selected for Cambridge’s ML for Healthcare Summer School 2026 with 
+  full funding, as one of 30 students chosen from around 1,000 applicants. She also presented her 
+  work in a short talk.
+people:
+- lina-utenova
+---
+
+Congratulations to Lina on being selected for Cambridge’s ML for Healthcare Summer School 2026 with full funding! Lina was one of 30 students chosen from around 1,000 applicants and also presented her work in a short talk.

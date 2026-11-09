@@ -1,0 +1,14 @@
+---
+title: Blog
+include-after-body: ../framework/includes/blog.html
+format:
+  html:
+    include-in-header:
+      text: '<link rel="alternate" type="application/rss+xml" title="Blog RSS" href="blog.xml">'
+---
+
+Ideasand perspectives from our lab members. Some old blog posts are imported from the old website. 
+
+{{< include ../_generated/blog.md >}}
+
+[Subscribe via RSS](blog.xml)

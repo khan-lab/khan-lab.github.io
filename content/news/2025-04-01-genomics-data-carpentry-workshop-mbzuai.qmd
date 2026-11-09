@@ -1,0 +1,16 @@
+---
+id: 2025-04-01-genomics-data-carpentry-workshop-mbzuai
+title: Genomics Data Carpentry Workshop @ MBZUAI
+date: 2025-04-01
+categories:
+- lab-news
+description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop
+  in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place
+  today!
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://khanlab.bio/2025-04-28-mbzuai-genomics/
+---
+
+We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today!
+
+[Further details](https://khanlab.bio/2025-04-28-mbzuai-genomics/)

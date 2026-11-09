@@ -1,0 +1,16 @@
+---
+id: 2025-11-12-featured-talk-at-ai-innovation-day-mbzuai
+title: Featured talk at AI Innovation Day, MBZUAI
+date: 2025-11-12
+categories:
+- lab-news
+description: Featured talk on Computational Genomics at Scale - Open infrastructure
+  and diverse genomes for equitable genomic medicine at AI Innovation Day - Shaping
+  the Future of Healthcare Together, MBZUAI, Abu Dhabi.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://staticcdn.mbzuai.ac.ae/mbzuaiwpprd01/2025/11/Final-Lineup-of-Speakers-AI-ID-Healthcare-MBZUAI.pdf
+---
+
+Featured talk on <i>Computational Genomics at Scale - Open infrastructure and diverse genomes for equitable genomic medicine</i> at AI Innovation Day - Shaping the Future of Healthcare Together, MBZUAI, Abu Dhabi.
+
+[Further details](https://staticcdn.mbzuai.ac.ae/mbzuaiwpprd01/2025/11/Final-Lineup-of-Speakers-AI-ID-Healthcare-MBZUAI.pdf)

@@ -1,0 +1,10 @@
+<script>
+(() => {
+  // Optional enhancement: citations and paper links remain usable without it.
+  if (!document.querySelector('.altmetric-embed')) return;
+  const script = document.createElement('script');
+  script.src = 'https://embed.altmetric.com/assets/embed.js';
+  script.async = true;
+  document.body.appendChild(script);
+})();
+</script>

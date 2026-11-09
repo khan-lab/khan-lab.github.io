@@ -1,0 +1,15 @@
+---
+id: 2025-05-08-genomics-workshop-was-a-big-success
+title: Genomics Workshop was a big success!
+date: 2025-05-08
+categories:
+- lab-news
+description: The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants,
+  earning a 93% promoter score and outstanding feedback.
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+url: https://mbzuai.ac.ae/news/building-genomics-research-skills-with-data-carpentry/
+---
+
+The first Genomics Data Carpentry workshop at MBZUAI trained 35 participants, earning a 93% promoter score and outstanding feedback.
+
+[Further details](https://mbzuai.ac.ae/news/building-genomics-research-skills-with-data-carpentry/)

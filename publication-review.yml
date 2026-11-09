@@ -1,0 +1,15 @@
+reviewed: '2026-11-01'
+public_bibliography: https://khanlab.bio/publications/
+source_url: https://raw.githubusercontent.com/khan-lab/khan-lab.github.io/main/_data/citations.yaml
+source_sha256: 99b33edea16dd68b4920a023bd7a4fe5b310cdd9a489b4c77e9085367cdc4e50
+scope: Complete bibliography published by the lab, including PI prior work and preprints;
+  not all records are output of the present lab.
+source_records: 43
+matched_cached_records: 43
+new_source_records: 0
+additional_verified_manual_records: 1
+displayed_records: 44
+selection: User requested the complete CBCRG bibliography on 2026-11-01; explicit
+  include rules retain future discovery review.
+additional_record_doi: 10.1186/s13058-025-01966-2
+additional_record_evidence: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml

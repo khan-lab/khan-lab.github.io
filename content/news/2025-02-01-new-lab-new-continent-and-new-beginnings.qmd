@@ -1,0 +1,12 @@
+---
+id: 2025-02-01-new-lab-new-continent-and-new-beginnings
+title: New Lab, new Continent, and new beginnings
+date: 2025-02-01
+categories:
+- lab-news
+description: Excited to start the Computational Biology and Cancer Regulatory Genomics
+  lab at the MBZUAI, Computational Biology department. Join us!
+source_url: https://github.com/khan-lab/khan-lab.github.io/blob/62d3473e5aed3ea88c25e2d343b6c7c366a878ea/_data/news.yaml
+---
+
+Excited to start the Computational Biology and Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department. <a href="../../pages/join.html">Join us</a>!
