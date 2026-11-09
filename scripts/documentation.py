@@ -14,7 +14,7 @@ from prepare import prepare
 from run import redirects
 from audit import audit
 from routes import finalize_main_page_urls
-from build_runtime import workspace, environment as render_environment
+from build_runtime import workspace, environment as render_environment, quarto_command
 from cli_bridge import invocation
 
 PUBLIC_URL = 'https://khan-lab.github.io/researchlabfolio/'
@@ -62,7 +62,8 @@ def lab_build(source, key, url, docs_url, palette=None):
         cfg['branding']['colors'] = dict(zip(('primary', 'secondary'), PALETTES[palette]))
     (authored / 'lab.yml').write_text(yaml.safe_dump(cfg, sort_keys=False, allow_unicode=True))
     stage = prepare(authored, workspace / 'source')
-    subprocess.run(['quarto', 'render', str(stage)], env=environment(), check=True)
+    env = environment()
+    subprocess.run(quarto_command('render', stage, env=env), env=env, check=True)
     output = stage / '_site'; (output / '.nojekyll').touch()
     finalize_main_page_urls(output, url)
     redirects(authored, output)
@@ -97,7 +98,8 @@ def stage_docs(url):
 
 def render_portal(url, built):
     docs = stage_docs(url)
-    subprocess.run(['quarto', 'render', str(docs)], env=environment(), check=True)
+    env = environment()
+    subprocess.run(quarto_command('render', docs, env=env), env=env, check=True)
     output = docs / '_site'
     for destination, source in built:
         shutil.copytree(source, output / destination, dirs_exist_ok=True)

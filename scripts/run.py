@@ -13,7 +13,7 @@ from urllib.parse import urlsplit
 from content import ROOT, load, validate, ContentError
 from prepare import prepare
 from routes import main_page_url, blog_page_url, finalize_main_page_urls
-from build_runtime import workspace, environment
+from build_runtime import workspace, environment, quarto_command
 
 
 def fingerprint(root):
@@ -64,7 +64,7 @@ def preview(root, stage, env, port):
     state = fingerprint(root)
     # The driver watches authored inputs and restarts the complete process.
     # Quarto must not also re-render the generated tree during regeneration.
-    command = ['quarto', 'preview', str(stage), '--no-browser', '--no-watch-inputs', '--port', str(port)]
+    command = quarto_command('preview', stage, '--no-browser', '--no-watch-inputs', '--port', port, env=env)
     child = start_preview(command, env)
     try:
         while child.poll() is None:
@@ -147,7 +147,7 @@ def main():
     if args.task == 'preview':
         preview(root, stage, env, args.port)
         return
-    subprocess.run(['quarto', 'render', str(stage)], env=env, check=True)
+    subprocess.run(quarto_command('render', stage, env=env), env=env, check=True)
     rendered = stage / '_site'
     finalize_main_page_urls(rendered, load(stage / '_quarto.yml')['website']['site-url'])
     (rendered / '.nojekyll').touch()
